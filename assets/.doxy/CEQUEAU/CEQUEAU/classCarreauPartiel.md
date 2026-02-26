@@ -72,7 +72,7 @@ _Definition d'un carreau partiel._ [More...](#detailed-description)
 |  int | [**idCarreauPartielAval**](#function-idcarreaupartielaval) () const<br>_Getter Id du carreau partiel dans lequel il se jette._  |
 |  const int \* | [**idCarreauxPartielsAmont**](#function-idcarreauxpartielsamont) () <br>_Getter Liste des id des cinq carreaux affluents possible._  |
 |  float | [**indiceFoliaire**](#function-indicefoliaire) () const<br>_Getter Indice foliaire._  |
-|  int | [**jCarreauEntier**](#function-jcarreauentier) () const<br>_Getter Ordonnï¿½e J du carreau entier auquel appartient le carreau partiel._  |
+|  int | [**jCarreauEntier**](#function-jcarreauentier) () const<br>_Getter Ordonnée J du carreau entier auquel appartient le carreau partiel._  |
 |  int | [**largeurCoursEauPrincipal**](#function-largeurcourseauprincipal) () const<br>_Getter Largeur du cours d'eau principal sur la parcelle (1/10 de metres)._  |
 |  int | [**latitude**](#function-latitude) () const<br>_Getter latitude._  |
 |  int | [**longitude**](#function-longitude) () const<br>_Getter longitude._  |
@@ -122,10 +122,7 @@ _Definition d'un carreau partiel._ [More...](#detailed-description)
 ## Detailed Description
 
 
-Definition d'un carreau partiel
-
-
-selon les donnees physiographiques PREPAREES. 
+Definition d'un carreau partiel selon les donnees physiographiques PREPAREES. 
 
 
     
@@ -217,10 +214,7 @@ float CarreauPartiel::calculerCorrectionDebit () const
 
 
 
-Facteur de correction du debit calcule.
-
-
-= cumulPctSuperficieCPAmontCorrige / cumulPctSuperficieCPAmont 
+Facteur de correction du debit calcule. = cumulPctSuperficieCPAmontCorrige / cumulPctSuperficieCPAmont 
 
 
         
@@ -281,10 +275,7 @@ int CarreauPartiel::cumulPctSuperficieCPAmont () const
 
 
 
-Getter Cumul des pourcentages de superficie des carreaux partiels en
-
-
-amont, calcule ï¿½ la sortie du carreau partiel considere. 
+Getter Cumul des pourcentages de superficie des carreaux partiels en amont, calcule à la sortie du carreau partiel considéré. 
 
 
         
@@ -301,10 +292,7 @@ int CarreauPartiel::cumulPctSuperficieForetAmont () const
 
 
 
-Getter Cumul des pourcentages de superficie de foret en amont, calcule
-
-
-a la sortie du carreau partiel considere. 
+Getter Cumul des pourcentages de superficie de foret en amont, calcule a la sortie du carreau partiel considere. 
 
 
         
@@ -321,10 +309,7 @@ int CarreauPartiel::cumulPctSuperficieLacsAmont () const
 
 
 
-Getter Cumul des pourcentages de superficie des lacs en amont, calcule
-
-
-a la sortie du carreau partiel considere. 
+Getter Cumul des pourcentages de superficie des lacs en amont, calcule a la sortie du carreau partiel considere. 
 
 
         
@@ -341,10 +326,7 @@ int CarreauPartiel::cumulPctSuperficieMaraisAmont () const
 
 
 
-Getter Cumul des pourcentages de superficie des marais en amont, calcule
-
-
-a la sortie du carreau partiel considere. 
+Getter Cumul des pourcentages de superficie des marais en amont, calcule a la sortie du carreau partiel considere. 
 
 
         
@@ -481,7 +463,7 @@ float CarreauPartiel::indiceFoliaire () const
 
 ### function jCarreauEntier 
 
-_Getter Ordonnï¿½e J du carreau entier auquel appartient le carreau partiel._ 
+_Getter Ordonnée J du carreau entier auquel appartient le carreau partiel._ 
 ```C++
 int CarreauPartiel::jCarreauEntier () const
 ```

@@ -49,6 +49,8 @@ _Classe de donnees pour l'assimilation des etats d'un carreau entier._ [More...]
 |  TypeAssim | [**niveauEauSolType**](#variable-niveaueausoltype)  <br> |
 |  float | [**production**](#variable-production)  <br> |
 |  TypeAssim | [**productionType**](#variable-productiontype)  <br> |
+|  float | [**ruissellement**](#variable-ruissellement)  <br> |
+|  TypeAssim | [**ruissellementType**](#variable-ruissellementtype)  <br> |
 
 
 
@@ -265,6 +267,32 @@ float EtatCarreauEntierAssim::production[2];
 
 ```C++
 TypeAssim EtatCarreauEntierAssim::productionType;
+```
+
+
+
+
+<hr>
+
+
+
+### variable ruissellement 
+
+```C++
+float EtatCarreauEntierAssim::ruissellement[2];
+```
+
+
+
+
+<hr>
+
+
+
+### variable ruissellementType 
+
+```C++
+TypeAssim EtatCarreauEntierAssim::ruissellementType;
 ```
 
 

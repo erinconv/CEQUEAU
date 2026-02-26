@@ -128,13 +128,7 @@ std::map<int, int> ParamFacultatifs::lacs;
 
 
 
-Permettent de tenir compte, pour le calcul des coefficients de transfert,
-
-
-des lacs chevauchant plusieurs carreaux partiels, ou encore d'exclure du carreau
-
-
-partiel les lacs non situes sur le reseau d'ï¿½coulement 
+Permettent de tenir compte, pour le calcul des coefficients de transfert, des lacs chevauchant plusieurs carreaux partiels, ou encore d'exclure du carreau partiel les lacs non situes sur le reseau d'écoulement 
 
 
         

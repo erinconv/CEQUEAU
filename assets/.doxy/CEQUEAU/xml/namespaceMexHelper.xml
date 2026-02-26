@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="259" column="18" bodyfile="src/MexHelper.hpp" bodystart="259" bodyend="279" declfile="src/MexHelper.hpp" declline="81" declcolumn="11"/>
+        <location file="src/MexHelper.hpp" line="130" column="18" bodyfile="src/MexHelper.hpp" bodystart="130" bodyend="140" declfile="src/MexHelper.hpp" declline="41" declcolumn="11"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a7221156bf6f52fe7b756319dd0208031" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>bool</type>
@@ -56,7 +56,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="285" column="15" bodyfile="src/MexHelper.hpp" bodystart="285" bodyend="301" declfile="src/MexHelper.hpp" declline="85" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="143" column="15" bodyfile="src/MexHelper.hpp" bodystart="143" bodyend="151" declfile="src/MexHelper.hpp" declline="43" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1adf36aeeff6e44bc79144e107774ef7b3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>double *</type>
@@ -79,7 +79,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="307" column="18" bodyfile="src/MexHelper.hpp" bodystart="307" bodyend="331" declfile="src/MexHelper.hpp" declline="89" declcolumn="11"/>
+        <location file="src/MexHelper.hpp" line="154" column="18" bodyfile="src/MexHelper.hpp" bodystart="154" bodyend="166" declfile="src/MexHelper.hpp" declline="45" declcolumn="11"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1ab2b40308ac13857f8f91df9231b83482" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <templateparamlist>
@@ -107,7 +107,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="343" column="16" bodyfile="src/MexHelper.hpp" bodystart="343" bodyend="367" declfile="src/MexHelper.hpp" declline="95" declcolumn="9"/>
+        <location file="src/MexHelper.hpp" line="172" column="16" bodyfile="src/MexHelper.hpp" bodystart="172" bodyend="184" declfile="src/MexHelper.hpp" declline="48" declcolumn="9"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a65e14e8acaeddc18291647c50176f659" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <templateparamlist>
@@ -144,7 +144,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="375" column="15" bodyfile="src/MexHelper.hpp" bodystart="375" bodyend="397" declfile="src/MexHelper.hpp" declline="101" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="188" column="15" bodyfile="src/MexHelper.hpp" bodystart="188" bodyend="199" declfile="src/MexHelper.hpp" declline="51" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1ae918c5f60ebfe9a4d47e9c4b53c35121" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <templateparamlist>
@@ -181,7 +181,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="405" column="15" bodyfile="src/MexHelper.hpp" bodystart="405" bodyend="427" declfile="src/MexHelper.hpp" declline="107" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="203" column="15" bodyfile="src/MexHelper.hpp" bodystart="203" bodyend="214" declfile="src/MexHelper.hpp" declline="54" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1aeb71d68599ff74b3188c0939abc231a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <templateparamlist>
@@ -221,7 +221,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="113" column="8" declfile="src/MexHelper.hpp" declline="113" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="57" column="8" declfile="src/MexHelper.hpp" declline="57" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1acd1cb18b4f2251abf265e3ac145a8250" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -257,7 +257,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="455" column="15" bodyfile="src/MexHelper.hpp" bodystart="455" bodyend="483" declfile="src/MexHelper.hpp" declline="117" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="228" column="15" bodyfile="src/MexHelper.hpp" bodystart="228" bodyend="242" declfile="src/MexHelper.hpp" declline="59" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a06902af3e72a1efce067ff8b46096ab6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -289,7 +289,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="489" column="15" bodyfile="src/MexHelper.hpp" bodystart="489" bodyend="519" declfile="src/MexHelper.hpp" declline="121" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="245" column="15" bodyfile="src/MexHelper.hpp" bodystart="245" bodyend="260" declfile="src/MexHelper.hpp" declline="61" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a68d21c735bb3d8394cf5b7ba4caaa083" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -321,7 +321,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="525" column="15" bodyfile="src/MexHelper.hpp" bodystart="525" bodyend="551" declfile="src/MexHelper.hpp" declline="125" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="263" column="15" bodyfile="src/MexHelper.hpp" bodystart="263" bodyend="276" declfile="src/MexHelper.hpp" declline="63" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1ad59385251691f7e3bce4a4735702b4d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -353,7 +353,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="557" column="15" bodyfile="src/MexHelper.hpp" bodystart="557" bodyend="577" declfile="src/MexHelper.hpp" declline="129" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="279" column="15" bodyfile="src/MexHelper.hpp" bodystart="279" bodyend="289" declfile="src/MexHelper.hpp" declline="65" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1ac34ef5d7eff9358d6c39244341e7d06e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -385,7 +385,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="583" column="15" bodyfile="src/MexHelper.hpp" bodystart="583" bodyend="625" declfile="src/MexHelper.hpp" declline="133" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="292" column="15" bodyfile="src/MexHelper.hpp" bodystart="292" bodyend="313" declfile="src/MexHelper.hpp" declline="67" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1aaca95462c4d8035be56f492e7cab8a5b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -417,7 +417,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="631" column="15" bodyfile="src/MexHelper.hpp" bodystart="631" bodyend="677" declfile="src/MexHelper.hpp" declline="137" declcolumn="8"/>
+        <location file="src/MexHelper.hpp" line="316" column="15" bodyfile="src/MexHelper.hpp" bodystart="316" bodyend="339" declfile="src/MexHelper.hpp" declline="69" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a74b1058c6fba81c6cf9c6a7e0a9a4d9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="classDateChrono" kindref="compound">DateChrono</ref></type>
@@ -436,7 +436,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="731" column="21" bodyfile="src/MexHelper.hpp" bodystart="731" bodyend="737" declfile="src/MexHelper.hpp" declline="159" declcolumn="14"/>
+        <location file="src/MexHelper.hpp" line="366" column="21" bodyfile="src/MexHelper.hpp" bodystart="366" bodyend="369" declfile="src/MexHelper.hpp" declline="80" declcolumn="14"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a09570712884961d413f788ef88394880" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -455,7 +455,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="743" column="17" bodyfile="src/MexHelper.hpp" bodystart="743" bodyend="751" declfile="src/MexHelper.hpp" declline="163" declcolumn="10"/>
+        <location file="src/MexHelper.hpp" line="372" column="17" bodyfile="src/MexHelper.hpp" bodystart="372" bodyend="376" declfile="src/MexHelper.hpp" declline="82" declcolumn="10"/>
       </memberdef>
       <memberdef kind="function" id="namespaceMexHelper_1a149203869ae0003c68dbd574432cbf3b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <templateparamlist>
@@ -494,7 +494,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="435" column="15" bodyfile="src/MexHelper.hpp" bodystart="435" bodyend="449"/>
+        <location file="src/MexHelper.hpp" line="218" column="15" bodyfile="src/MexHelper.hpp" bodystart="218" bodyend="225"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -502,6 +502,6 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/MexHelper.hpp" line="67" column="1"/>
+    <location file="src/MexHelper.hpp" line="34" column="1"/>
   </compounddef>
 </doxygen>

@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="125" column="15" bodyfile="src/Barrage.h" bodystart="125" bodyend="-1"/>
+        <location file="src/Barrage.h" line="63" column="15" bodyfile="src/Barrage.h" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1acf8cc70c0965c66630a614ef4e8d25c9" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -32,7 +32,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="129" column="7" bodyfile="src/Barrage.h" bodystart="129" bodyend="-1"/>
+        <location file="src/Barrage.h" line="65" column="7" bodyfile="src/Barrage.h" bodystart="65" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1a98bf8209bbdfe481fe6af26039f6228e" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -47,7 +47,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="133" column="7" bodyfile="src/Barrage.h" bodystart="133" bodyend="-1"/>
+        <location file="src/Barrage.h" line="67" column="7" bodyfile="src/Barrage.h" bodystart="67" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1af08837f6c20f478b8f77ead7cf8e962c" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -62,7 +62,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="137" column="9" bodyfile="src/Barrage.h" bodystart="137" bodyend="-1"/>
+        <location file="src/Barrage.h" line="69" column="9" bodyfile="src/Barrage.h" bodystart="69" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1a16968bccd44bb2c3d4006bda83868551" prot="private" static="no" mutable="no">
         <type>ParamEquation</type>
@@ -73,12 +73,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Contient les parametres de la relation entre le niveau dï¿½eau dans le</para>
-<para>reservoir (m) et le volume emmagasinï¿½ (millions de m3). </para>
+<para>Contient les parametres de la relation entre le niveau d&apos;eau dans le reservoir (m) et le volume emmagasiné (millions de m3). </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="149" column="17" bodyfile="src/Barrage.h" bodystart="149" bodyend="-1"/>
+        <location file="src/Barrage.h" line="75" column="17" bodyfile="src/Barrage.h" bodystart="75" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1abb25de1246a9492dde14c96340c93d00" prot="private" static="no" mutable="no">
         <type>ParamEquation</type>
@@ -89,12 +88,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Contient les parametres de la relation entre le debit (m3/s) a evacuer du</para>
-<para>barrage et le volume emmagasine (millions de m3). </para>
+<para>Contient les parametres de la relation entre le debit (m3/s) a evacuer du barrage et le volume emmagasine (millions de m3). </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="161" column="17" bodyfile="src/Barrage.h" bodystart="161" bodyend="-1"/>
+        <location file="src/Barrage.h" line="81" column="17" bodyfile="src/Barrage.h" bodystart="81" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1a1a2fab82537f7340f00975572638b1f3" prot="private" static="no" mutable="no">
         <type>ParamEquation</type>
@@ -105,12 +103,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Contient les parametres de la relation entre le le volume emmagasinï¿½ (millions de m3),</para>
-<para>et la hauteur d&apos;eau dans le reservoir (m). </para>
+<para>Contient les parametres de la relation entre le le volume emmagasiné (millions de m3), et la hauteur d&apos;eau dans le reservoir (m). </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="173" column="17" bodyfile="src/Barrage.h" bodystart="173" bodyend="-1"/>
+        <location file="src/Barrage.h" line="87" column="17" bodyfile="src/Barrage.h" bodystart="87" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1ac12148e4a6f285534f1f5c76b32c9800" prot="private" static="no" mutable="no">
         <type>std::vector&lt; ParamEquation &gt;</type>
@@ -121,14 +118,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Contient les parametres de la relation entre le debit (m3/s) a evacuer du</para>
-<para>barrage et le volume emmagasine (millions de m3).</para>
-<para>X fois le nombre de relations necessaires pour calculer les evacuations</para>
-<para>du reservoir vers au autre carreau ï¿½ l&apos;interieur du bassin versant. </para>
+<para>Contient les parametres de la relation entre le debit (m3/s) a evacuer du barrage et le volume emmagasine (millions de m3). X fois le nombre de relations necessaires pour calculer les evacuations du reservoir vers au autre carreau à l&apos;interieur du bassin versant. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="189" column="15" bodyfile="src/Barrage.h" bodystart="189" bodyend="-1"/>
+        <location file="src/Barrage.h" line="95" column="15" bodyfile="src/Barrage.h" bodystart="95" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1a684ef843bce1a8faa56cf19498aa03e3" prot="private" static="no" mutable="no">
         <type>std::vector&lt; <ref refid="classInfoEvacuationExt" kindref="compound">InfoEvacuationExt</ref> &gt;</type>
@@ -139,15 +133,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Contient les parametres de la relation entre le debit (m3/s) a evacuer du</para>
-<para>barrage et le volume emmagasine (millions de m3).</para>
-<para>X fois le nombre de relations necessaires pour calculer les evacuations</para>
-<para>du reservoir vers un carreau a l&apos;exterieur du bassin versant. Chaque relation</para>
-<para>possede un intervalle de date d&apos;application. </para>
+<para>Contient les parametres de la relation entre le debit (m3/s) a evacuer du barrage et le volume emmagasine (millions de m3). X fois le nombre de relations necessaires pour calculer les evacuations du reservoir vers un carreau a l&apos;exterieur du bassin versant. Chaque relation possede un intervalle de date d&apos;application. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="207" column="15" bodyfile="src/Barrage.h" bodystart="207" bodyend="-1"/>
+        <location file="src/Barrage.h" line="104" column="15" bodyfile="src/Barrage.h" bodystart="104" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classBarrage_1aa600705f8b74d6e300914e4a3868e562" prot="private" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -162,7 +152,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="213" column="15" bodyfile="src/Barrage.h" bodystart="213" bodyend="-1"/>
+        <location file="src/Barrage.h" line="107" column="15" bodyfile="src/Barrage.h" bodystart="107" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -199,7 +189,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="49" column="3" bodyfile="src/Barrage.cpp" bodystart="17" bodyend="23"/>
+        <location file="src/Barrage.h" line="25" column="3" bodyfile="src/Barrage.cpp" bodystart="17" bodyend="23"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1accd9731b318cadf02097fa98a6630091" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -242,7 +232,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="53" column="3" bodyfile="src/Barrage.cpp" bodystart="26" bodyend="33"/>
+        <location file="src/Barrage.h" line="27" column="3" bodyfile="src/Barrage.cpp" bodystart="26" bodyend="33"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a4ee52d1b0f978399f0ec640d029a5909" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -265,7 +255,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="59" column="3" bodyfile="src/Barrage.cpp" bodystart="36" bodyend="43"/>
+        <location file="src/Barrage.h" line="30" column="3" bodyfile="src/Barrage.cpp" bodystart="36" bodyend="43"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a06622722113a045cae8170474d8f0ffa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -279,7 +269,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="63" column="3" bodyfile="src/Barrage.cpp" bodystart="46" bodyend="49"/>
+        <location file="src/Barrage.h" line="32" column="3" bodyfile="src/Barrage.cpp" bodystart="46" bodyend="49"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a3201dc82d3f51d78ae6552e895273ea9" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -294,7 +284,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="69" column="7" bodyfile="src/Barrage.cpp" bodystart="52" bodyend="56"/>
+        <location file="src/Barrage.h" line="35" column="7" bodyfile="src/Barrage.cpp" bodystart="52" bodyend="56"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a88e9bc81d9cde7ba923b92e2fe7cce25" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -309,7 +299,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="73" column="7" bodyfile="src/Barrage.cpp" bodystart="59" bodyend="63"/>
+        <location file="src/Barrage.h" line="37" column="7" bodyfile="src/Barrage.cpp" bodystart="59" bodyend="63"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a570cf16b45cd85b9da38c8d40bcc915e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>TypeBarrage</type>
@@ -324,7 +314,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="77" column="15" bodyfile="src/Barrage.cpp" bodystart="66" bodyend="70"/>
+        <location file="src/Barrage.h" line="39" column="15" bodyfile="src/Barrage.cpp" bodystart="66" bodyend="70"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a1332546425490cfc78b47d9069558438" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -339,7 +329,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="81" column="9" bodyfile="src/Barrage.cpp" bodystart="73" bodyend="77"/>
+        <location file="src/Barrage.h" line="41" column="9" bodyfile="src/Barrage.cpp" bodystart="73" bodyend="77"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1ac5d8dde211c37e6784f2d6b7718ae9f0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -358,7 +348,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="85" column="8" bodyfile="src/Barrage.cpp" bodystart="80" bodyend="84"/>
+        <location file="src/Barrage.h" line="43" column="8" bodyfile="src/Barrage.cpp" bodystart="80" bodyend="84"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1ad118ee017e50d22e613b6eab4366cedb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const std::vector&lt; float &gt; &amp;</type>
@@ -372,7 +362,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="89" column="21" bodyfile="src/Barrage.cpp" bodystart="87" bodyend="91"/>
+        <location file="src/Barrage.h" line="45" column="21" bodyfile="src/Barrage.cpp" bodystart="87" bodyend="91"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1ac4858369132c756e47921318eec3b4e4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -387,7 +377,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="95" column="9" bodyfile="src/Barrage.cpp" bodystart="94" bodyend="98"/>
+        <location file="src/Barrage.h" line="48" column="9" bodyfile="src/Barrage.cpp" bodystart="94" bodyend="98"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1aa3161f5abd9eb1d516c12a8287fd115b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -406,7 +396,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="99" column="9" bodyfile="src/Barrage.cpp" bodystart="101" bodyend="118"/>
+        <location file="src/Barrage.h" line="50" column="9" bodyfile="src/Barrage.cpp" bodystart="101" bodyend="118"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a56ec30873a29ae83b0b5acdc37dfac08" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -421,7 +411,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="103" column="9" bodyfile="src/Barrage.cpp" bodystart="120" bodyend="124"/>
+        <location file="src/Barrage.h" line="52" column="9" bodyfile="src/Barrage.cpp" bodystart="120" bodyend="124"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1abde7cf146ae35ec9d14bd91ab81ee425" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -440,7 +430,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="107" column="9" bodyfile="src/Barrage.cpp" bodystart="127" bodyend="131"/>
+        <location file="src/Barrage.h" line="54" column="9" bodyfile="src/Barrage.cpp" bodystart="127" bodyend="131"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1abc192eff6885d9604134551cf9b04025" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -463,7 +453,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="111" column="9" bodyfile="src/Barrage.cpp" bodystart="134" bodyend="147"/>
+        <location file="src/Barrage.h" line="56" column="9" bodyfile="src/Barrage.cpp" bodystart="134" bodyend="147"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1afeeafc1f2ebebeda34fdaedf8984955f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -498,7 +488,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="115" column="9" bodyfile="src/Barrage.cpp" bodystart="150" bodyend="191"/>
+        <location file="src/Barrage.h" line="58" column="9" bodyfile="src/Barrage.cpp" bodystart="150" bodyend="191"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="private-func">
@@ -527,7 +517,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="219" column="9" bodyfile="src/Barrage.cpp" bodystart="212" bodyend="225"/>
+        <location file="src/Barrage.h" line="110" column="9" bodyfile="src/Barrage.cpp" bodystart="212" bodyend="225"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a529cc2fcc169f472d38969e0b2e49b1e" prot="private" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -554,7 +544,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="223" column="9" bodyfile="src/Barrage.cpp" bodystart="227" bodyend="356"/>
+        <location file="src/Barrage.h" line="112" column="9" bodyfile="src/Barrage.cpp" bodystart="227" bodyend="356"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a8060b5bc04ddab624094caea0d0b5239" prot="private" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -584,7 +574,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="225" column="9" bodyfile="src/Barrage.cpp" bodystart="358" bodyend="365"/>
+        <location file="src/Barrage.h" line="113" column="9" bodyfile="src/Barrage.cpp" bodystart="358" bodyend="365"/>
       </memberdef>
       <memberdef kind="function" id="classBarrage_1a733a382c41d85fee89ae9df6ddb5712b" prot="private" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const ParamEquation *const</type>
@@ -603,7 +593,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="229" column="29" bodyfile="src/Barrage.cpp" bodystart="194" bodyend="209"/>
+        <location file="src/Barrage.h" line="115" column="29" bodyfile="src/Barrage.cpp" bodystart="194" bodyend="209"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -611,7 +601,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/Barrage.h" line="41" column="1" bodyfile="src/Barrage.h" bodystart="43" bodyend="231"/>
+    <location file="src/Barrage.h" line="21" column="1" bodyfile="src/Barrage.h" bodystart="22" bodyend="116"/>
     <listofallmembers>
       <member refid="classBarrage_1a3be420dc0b575b4206665e791ae1a1a2" prot="public" virt="non-virtual"><scope>Barrage</scope><name>Barrage</name></member>
       <member refid="classBarrage_1accd9731b318cadf02097fa98a6630091" prot="public" virt="non-virtual"><scope>Barrage</scope><name>Barrage</name></member>

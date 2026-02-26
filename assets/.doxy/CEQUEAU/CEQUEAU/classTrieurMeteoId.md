@@ -52,7 +52,7 @@ _Classe utilitaire pour le tri des donnees meteo._
 
 | Type | Name |
 | ---: | :--- |
-|  bool | [**operator()**](#function-operator()) (const MeteoPtr meteo1, const MeteoPtr meteor2) <br> |
+|  bool | [**operator()**](#function-operator) (const MeteoPtr meteo1, const MeteoPtr meteor2) <br> |
 
 
 

@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="459" column="15" bodyfile="src/Parametres.h" bodystart="459" bodyend="-1"/>
+        <location file="src/Parametres.h" line="230" column="15" bodyfile="src/Parametres.h" bodystart="230" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1ab619e105bf96d56520054c8700952444" prot="private" static="no" mutable="no">
         <type><ref refid="classDateChrono" kindref="compound">DateChrono</ref></type>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="461" column="15" bodyfile="src/Parametres.h" bodystart="461" bodyend="-1"/>
+        <location file="src/Parametres.h" line="231" column="15" bodyfile="src/Parametres.h" bodystart="231" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1ac68d75cb3205a8be1b943de1c759b717" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="465" column="8" bodyfile="src/Parametres.h" bodystart="465" bodyend="-1"/>
+        <location file="src/Parametres.h" line="233" column="8" bodyfile="src/Parametres.h" bodystart="233" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1aa1ee409256a32add041021ba7db8380f" prot="private" static="no" mutable="no">
         <type>std::vector&lt; bool &gt;</type>
@@ -58,7 +58,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="469" column="16" bodyfile="src/Parametres.h" bodystart="469" bodyend="-1"/>
+        <location file="src/Parametres.h" line="235" column="16" bodyfile="src/Parametres.h" bodystart="235" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1a168442cadf79823f308c7433509f62d9" prot="private" static="no" mutable="no">
         <type>std::vector&lt; bool &gt;</type>
@@ -72,7 +72,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="473" column="16" bodyfile="src/Parametres.h" bodystart="473" bodyend="-1"/>
+        <location file="src/Parametres.h" line="237" column="16" bodyfile="src/Parametres.h" bodystart="237" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1ac14b91ba0ee421d2f794486320bfe7ba" prot="private" static="no" mutable="no">
         <type><ref refid="classParamSol" kindref="compound">ParamSol</ref></type>
@@ -86,7 +86,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="475" column="15" bodyfile="src/Parametres.h" bodystart="475" bodyend="-1"/>
+        <location file="src/Parametres.h" line="238" column="15" bodyfile="src/Parametres.h" bodystart="238" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1a18e441d4879c33041a9355d986caa8ef" prot="private" static="no" mutable="no">
         <type><ref refid="classParamSolInitial" kindref="compound">ParamSolInitial</ref></type>
@@ -100,7 +100,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="477" column="20" bodyfile="src/Parametres.h" bodystart="477" bodyend="-1"/>
+        <location file="src/Parametres.h" line="239" column="20" bodyfile="src/Parametres.h" bodystart="239" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1a4541a02683a790fbe505de62e015b030" prot="private" static="no" mutable="no">
         <type><ref refid="classParamOption" kindref="compound">ParamOption</ref></type>
@@ -114,7 +114,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="479" column="16" bodyfile="src/Parametres.h" bodystart="479" bodyend="-1"/>
+        <location file="src/Parametres.h" line="240" column="16" bodyfile="src/Parametres.h" bodystart="240" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1a5190538a2a5a08a496adee2d14ca9a11" prot="private" static="no" mutable="no">
         <type><ref refid="classParamTransfert" kindref="compound">ParamTransfert</ref></type>
@@ -128,7 +128,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="481" column="19" bodyfile="src/Parametres.h" bodystart="481" bodyend="-1"/>
+        <location file="src/Parametres.h" line="241" column="19" bodyfile="src/Parametres.h" bodystart="241" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1a6a4b92d8131392808c7475c3ba4b119e" prot="private" static="no" mutable="no">
         <type><ref refid="classParamFacultatifs" kindref="compound">ParamFacultatifs</ref></type>
@@ -142,7 +142,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="483" column="21" bodyfile="src/Parametres.h" bodystart="483" bodyend="-1"/>
+        <location file="src/Parametres.h" line="242" column="21" bodyfile="src/Parametres.h" bodystart="242" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametres_1a7d0c9478e3efd7af8d98bc35c71f1358" prot="private" static="no" mutable="no">
         <type><ref refid="classParamPompage" kindref="compound">ParamPompage</ref></type>
@@ -156,7 +156,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="485" column="17" bodyfile="src/Parametres.h" bodystart="485" bodyend="-1"/>
+        <location file="src/Parametres.h" line="243" column="17" bodyfile="src/Parametres.h" bodystart="243" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -172,7 +172,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="381" column="4" bodyfile="src/Parametres.cpp" bodystart="16" bodyend="19"/>
+        <location file="src/Parametres.h" line="191" column="4" bodyfile="src/Parametres.cpp" bodystart="16" bodyend="19"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a06ddd88d12b6f58b7f21f65c8838796d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -194,7 +194,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="383" column="4" bodyfile="src/Parametres.cpp" bodystart="22" bodyend="26"/>
+        <location file="src/Parametres.h" line="192" column="4" bodyfile="src/Parametres.cpp" bodystart="22" bodyend="26"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a83068e95596ef05b4307b43b67ffc24d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -208,7 +208,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="385" column="4" bodyfile="src/Parametres.cpp" bodystart="29" bodyend="32"/>
+        <location file="src/Parametres.h" line="193" column="4" bodyfile="src/Parametres.cpp" bodystart="29" bodyend="32"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a49b3a1d050f0995d6dd05ec0fbba96a8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classDateChrono" kindref="compound">DateChrono</ref> &amp;</type>
@@ -223,7 +223,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="391" column="21" bodyfile="src/Parametres.cpp" bodystart="35" bodyend="39"/>
+        <location file="src/Parametres.h" line="196" column="21" bodyfile="src/Parametres.cpp" bodystart="35" bodyend="39"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1aef6482b90ca8e79b020c6ef03e55bc97" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classDateChrono" kindref="compound">DateChrono</ref> &amp;</type>
@@ -238,7 +238,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="395" column="21" bodyfile="src/Parametres.cpp" bodystart="42" bodyend="46"/>
+        <location file="src/Parametres.h" line="198" column="21" bodyfile="src/Parametres.cpp" bodystart="42" bodyend="46"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a7e3b670e04ac45f6a6656d8b3d70ad8a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -253,7 +253,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="399" column="8" bodyfile="src/Parametres.cpp" bodystart="49" bodyend="53"/>
+        <location file="src/Parametres.h" line="200" column="8" bodyfile="src/Parametres.cpp" bodystart="49" bodyend="53"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1ae5354dc824391dda3d1f36a269f06ca9" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -268,7 +268,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="403" column="8" bodyfile="src/Parametres.cpp" bodystart="460" bodyend="474"/>
+        <location file="src/Parametres.h" line="202" column="8" bodyfile="src/Parametres.cpp" bodystart="460" bodyend="474"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1aaa307069ec8859464fe29562deabcfdf" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -283,7 +283,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="407" column="8" bodyfile="src/Parametres.cpp" bodystart="477" bodyend="481"/>
+        <location file="src/Parametres.h" line="204" column="8" bodyfile="src/Parametres.cpp" bodystart="477" bodyend="481"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1aa520244498c80c5c0616972f2b03d787" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -298,7 +298,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="411" column="8" bodyfile="src/Parametres.cpp" bodystart="484" bodyend="488"/>
+        <location file="src/Parametres.h" line="206" column="8" bodyfile="src/Parametres.cpp" bodystart="484" bodyend="488"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a0202a6ecce86965840d6215a400804e4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const std::vector&lt; bool &gt; &amp;</type>
@@ -313,7 +313,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="415" column="22" bodyfile="src/Parametres.cpp" bodystart="56" bodyend="60"/>
+        <location file="src/Parametres.h" line="208" column="22" bodyfile="src/Parametres.cpp" bodystart="56" bodyend="60"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1abf45883b4535d6eee91369980fc072e1" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const std::vector&lt; bool &gt; &amp;</type>
@@ -328,7 +328,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="419" column="22" bodyfile="src/Parametres.cpp" bodystart="63" bodyend="67"/>
+        <location file="src/Parametres.h" line="210" column="22" bodyfile="src/Parametres.cpp" bodystart="63" bodyend="67"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a552aa7b8c2702397bd55cd49cd1b5f23" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamSol" kindref="compound">ParamSol</ref> &amp;</type>
@@ -343,7 +343,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="423" column="19" bodyfile="src/Parametres.cpp" bodystart="70" bodyend="74"/>
+        <location file="src/Parametres.h" line="212" column="19" bodyfile="src/Parametres.cpp" bodystart="70" bodyend="74"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a99a3b90a07dead279090fe58a5715599" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamSolInitial" kindref="compound">ParamSolInitial</ref> &amp;</type>
@@ -358,7 +358,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="427" column="26" bodyfile="src/Parametres.cpp" bodystart="77" bodyend="81"/>
+        <location file="src/Parametres.h" line="214" column="26" bodyfile="src/Parametres.cpp" bodystart="77" bodyend="81"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a6532d79dc205ce654a4f9751d8e8b786" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamOption" kindref="compound">ParamOption</ref> &amp;</type>
@@ -373,7 +373,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="431" column="22" bodyfile="src/Parametres.cpp" bodystart="84" bodyend="88"/>
+        <location file="src/Parametres.h" line="216" column="22" bodyfile="src/Parametres.cpp" bodystart="84" bodyend="88"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a66ecc55d0a8a5bfda500a8bcf30a10fb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamTransfert" kindref="compound">ParamTransfert</ref> &amp;</type>
@@ -388,7 +388,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="435" column="25" bodyfile="src/Parametres.cpp" bodystart="91" bodyend="95"/>
+        <location file="src/Parametres.h" line="218" column="25" bodyfile="src/Parametres.cpp" bodystart="91" bodyend="95"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a0b62c687b2088b5a61b52b83cc8696ff" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamFacultatifs" kindref="compound">ParamFacultatifs</ref> &amp;</type>
@@ -403,7 +403,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="439" column="27" bodyfile="src/Parametres.cpp" bodystart="98" bodyend="102"/>
+        <location file="src/Parametres.h" line="220" column="27" bodyfile="src/Parametres.cpp" bodystart="98" bodyend="102"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a52d28c3149e1fcde0d1dec996d9450c7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamPompage" kindref="compound">ParamPompage</ref> &amp;</type>
@@ -418,7 +418,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="443" column="23" bodyfile="src/Parametres.cpp" bodystart="103" bodyend="107"/>
+        <location file="src/Parametres.h" line="222" column="23" bodyfile="src/Parametres.cpp" bodystart="103" bodyend="107"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a51e5a85d6e54b8d19f7049f796e8a767" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -449,7 +449,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="449" column="9"/>
+        <location file="src/Parametres.h" line="225" column="9"/>
       </memberdef>
       <memberdef kind="function" id="classParametres_1a345c38b84759d55c66f6173d275da774" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -489,7 +489,7 @@
 <para>surface</para>
 <para>pompage</para>
         </inbodydescription>
-        <location file="src/Parametres.h" line="453" column="9" bodyfile="src/Parametres.cpp" bodystart="129" bodyend="435"/>
+        <location file="src/Parametres.h" line="227" column="9" bodyfile="src/Parametres.cpp" bodystart="129" bodyend="435"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="private-func">
@@ -518,7 +518,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="491" column="9" bodyfile="src/Parametres.cpp" bodystart="438" bodyend="457"/>
+        <location file="src/Parametres.h" line="246" column="9" bodyfile="src/Parametres.cpp" bodystart="438" bodyend="457"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -526,7 +526,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/Parametres.h" line="375" column="1" bodyfile="src/Parametres.h" bodystart="377" bodyend="493"/>
+    <location file="src/Parametres.h" line="188" column="1" bodyfile="src/Parametres.h" bodystart="189" bodyend="247"/>
     <listofallmembers>
       <member refid="classParametres_1a49b3a1d050f0995d6dd05ec0fbba96a8" prot="public" virt="non-virtual"><scope>Parametres</scope><name>dateDebut</name></member>
       <member refid="classParametres_1a382f77fba9d54318840c714cbb73d89e" prot="private" virt="non-virtual"><scope>Parametres</scope><name>dateDebut_</name></member>

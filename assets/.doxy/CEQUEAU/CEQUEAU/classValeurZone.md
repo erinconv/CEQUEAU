@@ -88,10 +88,7 @@
 ## Detailed Description
 
 
-valeur specifique d'un parametre pour la zone dï¿½finie par
-
-
-iMin, iMax, jMin et jMax 
+valeur specifique d'un parametre pour la zone définie par iMin, iMax, jMin et jMax 
 
 
     

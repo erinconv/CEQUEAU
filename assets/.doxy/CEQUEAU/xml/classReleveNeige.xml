@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="173" column="7" bodyfile="src/Simulation.h" bodystart="173" bodyend="-1"/>
+        <location file="src/Simulation.h" line="176" column="7" bodyfile="src/Simulation.h" bodystart="176" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classReleveNeige_1adbc3f1b823bca61c7ef90798276d052e" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="174" column="7" bodyfile="src/Simulation.h" bodystart="174" bodyend="-1"/>
+        <location file="src/Simulation.h" line="177" column="7" bodyfile="src/Simulation.h" bodystart="177" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classReleveNeige_1a524002fbca7c41647a54cc0f3ba7d06e" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="175" column="7" bodyfile="src/Simulation.h" bodystart="175" bodyend="-1"/>
+        <location file="src/Simulation.h" line="178" column="7" bodyfile="src/Simulation.h" bodystart="178" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classReleveNeige_1a36a106071825cb20ef95fd8784d601a6" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -57,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="176" column="7" bodyfile="src/Simulation.h" bodystart="176" bodyend="-1"/>
+        <location file="src/Simulation.h" line="179" column="7" bodyfile="src/Simulation.h" bodystart="179" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classReleveNeige_1a7351a426d4580dc01a83a07911b17ce1" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -71,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="177" column="9" bodyfile="src/Simulation.h" bodystart="177" bodyend="-1"/>
+        <location file="src/Simulation.h" line="180" column="9" bodyfile="src/Simulation.h" bodystart="180" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classReleveNeige_1aaa1a052908fdf7cf066c5656ed65902b" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -85,7 +85,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="178" column="9" bodyfile="src/Simulation.h" bodystart="178" bodyend="-1"/>
+        <location file="src/Simulation.h" line="181" column="9" bodyfile="src/Simulation.h" bodystart="181" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classReleveNeige_1a1baff92be36ff2bbd2dd83d7c3388035" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -99,14 +99,14 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="179" column="9" bodyfile="src/Simulation.h" bodystart="179" bodyend="-1"/>
+        <location file="src/Simulation.h" line="182" column="9" bodyfile="src/Simulation.h" bodystart="182" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/Simulation.h" line="170" column="1" bodyfile="src/Simulation.h" bodystart="171" bodyend="180"/>
+    <location file="src/Simulation.h" line="173" column="1" bodyfile="src/Simulation.h" bodystart="174" bodyend="183"/>
     <listofallmembers>
       <member refid="classReleveNeige_1aaa1a052908fdf7cf066c5656ed65902b" prot="public" virt="non-virtual"><scope>ReleveNeige</scope><name>correction</name></member>
       <member refid="classReleveNeige_1a1baff92be36ff2bbd2dd83d7c3388035" prot="public" virt="non-virtual"><scope>ReleveNeige</scope><name>distance</name></member>

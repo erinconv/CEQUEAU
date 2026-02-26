@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="81" column="9" bodyfile="src/Simulation.h" bodystart="81" bodyend="-1"/>
+        <location file="src/Simulation.h" line="82" column="9" bodyfile="src/Simulation.h" bodystart="82" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a42ebde2062e44b3e3ea7c9b5b39f41d2" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="82" column="9" bodyfile="src/Simulation.h" bodystart="82" bodyend="-1"/>
+        <location file="src/Simulation.h" line="83" column="9" bodyfile="src/Simulation.h" bodystart="83" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a298d35a54d05f5da98c6edc72f0abb82" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="83" column="9" bodyfile="src/Simulation.h" bodystart="83" bodyend="-1"/>
+        <location file="src/Simulation.h" line="84" column="9" bodyfile="src/Simulation.h" bodystart="84" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a30cfbfea93780b2993f166b767e26d9b" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -58,7 +58,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="84" column="13" bodyfile="src/Simulation.h" bodystart="84" bodyend="-1"/>
+        <location file="src/Simulation.h" line="85" column="13" bodyfile="src/Simulation.h" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1ad15315e78f3e9dcb1c9e6a447c1cd9ad" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -72,7 +72,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="85" column="9" bodyfile="src/Simulation.h" bodystart="85" bodyend="-1"/>
+        <location file="src/Simulation.h" line="86" column="9" bodyfile="src/Simulation.h" bodystart="86" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a73f5e86ecf5c192706fb723860411151" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -86,7 +86,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="86" column="13" bodyfile="src/Simulation.h" bodystart="86" bodyend="-1"/>
+        <location file="src/Simulation.h" line="87" column="13" bodyfile="src/Simulation.h" bodystart="87" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1ac2a66b7d057274e64aea676e20a220aa" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -100,7 +100,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="87" column="9" bodyfile="src/Simulation.h" bodystart="87" bodyend="-1"/>
+        <location file="src/Simulation.h" line="88" column="9" bodyfile="src/Simulation.h" bodystart="88" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a41c0901b0588ac00d9951055373f7067" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -114,7 +114,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="88" column="13" bodyfile="src/Simulation.h" bodystart="88" bodyend="-1"/>
+        <location file="src/Simulation.h" line="89" column="13" bodyfile="src/Simulation.h" bodystart="89" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1aaeb0e57a32bd83021bf15c01e5f7fa6c" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -128,7 +128,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="89" column="9" bodyfile="src/Simulation.h" bodystart="89" bodyend="-1"/>
+        <location file="src/Simulation.h" line="90" column="9" bodyfile="src/Simulation.h" bodystart="90" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1acbe7574d9d29f89d95fba865b3a965c4" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -142,7 +142,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="90" column="13" bodyfile="src/Simulation.h" bodystart="90" bodyend="-1"/>
+        <location file="src/Simulation.h" line="91" column="13" bodyfile="src/Simulation.h" bodystart="91" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1ad1ed4083ba4dd90ee7b60baf4f9b89f0" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -156,7 +156,35 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="91" column="9" bodyfile="src/Simulation.h" bodystart="91" bodyend="-1"/>
+        <location file="src/Simulation.h" line="92" column="9" bodyfile="src/Simulation.h" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a6383a1652b04f736750c3941c68e968e" prot="public" static="no" mutable="no">
+        <type>TypeAssim</type>
+        <definition>TypeAssim EtatCarreauEntierAssim::ruissellementType</definition>
+        <argsstring></argsstring>
+        <name>ruissellementType</name>
+        <qualifiedname>EtatCarreauEntierAssim::ruissellementType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/Simulation.h" line="93" column="13" bodyfile="src/Simulation.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classEtatCarreauEntierAssim_1a08c1a67d5b5267f0c8be3e6950b4307b" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float EtatCarreauEntierAssim::ruissellement[2]</definition>
+        <argsstring>[2]</argsstring>
+        <name>ruissellement</name>
+        <qualifiedname>EtatCarreauEntierAssim::ruissellement</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/Simulation.h" line="94" column="9" bodyfile="src/Simulation.h" bodystart="94" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1ad17404232d3c207d5b0bb6457bccc84c" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -170,7 +198,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="92" column="13" bodyfile="src/Simulation.h" bodystart="92" bodyend="-1"/>
+        <location file="src/Simulation.h" line="95" column="13" bodyfile="src/Simulation.h" bodystart="95" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntierAssim_1ad5cf05e65eb41aa7c22b0be1f69c9e23" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -184,7 +212,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="93" column="9" bodyfile="src/Simulation.h" bodystart="93" bodyend="-1"/>
+        <location file="src/Simulation.h" line="96" column="9" bodyfile="src/Simulation.h" bodystart="96" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -193,7 +221,7 @@
     <detaileddescription>
 <para>Utilise pour assimiler des etats aux carreaux entiers. Une valeur: on substitue cette valeur. Deux valeurs: La premiere est un facteur multiplicatif et la seconde une valeur a additionner. </para>
     </detaileddescription>
-    <location file="src/Simulation.h" line="78" column="1" bodyfile="src/Simulation.h" bodystart="79" bodyend="94"/>
+    <location file="src/Simulation.h" line="79" column="1" bodyfile="src/Simulation.h" bodystart="80" bodyend="97"/>
     <listofallmembers>
       <member refid="classEtatCarreauEntierAssim_1ad1ed4083ba4dd90ee7b60baf4f9b89f0" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>evapoPotJour</name></member>
       <member refid="classEtatCarreauEntierAssim_1acbe7574d9d29f89d95fba865b3a965c4" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>evapoPotJourType</name></member>
@@ -208,6 +236,8 @@
       <member refid="classEtatCarreauEntierAssim_1a30cfbfea93780b2993f166b767e26d9b" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>niveauEauSolType</name></member>
       <member refid="classEtatCarreauEntierAssim_1ad5cf05e65eb41aa7c22b0be1f69c9e23" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>production</name></member>
       <member refid="classEtatCarreauEntierAssim_1ad17404232d3c207d5b0bb6457bccc84c" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>productionType</name></member>
+      <member refid="classEtatCarreauEntierAssim_1a08c1a67d5b5267f0c8be3e6950b4307b" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>ruissellement</name></member>
+      <member refid="classEtatCarreauEntierAssim_1a6383a1652b04f736750c3941c68e968e" prot="public" virt="non-virtual"><scope>EtatCarreauEntierAssim</scope><name>ruissellementType</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

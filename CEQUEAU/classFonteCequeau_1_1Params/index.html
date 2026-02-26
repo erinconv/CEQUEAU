@@ -851,7 +851,7 @@
 
 <h1 id="class-fontecequeauparams">Class FonteCequeau::Params<a class="headerlink" href="#class-fontecequeauparams" title="Permanent link">&para;</a></h1>
 <p><a href="../annotated/"><strong>ClassList</strong></a> <strong>&gt;</strong> <a href="./"><strong>Params</strong></a></p>
-<p><a href="../classParametres/"><em><strong>Parametres</strong></em></a> <em>necessaires au module de fonte</em> __</p>
+<p><a href="../classParametres/"><em><strong>Parametres</strong></em></a> <em>necessaires au module de fonte.</em></p>
 <h2 id="public-attributes">Public Attributes<a class="headerlink" href="#public-attributes" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -875,15 +875,15 @@
 </tr>
 <tr>
 <td style="text-align: right;">int</td>
-<td style="text-align: left;"><a href="#variable-joursoleilmaxfonteneige"><strong>jourSoleilMaxFonteNeige</strong></a>  <br><em>Parametre qui permet de decaler la date d'insolation maximale pour le.</em></td>
+<td style="text-align: left;"><a href="#variable-joursoleilmaxfonteneige"><strong>jourSoleilMaxFonteNeige</strong></a>  <br></td>
 </tr>
 <tr>
 <td style="text-align: right;">std::vector&lt; float &gt;</td>
-<td style="text-align: left;"><a href="#variable-seuiltempfonteclairiere"><strong>seuilTempFonteClairiere</strong></a>  <br><em>Seuil de tempï¿½rature de fonte en clairiere (degC).</em></td>
+<td style="text-align: left;"><a href="#variable-seuiltempfonteclairiere"><strong>seuilTempFonteClairiere</strong></a>  <br><em>Seuil de température de fonte en clairiere (degC).</em></td>
 </tr>
 <tr>
 <td style="text-align: right;">std::vector&lt; float &gt;</td>
-<td style="text-align: left;"><a href="#variable-seuiltempfonteforet"><strong>seuilTempFonteForet</strong></a>  <br><em>Seuil de tempï¿½rature de fonte en foret (degC).</em></td>
+<td style="text-align: left;"><a href="#variable-seuiltempfonteforet"><strong>seuilTempFonteForet</strong></a>  <br><em>Seuil de température de fonte en foret (degC).</em></td>
 </tr>
 <tr>
 <td style="text-align: right;">std::vector&lt; float &gt;</td>
@@ -891,11 +891,11 @@
 </tr>
 <tr>
 <td style="text-align: right;">std::vector&lt; float &gt;</td>
-<td style="text-align: left;"><a href="#variable-tauxpotentielfonteclairiere"><strong>tauxPotentielFonteClairiere</strong></a>  <br><em>Taux potentiel de fonte en clairiï¿½re (mm/degC/jour).</em></td>
+<td style="text-align: left;"><a href="#variable-tauxpotentielfonteclairiere"><strong>tauxPotentielFonteClairiere</strong></a>  <br><em>Taux potentiel de fonte en clairière (mm/degC/jour).</em></td>
 </tr>
 <tr>
 <td style="text-align: right;">std::vector&lt; float &gt;</td>
-<td style="text-align: left;"><a href="#variable-tauxpotentielfonteforet"><strong>tauxPotentielFonteForet</strong></a>  <br><em>Taux potentiel de fonte en forï¿½t (mm/degC/jour).</em></td>
+<td style="text-align: left;"><a href="#variable-tauxpotentielfonteforet"><strong>tauxPotentielFonteForet</strong></a>  <br><em>Taux potentiel de fonte en forêt (mm/degC/jour).</em></td>
 </tr>
 <tr>
 <td style="text-align: right;">std::vector&lt; float &gt;</td>
@@ -923,20 +923,19 @@
 <hr>
 
 <h3 id="variable-joursoleilmaxfonteneige">variable jourSoleilMaxFonteNeige<a class="headerlink" href="#variable-joursoleilmaxfonteneige" title="Permanent link">&para;</a></h3>
-<p><em>Parametre qui permet de decaler la date d'insolation maximale pour le.</em> 
 <div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">FonteCequeau</span><span class="o">::</span><span class="n">Params</span><span class="o">::</span><span class="n">jourSoleilMaxFonteNeige</span><span class="p">;</span>
-</code></pre></div></p>
-<p>calcul de la fonte de la neige. Si 80, la durï¿½e d'ensoleillement potentiel est maximale le 21 juin. </p>
+</code></pre></div>
+<p>Parametre qui permet de decaler la date d'insolation maximale pour le calcul de la fonte de la neige. Si 80, la durée d'ensoleillement potentiel est maximale le 21 juin. </p>
 <hr>
 
 <h3 id="variable-seuiltempfonteclairiere">variable seuilTempFonteClairiere<a class="headerlink" href="#variable-seuiltempfonteclairiere" title="Permanent link">&para;</a></h3>
-<p><em>Seuil de tempï¿½rature de fonte en clairiere (degC).</em> 
+<p><em>Seuil de température de fonte en clairiere (degC).</em> 
 <div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">float</span><span class="o">&gt;</span><span class="w"> </span><span class="n">FonteCequeau</span><span class="o">::</span><span class="n">Params</span><span class="o">::</span><span class="n">seuilTempFonteClairiere</span><span class="p">;</span>
 </code></pre></div></p>
 <hr>
 
 <h3 id="variable-seuiltempfonteforet">variable seuilTempFonteForet<a class="headerlink" href="#variable-seuiltempfonteforet" title="Permanent link">&para;</a></h3>
-<p><em>Seuil de tempï¿½rature de fonte en foret (degC).</em> 
+<p><em>Seuil de température de fonte en foret (degC).</em> 
 <div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">float</span><span class="o">&gt;</span><span class="w"> </span><span class="n">FonteCequeau</span><span class="o">::</span><span class="n">Params</span><span class="o">::</span><span class="n">seuilTempFonteForet</span><span class="p">;</span>
 </code></pre></div></p>
 <hr>
@@ -948,13 +947,13 @@
 <hr>
 
 <h3 id="variable-tauxpotentielfonteclairiere">variable tauxPotentielFonteClairiere<a class="headerlink" href="#variable-tauxpotentielfonteclairiere" title="Permanent link">&para;</a></h3>
-<p><em>Taux potentiel de fonte en clairiï¿½re (mm/degC/jour).</em> 
+<p><em>Taux potentiel de fonte en clairière (mm/degC/jour).</em> 
 <div class="highlight"><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">float</span><span class="o">&gt;</span><span class="w"> </span><span class="n">FonteCequeau</span><span class="o">::</span><span class="n">Params</span><span class="o">::</span><span class="n">tauxPotentielFonteClairiere</span><span class="p">;</span>
 </code></pre></div></p>
 <hr>
 
 <h3 id="variable-tauxpotentielfonteforet">variable tauxPotentielFonteForet<a class="headerlink" href="#variable-tauxpotentielfonteforet" title="Permanent link">&para;</a></h3>
-<p><em>Taux potentiel de fonte en forï¿½t (mm/degC/jour).</em> 
+<p><em>Taux potentiel de fonte en forêt (mm/degC/jour).</em> 
 <div class="highlight"><pre><span></span><code><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">float</span><span class="o">&gt;</span><span class="w"> </span><span class="n">FonteCequeau</span><span class="o">::</span><span class="n">Params</span><span class="o">::</span><span class="n">tauxPotentielFonteForet</span><span class="p">;</span>
 </code></pre></div></p>
 <hr>

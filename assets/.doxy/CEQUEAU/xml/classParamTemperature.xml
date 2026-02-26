@@ -14,12 +14,11 @@
 <para>Coefficient rayonnement solaire. </para>
         </briefdescription>
         <detaileddescription>
-<para>Coefficient permettant d&apos;augmenter ou de diminuer</para>
-<para>l&apos;importance du rayonnement solaire dans le bilan d&apos;energie. </para>
+<para>Coefficient permettant d&apos;augmenter ou de diminuer l&apos;importance du rayonnement solaire dans le bilan d&apos;energie. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="51" column="9" bodyfile="src/ParametresQualite.h" bodystart="51" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="26" column="9" bodyfile="src/ParametresQualite.h" bodystart="26" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a723ab73020a237fdfb3f31656c312c86" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -31,12 +30,11 @@
 <para>Coefficient rayonnement infrarouge. </para>
         </briefdescription>
         <detaileddescription>
-<para>Coefficient permettant d&apos;augmenter ou de diminuer</para>
-<para>l&apos;importance du rayonnement infrarouge dans le bilan d&apos;energie. </para>
+<para>Coefficient permettant d&apos;augmenter ou de diminuer l&apos;importance du rayonnement infrarouge dans le bilan d&apos;energie. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="59" column="9" bodyfile="src/ParametresQualite.h" bodystart="59" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="30" column="9" bodyfile="src/ParametresQualite.h" bodystart="30" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a883e2516d31b94c8e257cd07fb8f7f2a" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -48,12 +46,11 @@
 <para>Coefficient evaporation. </para>
         </briefdescription>
         <detaileddescription>
-<para>Coefficient permettant d&apos;augmenter ou de diminuer</para>
-<para>l&apos;importance de l&apos;ï¿½vaporation dans le bilan d&apos;ï¿½nergie </para>
+<para>Coefficient permettant d&apos;augmenter ou de diminuer l&apos;importance de l&apos;évaporation dans le bilan d&apos;énergie </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="67" column="9" bodyfile="src/ParametresQualite.h" bodystart="67" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="34" column="9" bodyfile="src/ParametresQualite.h" bodystart="34" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1afab064f7b026c71df2fb4c3d170c394e" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -65,12 +62,11 @@
 <para>Coefficient convection. </para>
         </briefdescription>
         <detaileddescription>
-<para>Coefficient permettant d&apos;augmenter ou de diminuer</para>
-<para>l&apos;importance de la convection dans le bilan d&apos;ï¿½nergie </para>
+<para>Coefficient permettant d&apos;augmenter ou de diminuer l&apos;importance de la convection dans le bilan d&apos;énergie </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="75" column="9" bodyfile="src/ParametresQualite.h" bodystart="75" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="38" column="9" bodyfile="src/ParametresQualite.h" bodystart="38" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a9183d9df0281be20b2dc81ad5ada763b" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -85,7 +81,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="79" column="9" bodyfile="src/ParametresQualite.h" bodystart="79" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="40" column="9" bodyfile="src/ParametresQualite.h" bodystart="40" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a5d4dedbd7955af98b2850708de9d3281" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -100,7 +96,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="83" column="9" bodyfile="src/ParametresQualite.h" bodystart="83" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="42" column="9" bodyfile="src/ParametresQualite.h" bodystart="42" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a6cebe25db6db204f1e56a4597daf826c" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -115,7 +111,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="87" column="9" bodyfile="src/ParametresQualite.h" bodystart="87" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="44" column="9" bodyfile="src/ParametresQualite.h" bodystart="44" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1adfb83055de86401fcfe267b8f264b6de" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -130,7 +126,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="91" column="9" bodyfile="src/ParametresQualite.h" bodystart="91" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="46" column="9" bodyfile="src/ParametresQualite.h" bodystart="46" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1aab56485480d13ec7eecc53be7f0cc7c3" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -145,7 +141,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="95" column="9" bodyfile="src/ParametresQualite.h" bodystart="95" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="48" column="9" bodyfile="src/ParametresQualite.h" bodystart="48" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a480b05030b2b7b9ab3303121099dacf0" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -157,13 +153,11 @@
 <para>Correction du rayonnement solaire moyen. </para>
         </briefdescription>
         <detaileddescription>
-<para>Correction du rayonnement solaire moyen (RSM) pour les</para>
-<para>jours sans pluie (RSM x (1+CORSOL)) et les jours de fortes</para>
-<para>pluies (RSM x (1-CORSOL)) (entre 0.0 et 1.0). </para>
+<para>Correction du rayonnement solaire moyen (RSM) pour les jours sans pluie (RSM x (1+CORSOL)) et les jours de fortes pluies (RSM x (1-CORSOL)) (entre 0.0 et 1.0). </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="105" column="9" bodyfile="src/ParametresQualite.h" bodystart="105" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="53" column="9" bodyfile="src/ParametresQualite.h" bodystart="53" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1aa52729307bee76de1da667b08c916f6c" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -172,13 +166,13 @@
         <name>ccanope</name>
         <qualifiedname>ParamTemperature::ccanope</qualifiedname>
         <briefdescription>
-<para>couverture du sol par la canopï¿½ de la forï¿½t (entre 0.0 et 1.0) </para>
+<para>couverture du sol par la canopé de la forêt (entre 0.0 et 1.0) </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="111" column="9" bodyfile="src/ParametresQualite.h" bodystart="111" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="56" column="9" bodyfile="src/ParametresQualite.h" bodystart="56" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamTemperature_1a84bc85fa2d9a829655f94389fc818d4f" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -192,7 +186,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="113" column="9" bodyfile="src/ParametresQualite.h" bodystart="113" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="57" column="9" bodyfile="src/ParametresQualite.h" bodystart="57" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -200,7 +194,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/ParametresQualite.h" line="39" column="1" bodyfile="src/ParametresQualite.h" bodystart="41" bodyend="115"/>
+    <location file="src/ParametresQualite.h" line="20" column="1" bodyfile="src/ParametresQualite.h" bodystart="21" bodyend="58"/>
     <listofallmembers>
       <member refid="classParamTemperature_1aab56485480d13ec7eecc53be7f0cc7c3" prot="public" virt="non-virtual"><scope>ParamTemperature</scope><name>bassol</name></member>
       <member refid="classParamTemperature_1aa52729307bee76de1da667b08c916f6c" prot="public" virt="non-virtual"><scope>ParamTemperature</scope><name>ccanope</name></member>

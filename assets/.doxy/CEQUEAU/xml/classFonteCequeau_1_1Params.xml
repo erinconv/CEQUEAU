@@ -10,14 +10,13 @@
         <name>jourSoleilMaxFonteNeige</name>
         <qualifiedname>FonteCequeau::Params::jourSoleilMaxFonteNeige</qualifiedname>
         <briefdescription>
-<para>Parametre qui permet de decaler la date d&apos;insolation maximale pour le. </para>
         </briefdescription>
         <detaileddescription>
-<para>calcul de la fonte de la neige. Si 80, la durï¿½e d&apos;ensoleillement potentiel est maximale le 21 juin. </para>
+<para>Parametre qui permet de decaler la date d&apos;insolation maximale pour le calcul de la fonte de la neige. Si 80, la durée d&apos;ensoleillement potentiel est maximale le 21 juin. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="169" column="9" bodyfile="src/FonteCequeau.h" bodystart="169" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="85" column="9" bodyfile="src/FonteCequeau.h" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a57486d90df0cc288f84c3b800f1668b3" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -32,7 +31,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="175" column="11" bodyfile="src/FonteCequeau.h" bodystart="175" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="88" column="11" bodyfile="src/FonteCequeau.h" bodystart="88" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a3a64ab4b8e8d8af3a4c22b476b5671fc" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -47,7 +46,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="181" column="11" bodyfile="src/FonteCequeau.h" bodystart="181" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="91" column="11" bodyfile="src/FonteCequeau.h" bodystart="91" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a7cc4c4ce46308bc20fcc67c2d0699342" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -62,7 +61,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="187" column="17" bodyfile="src/FonteCequeau.h" bodystart="187" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="94" column="17" bodyfile="src/FonteCequeau.h" bodystart="94" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1acaacde7b2c42b2247ba34526f30fd911" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -71,13 +70,13 @@
         <name>tauxPotentielFonteForet</name>
         <qualifiedname>FonteCequeau::Params::tauxPotentielFonteForet</qualifiedname>
         <briefdescription>
-<para>Taux potentiel de fonte en forï¿½t (mm/degC/jour). </para>
+<para>Taux potentiel de fonte en forêt (mm/degC/jour). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="193" column="17" bodyfile="src/FonteCequeau.h" bodystart="193" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="97" column="17" bodyfile="src/FonteCequeau.h" bodystart="97" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1aaeb4966e87621c0c866567b6696440c2" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -86,13 +85,13 @@
         <name>tauxPotentielFonteClairiere</name>
         <qualifiedname>FonteCequeau::Params::tauxPotentielFonteClairiere</qualifiedname>
         <briefdescription>
-<para>Taux potentiel de fonte en clairiï¿½re (mm/degC/jour). </para>
+<para>Taux potentiel de fonte en clairière (mm/degC/jour). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="199" column="17" bodyfile="src/FonteCequeau.h" bodystart="199" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="100" column="17" bodyfile="src/FonteCequeau.h" bodystart="100" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a732ae1afea47044325fde505ea631a34" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -101,13 +100,13 @@
         <name>seuilTempFonteForet</name>
         <qualifiedname>FonteCequeau::Params::seuilTempFonteForet</qualifiedname>
         <briefdescription>
-<para>Seuil de tempï¿½rature de fonte en foret (degC). </para>
+<para>Seuil de température de fonte en foret (degC). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="205" column="17" bodyfile="src/FonteCequeau.h" bodystart="205" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="103" column="17" bodyfile="src/FonteCequeau.h" bodystart="103" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a375baf129b223070010861dde8a38998" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -116,13 +115,13 @@
         <name>seuilTempFonteClairiere</name>
         <qualifiedname>FonteCequeau::Params::seuilTempFonteClairiere</qualifiedname>
         <briefdescription>
-<para>Seuil de tempï¿½rature de fonte en clairiere (degC). </para>
+<para>Seuil de température de fonte en clairiere (degC). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="211" column="17" bodyfile="src/FonteCequeau.h" bodystart="211" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="106" column="17" bodyfile="src/FonteCequeau.h" bodystart="106" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a2a3d13c698e8b42720124fd46f4251b3" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -137,7 +136,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="217" column="11" bodyfile="src/FonteCequeau.h" bodystart="217" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="109" column="11" bodyfile="src/FonteCequeau.h" bodystart="109" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1Params_1a322d2accafcdfdaf92fdc82a26ec1910" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -152,12 +151,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="223" column="17" bodyfile="src/FonteCequeau.h" bodystart="223" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="112" column="17" bodyfile="src/FonteCequeau.h" bodystart="112" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
-<para><ref refid="classParametres" kindref="compound">Parametres</ref> necessaires au module de fonte <linebreak/>
- </para>
+<para><ref refid="classParametres" kindref="compound">Parametres</ref> necessaires au module de fonte. </para>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
@@ -177,7 +175,7 @@
         <label>std::vector&lt; float &gt;</label>
       </node>
     </collaborationgraph>
-    <location file="src/FonteCequeau.h" line="155" column="3" bodyfile="src/FonteCequeau.h" bodystart="157" bodyend="225"/>
+    <location file="src/FonteCequeau.h" line="78" column="3" bodyfile="src/FonteCequeau.h" bodystart="79" bodyend="113"/>
     <listofallmembers>
       <member refid="classFonteCequeau_1_1Params_1a2a3d13c698e8b42720124fd46f4251b3" prot="public" virt="non-virtual"><scope>FonteCequeau::Params</scope><name>coeffDeficitCalorique</name></member>
       <member refid="classFonteCequeau_1_1Params_1a57486d90df0cc288f84c3b800f1668b3" prot="public" virt="non-virtual"><scope>FonteCequeau::Params</scope><name>indexMurissementNeigeIni</name></member>

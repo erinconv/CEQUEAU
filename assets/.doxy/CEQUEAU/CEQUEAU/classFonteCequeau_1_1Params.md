@@ -8,7 +8,7 @@
 
 
 
-[_**Parametres**_](classParametres.md) _necessaires au module de fonte_ __
+[_**Parametres**_](classParametres.md) _necessaires au module de fonte._
 
 
 
@@ -38,12 +38,12 @@
 |  float | [**coeffDeficitCalorique**](#variable-coeffdeficitcalorique)  <br>_Coefficient de deficit calorifique._  |
 |  float | [**indexMurissementNeigeIni**](#variable-indexmurissementneigeini)  <br>_Valeur initiale de indexMurissementNeige._  |
 |  float | [**indexTempNeigeIni**](#variable-indextempneigeini)  <br>_Valeur initiale de indexTempNeige._  |
-|  int | [**jourSoleilMaxFonteNeige**](#variable-joursoleilmaxfonteneige)  <br>_Parametre qui permet de decaler la date d'insolation maximale pour le._  |
-|  std::vector&lt; float &gt; | [**seuilTempFonteClairiere**](#variable-seuiltempfonteclairiere)  <br>_Seuil de tempï¿½rature de fonte en clairiere (degC)._  |
-|  std::vector&lt; float &gt; | [**seuilTempFonteForet**](#variable-seuiltempfonteforet)  <br>_Seuil de tempï¿½rature de fonte en foret (degC)._  |
+|  int | [**jourSoleilMaxFonteNeige**](#variable-joursoleilmaxfonteneige)  <br> |
+|  std::vector&lt; float &gt; | [**seuilTempFonteClairiere**](#variable-seuiltempfonteclairiere)  <br>_Seuil de température de fonte en clairiere (degC)._  |
+|  std::vector&lt; float &gt; | [**seuilTempFonteForet**](#variable-seuiltempfonteforet)  <br>_Seuil de température de fonte en foret (degC)._  |
 |  std::vector&lt; float &gt; | [**seuilTranformationPluieNeige**](#variable-seuiltranformationpluieneige)  <br>_Seuil de transformation pluie-neige (degC)._  |
-|  std::vector&lt; float &gt; | [**tauxPotentielFonteClairiere**](#variable-tauxpotentielfonteclairiere)  <br>_Taux potentiel de fonte en clairiï¿½re (mm/degC/jour)._  |
-|  std::vector&lt; float &gt; | [**tauxPotentielFonteForet**](#variable-tauxpotentielfonteforet)  <br>_Taux potentiel de fonte en forï¿½t (mm/degC/jour)._  |
+|  std::vector&lt; float &gt; | [**tauxPotentielFonteClairiere**](#variable-tauxpotentielfonteclairiere)  <br>_Taux potentiel de fonte en clairière (mm/degC/jour)._  |
+|  std::vector&lt; float &gt; | [**tauxPotentielFonteForet**](#variable-tauxpotentielfonteforet)  <br>_Taux potentiel de fonte en forêt (mm/degC/jour)._  |
 |  std::vector&lt; float &gt; | [**tempMurissementNeige**](#variable-tempmurissementneige)  <br>_Temperature du murissement du stock de neige (degC)._  |
 
 
@@ -138,14 +138,13 @@ float FonteCequeau::Params::indexTempNeigeIni;
 
 ### variable jourSoleilMaxFonteNeige 
 
-_Parametre qui permet de decaler la date d'insolation maximale pour le._ 
 ```C++
 int FonteCequeau::Params::jourSoleilMaxFonteNeige;
 ```
 
 
 
-calcul de la fonte de la neige. Si 80, la durï¿½e d'ensoleillement potentiel est maximale le 21 juin. 
+Parametre qui permet de decaler la date d'insolation maximale pour le calcul de la fonte de la neige. Si 80, la durée d'ensoleillement potentiel est maximale le 21 juin. 
 
 
         
@@ -156,7 +155,7 @@ calcul de la fonte de la neige. Si 80, la durï¿½e d'ensoleillement potentiel 
 
 ### variable seuilTempFonteClairiere 
 
-_Seuil de tempï¿½rature de fonte en clairiere (degC)._ 
+_Seuil de température de fonte en clairiere (degC)._ 
 ```C++
 std::vector<float> FonteCequeau::Params::seuilTempFonteClairiere;
 ```
@@ -170,7 +169,7 @@ std::vector<float> FonteCequeau::Params::seuilTempFonteClairiere;
 
 ### variable seuilTempFonteForet 
 
-_Seuil de tempï¿½rature de fonte en foret (degC)._ 
+_Seuil de température de fonte en foret (degC)._ 
 ```C++
 std::vector<float> FonteCequeau::Params::seuilTempFonteForet;
 ```
@@ -198,7 +197,7 @@ std::vector<float> FonteCequeau::Params::seuilTranformationPluieNeige;
 
 ### variable tauxPotentielFonteClairiere 
 
-_Taux potentiel de fonte en clairiï¿½re (mm/degC/jour)._ 
+_Taux potentiel de fonte en clairière (mm/degC/jour)._ 
 ```C++
 std::vector<float> FonteCequeau::Params::tauxPotentielFonteClairiere;
 ```
@@ -212,7 +211,7 @@ std::vector<float> FonteCequeau::Params::tauxPotentielFonteClairiere;
 
 ### variable tauxPotentielFonteForet 
 
-_Taux potentiel de fonte en forï¿½t (mm/degC/jour)._ 
+_Taux potentiel de fonte en forêt (mm/degC/jour)._ 
 ```C++
 std::vector<float> FonteCequeau::Params::tauxPotentielFonteForet;
 ```

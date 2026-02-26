@@ -272,7 +272,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Barrage.h" line="33" column="1" bodyfile="src/Barrage.h" bodystart="33" bodyend="35"/>
+        <location file="src/Barrage.h" line="17" column="1" bodyfile="src/Barrage.h" bodystart="17" bodyend="18"/>
       </memberdef>
     </sectiondef>
     <briefdescription>

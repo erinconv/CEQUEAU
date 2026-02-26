@@ -36,24 +36,24 @@ _Classe de donnees des parametres relatifs reservoirs SOL, NAPPE et MARAIS._
 
 | Type | Name |
 | ---: | :--- |
-|  float | [**coeffCorrectionPluieAnAltitude**](#variable-coeffcorrectionpluieanaltitude)  <br>_Coefficient de correction des prï¿½cipitations annuelles en fonction de l'altitude (mm/mï¿½tre/an)._  |
-|  std::vector&lt; float &gt; | [**coeffInfiltrationNappe**](#variable-coeffinfiltrationnappe)  <br>_Coefficient d'infiltration dans le rï¿½servoir NAPPE._  |
-|  std::vector&lt; float &gt; | [**coeffVidangeBasseNappe**](#variable-coeffvidangebassenappe)  <br>_Coefficient de vidange basse du rï¿½servoir NAPPE._  |
-|  float | [**coeffVidangeBasseSol**](#variable-coeffvidangebassesol)  <br>_Coefficient de vidange basse du rï¿½servoir SOL._  |
-|  std::vector&lt; float &gt; | [**coeffVidangeHauteNappe**](#variable-coeffvidangehautenappe)  <br>_Coefficient de vidange haute du rï¿½servoir NAPPE._  |
-|  std::vector&lt; float &gt; | [**coeffVidangeIntermediaireSol**](#variable-coeffvidangeintermediairesol)  <br>_Coefficient de vidange intermï¿½diaire du rï¿½servoir SOL._  |
-|  float | [**coeffVidangeLacsMarais**](#variable-coeffvidangelacsmarais)  <br>_Coefficient de vidange du rï¿½servoir LACS et MARAIS._  |
-|  float | [**correctionTempAltitude**](#variable-correctiontempaltitude)  <br>_Correction des tempï¿½ratures en fonction de l'altitude (degC/1 000 m)._  |
-|  std::vector&lt; float &gt; | [**fractionImpermeableCE**](#variable-fractionimpermeablece)  <br>_Fraction de l'ï¿½vapotranspiration prise dans le rï¿½servoir NAPPE (de 0.0 a 1.0);._  |
-|  std::vector&lt; float &gt; | [**hauteurReservoirSol**](#variable-hauteurreservoirsol)  <br>_Hauteur du rï¿½servoir SOL (mm)._  |
+|  float | [**coeffCorrectionPluieAnAltitude**](#variable-coeffcorrectionpluieanaltitude)  <br>_Coefficient de correction des précipitations annuelles en fonction de l'altitude (mm/mètre/an)._  |
+|  std::vector&lt; float &gt; | [**coeffInfiltrationNappe**](#variable-coeffinfiltrationnappe)  <br>_Coefficient d'infiltration dans le réservoir NAPPE._  |
+|  std::vector&lt; float &gt; | [**coeffVidangeBasseNappe**](#variable-coeffvidangebassenappe)  <br>_Coefficient de vidange basse du réservoir NAPPE._  |
+|  float | [**coeffVidangeBasseSol**](#variable-coeffvidangebassesol)  <br>_Coefficient de vidange basse du réservoir SOL._  |
+|  std::vector&lt; float &gt; | [**coeffVidangeHauteNappe**](#variable-coeffvidangehautenappe)  <br>_Coefficient de vidange haute du réservoir NAPPE._  |
+|  std::vector&lt; float &gt; | [**coeffVidangeIntermediaireSol**](#variable-coeffvidangeintermediairesol)  <br>_Coefficient de vidange intermédiaire du réservoir SOL._  |
+|  float | [**coeffVidangeLacsMarais**](#variable-coeffvidangelacsmarais)  <br>_Coefficient de vidange du réservoir LACS et MARAIS._  |
+|  float | [**correctionTempAltitude**](#variable-correctiontempaltitude)  <br>_Correction des températures en fonction de l'altitude (degC/1 000 m)._  |
+|  std::vector&lt; float &gt; | [**fractionImpermeableCE**](#variable-fractionimpermeablece)  <br>_Fraction de l'évapotranspiration prise dans le réservoir NAPPE (de 0.0 a 1.0);._  |
+|  std::vector&lt; float &gt; | [**hauteurReservoirSol**](#variable-hauteurreservoirsol)  <br>_Hauteur du réservoir SOL (mm)._  |
 |  float | [**infiltrationMax**](#variable-infiltrationmax)  <br>_Infiltration maximale (mm/jour)._  |
-|  std::vector&lt; float &gt; | [**lameEauDebutRuisellement**](#variable-lameeaudebutruisellement)  <br>_Lame d'eau nï¿½cessaire pour que dï¿½bute le ruissellement sur les surfaces impermeables (mm)._  |
-|  float | [**latitudeMoyenneBV**](#variable-latitudemoyennebv)  <br>_Latitude moyenne du bassin versant en degrï¿½s et minutes sexagï¿½simales._  |
-|  std::vector&lt; float &gt; | [**seuilInfiltrationSolVersNappe**](#variable-seuilinfiltrationsolversnappe)  <br>_Seuil d'infiltration du rï¿½servoir SOL vers le rï¿½servoir NAPPE (mm)._  |
-|  std::vector&lt; float &gt; | [**seuilPrelevementEauTauxPotentiel**](#variable-seuilprelevementeautauxpotentiel)  <br>_Seuil de prï¿½lï¿½vement de l'eau ï¿½ taux potentiel, par ï¿½vapotranspiration (mm)._  |
-|  std::vector&lt; float &gt; | [**seuilVidangeHauteNappe**](#variable-seuilvidangehautenappe)  <br>_Seuil de vidange supï¿½rieure du rï¿½servoir NAPPE (mm)._  |
-|  std::vector&lt; float &gt; | [**seuilVidangeIntermediaireSol**](#variable-seuilvidangeintermediairesol)  <br>_Seuil de vidange intermï¿½diaire du rï¿½servoir SOL (mm)._  |
-|  float | [**seuilVidangeLacsMarais**](#variable-seuilvidangelacsmarais)  <br>_Seuil de vidange du rï¿½servoir LACS et MARAIS (mm)._  |
+|  std::vector&lt; float &gt; | [**lameEauDebutRuisellement**](#variable-lameeaudebutruisellement)  <br>_Lame d'eau nécessaire pour que débute le ruissellement sur les surfaces impermeables (mm)._  |
+|  float | [**latitudeMoyenneBV**](#variable-latitudemoyennebv)  <br> |
+|  std::vector&lt; float &gt; | [**seuilInfiltrationSolVersNappe**](#variable-seuilinfiltrationsolversnappe)  <br>_Seuil d'infiltration du réservoir SOL vers le réservoir NAPPE (mm)._  |
+|  std::vector&lt; float &gt; | [**seuilPrelevementEauTauxPotentiel**](#variable-seuilprelevementeautauxpotentiel)  <br>_Seuil de prélévement de l'eau à taux potentiel, par évapotranspiration (mm)._  |
+|  std::vector&lt; float &gt; | [**seuilVidangeHauteNappe**](#variable-seuilvidangehautenappe)  <br>_Seuil de vidange supérieure du réservoir NAPPE (mm)._  |
+|  std::vector&lt; float &gt; | [**seuilVidangeIntermediaireSol**](#variable-seuilvidangeintermediairesol)  <br>_Seuil de vidange intermédiaire du réservoir SOL (mm)._  |
+|  float | [**seuilVidangeLacsMarais**](#variable-seuilvidangelacsmarais)  <br>_Seuil de vidange du réservoir LACS et MARAIS (mm)._  |
 
 
 
@@ -105,7 +105,7 @@ _Classe de donnees des parametres relatifs reservoirs SOL, NAPPE et MARAIS._
 
 ### variable coeffCorrectionPluieAnAltitude 
 
-_Coefficient de correction des prï¿½cipitations annuelles en fonction de l'altitude (mm/mï¿½tre/an)._ 
+_Coefficient de correction des précipitations annuelles en fonction de l'altitude (mm/mètre/an)._ 
 ```C++
 float ParamSol::coeffCorrectionPluieAnAltitude;
 ```
@@ -119,7 +119,7 @@ float ParamSol::coeffCorrectionPluieAnAltitude;
 
 ### variable coeffInfiltrationNappe 
 
-_Coefficient d'infiltration dans le rï¿½servoir NAPPE._ 
+_Coefficient d'infiltration dans le réservoir NAPPE._ 
 ```C++
 std::vector<float> ParamSol::coeffInfiltrationNappe;
 ```
@@ -133,7 +133,7 @@ std::vector<float> ParamSol::coeffInfiltrationNappe;
 
 ### variable coeffVidangeBasseNappe 
 
-_Coefficient de vidange basse du rï¿½servoir NAPPE._ 
+_Coefficient de vidange basse du réservoir NAPPE._ 
 ```C++
 std::vector<float> ParamSol::coeffVidangeBasseNappe;
 ```
@@ -147,7 +147,7 @@ std::vector<float> ParamSol::coeffVidangeBasseNappe;
 
 ### variable coeffVidangeBasseSol 
 
-_Coefficient de vidange basse du rï¿½servoir SOL._ 
+_Coefficient de vidange basse du réservoir SOL._ 
 ```C++
 float ParamSol::coeffVidangeBasseSol;
 ```
@@ -161,7 +161,7 @@ float ParamSol::coeffVidangeBasseSol;
 
 ### variable coeffVidangeHauteNappe 
 
-_Coefficient de vidange haute du rï¿½servoir NAPPE._ 
+_Coefficient de vidange haute du réservoir NAPPE._ 
 ```C++
 std::vector<float> ParamSol::coeffVidangeHauteNappe;
 ```
@@ -175,7 +175,7 @@ std::vector<float> ParamSol::coeffVidangeHauteNappe;
 
 ### variable coeffVidangeIntermediaireSol 
 
-_Coefficient de vidange intermï¿½diaire du rï¿½servoir SOL._ 
+_Coefficient de vidange intermédiaire du réservoir SOL._ 
 ```C++
 std::vector<float> ParamSol::coeffVidangeIntermediaireSol;
 ```
@@ -189,7 +189,7 @@ std::vector<float> ParamSol::coeffVidangeIntermediaireSol;
 
 ### variable coeffVidangeLacsMarais 
 
-_Coefficient de vidange du rï¿½servoir LACS et MARAIS._ 
+_Coefficient de vidange du réservoir LACS et MARAIS._ 
 ```C++
 float ParamSol::coeffVidangeLacsMarais;
 ```
@@ -203,7 +203,7 @@ float ParamSol::coeffVidangeLacsMarais;
 
 ### variable correctionTempAltitude 
 
-_Correction des tempï¿½ratures en fonction de l'altitude (degC/1 000 m)._ 
+_Correction des températures en fonction de l'altitude (degC/1 000 m)._ 
 ```C++
 float ParamSol::correctionTempAltitude;
 ```
@@ -217,14 +217,14 @@ float ParamSol::correctionTempAltitude;
 
 ### variable fractionImpermeableCE 
 
-_Fraction de l'ï¿½vapotranspiration prise dans le rï¿½servoir NAPPE (de 0.0 a 1.0);._ 
+_Fraction de l'évapotranspiration prise dans le réservoir NAPPE (de 0.0 a 1.0);._ 
 ```C++
 std::vector<float> ParamSol::fractionImpermeableCE;
 ```
 
 
 
-Fraction de surface impermï¿½able des carreaux entiers (de 0.0 ï¿½ 1.0). 
+Fraction de surface imperméable des carreaux entiers (de 0.0 à 1.0). 
 
 
         
@@ -235,7 +235,7 @@ Fraction de surface impermï¿½able des carreaux entiers (de 0.0 ï¿½ 1.0).
 
 ### variable hauteurReservoirSol 
 
-_Hauteur du rï¿½servoir SOL (mm)._ 
+_Hauteur du réservoir SOL (mm)._ 
 ```C++
 std::vector<float> ParamSol::hauteurReservoirSol;
 ```
@@ -263,7 +263,7 @@ float ParamSol::infiltrationMax;
 
 ### variable lameEauDebutRuisellement 
 
-_Lame d'eau nï¿½cessaire pour que dï¿½bute le ruissellement sur les surfaces impermeables (mm)._ 
+_Lame d'eau nécessaire pour que débute le ruissellement sur les surfaces impermeables (mm)._ 
 ```C++
 std::vector<float> ParamSol::lameEauDebutRuisellement;
 ```
@@ -277,14 +277,13 @@ std::vector<float> ParamSol::lameEauDebutRuisellement;
 
 ### variable latitudeMoyenneBV 
 
-_Latitude moyenne du bassin versant en degrï¿½s et minutes sexagï¿½simales._ 
 ```C++
 float ParamSol::latitudeMoyenneBV;
 ```
 
 
 
-(ex.: XLA = 4245 pour une latitude de 42o45'). 
+Latitude moyenne du bassin versant en degrés et minutes sexagésimales (ex.: XLA = 4245 pour une latitude de 42o45'). 
 
 
         
@@ -295,7 +294,7 @@ float ParamSol::latitudeMoyenneBV;
 
 ### variable seuilInfiltrationSolVersNappe 
 
-_Seuil d'infiltration du rï¿½servoir SOL vers le rï¿½servoir NAPPE (mm)._ 
+_Seuil d'infiltration du réservoir SOL vers le réservoir NAPPE (mm)._ 
 ```C++
 std::vector<float> ParamSol::seuilInfiltrationSolVersNappe;
 ```
@@ -309,7 +308,7 @@ std::vector<float> ParamSol::seuilInfiltrationSolVersNappe;
 
 ### variable seuilPrelevementEauTauxPotentiel 
 
-_Seuil de prï¿½lï¿½vement de l'eau ï¿½ taux potentiel, par ï¿½vapotranspiration (mm)._ 
+_Seuil de prélévement de l'eau à taux potentiel, par évapotranspiration (mm)._ 
 ```C++
 std::vector<float> ParamSol::seuilPrelevementEauTauxPotentiel;
 ```
@@ -323,7 +322,7 @@ std::vector<float> ParamSol::seuilPrelevementEauTauxPotentiel;
 
 ### variable seuilVidangeHauteNappe 
 
-_Seuil de vidange supï¿½rieure du rï¿½servoir NAPPE (mm)._ 
+_Seuil de vidange supérieure du réservoir NAPPE (mm)._ 
 ```C++
 std::vector<float> ParamSol::seuilVidangeHauteNappe;
 ```
@@ -337,7 +336,7 @@ std::vector<float> ParamSol::seuilVidangeHauteNappe;
 
 ### variable seuilVidangeIntermediaireSol 
 
-_Seuil de vidange intermï¿½diaire du rï¿½servoir SOL (mm)._ 
+_Seuil de vidange intermédiaire du réservoir SOL (mm)._ 
 ```C++
 std::vector<float> ParamSol::seuilVidangeIntermediaireSol;
 ```
@@ -351,7 +350,7 @@ std::vector<float> ParamSol::seuilVidangeIntermediaireSol;
 
 ### variable seuilVidangeLacsMarais 
 
-_Seuil de vidange du rï¿½servoir LACS et MARAIS (mm)._ 
+_Seuil de vidange du réservoir LACS et MARAIS (mm)._ 
 ```C++
 float ParamSol::seuilVidangeLacsMarais;
 ```

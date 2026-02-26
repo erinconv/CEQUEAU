@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="301" column="8" bodyfile="src/CarreauPartiel.h" bodystart="301" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="151" column="8" bodyfile="src/CarreauPartiel.h" bodystart="151" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a0d1ef0f1b6cadbe9fbc8f50d8f4ca84d" prot="private" static="no" mutable="no">
         <type>char</type>
@@ -31,7 +31,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="303" column="8" bodyfile="src/CarreauPartiel.h" bodystart="303" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="152" column="8" bodyfile="src/CarreauPartiel.h" bodystart="152" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a728cd85aeecc3dd05b8f8e9436a62583" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -45,7 +45,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="305" column="8" bodyfile="src/CarreauPartiel.h" bodystart="305" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="153" column="8" bodyfile="src/CarreauPartiel.h" bodystart="153" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a4ad9296a7745fb6859f959a743773091" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -59,7 +59,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="307" column="8" bodyfile="src/CarreauPartiel.h" bodystart="307" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="154" column="8" bodyfile="src/CarreauPartiel.h" bodystart="154" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1abd92eb34abe0f8cb49223a89c635e828" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -73,7 +73,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="309" column="8" bodyfile="src/CarreauPartiel.h" bodystart="309" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="155" column="8" bodyfile="src/CarreauPartiel.h" bodystart="155" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a301b86ae88b3668bd62af1a5af4abaaa" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -87,7 +87,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="311" column="8" bodyfile="src/CarreauPartiel.h" bodystart="311" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="156" column="8" bodyfile="src/CarreauPartiel.h" bodystart="156" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a2901b426d7c2e345b4f98deae8986d94" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -101,7 +101,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="313" column="8" bodyfile="src/CarreauPartiel.h" bodystart="313" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="157" column="8" bodyfile="src/CarreauPartiel.h" bodystart="157" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a424c1cae3101adfd47a1266ab9bf3073" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -115,7 +115,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="315" column="8" bodyfile="src/CarreauPartiel.h" bodystart="315" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="158" column="8" bodyfile="src/CarreauPartiel.h" bodystart="158" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a59531fc153826e67517bf73d52a1dacd" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -129,7 +129,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="317" column="8" bodyfile="src/CarreauPartiel.h" bodystart="317" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="159" column="8" bodyfile="src/CarreauPartiel.h" bodystart="159" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a2114d4d030258d26c4fc718bf1fbd3d6" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -143,7 +143,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="319" column="8" bodyfile="src/CarreauPartiel.h" bodystart="319" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="160" column="8" bodyfile="src/CarreauPartiel.h" bodystart="160" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a137d1c21b45a32c10f0db4da5335f86e" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -157,7 +157,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="321" column="8" bodyfile="src/CarreauPartiel.h" bodystart="321" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="161" column="8" bodyfile="src/CarreauPartiel.h" bodystart="161" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a18a7b37b169b129759187cdae3510f1c" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -171,7 +171,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="323" column="8" bodyfile="src/CarreauPartiel.h" bodystart="323" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="162" column="8" bodyfile="src/CarreauPartiel.h" bodystart="162" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1accb4d025264dd1e49b94d0a6bc9ea7c7" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -185,7 +185,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="325" column="8" bodyfile="src/CarreauPartiel.h" bodystart="325" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="163" column="8" bodyfile="src/CarreauPartiel.h" bodystart="163" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a772143b2b0b048f3749973b93f406507" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -199,7 +199,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="327" column="8" bodyfile="src/CarreauPartiel.h" bodystart="327" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="164" column="8" bodyfile="src/CarreauPartiel.h" bodystart="164" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1ac3bd4b702e4c5c581bd4e424c43d367e" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -213,7 +213,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="329" column="8" bodyfile="src/CarreauPartiel.h" bodystart="329" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="165" column="8" bodyfile="src/CarreauPartiel.h" bodystart="165" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a25380375c86bd891cd05cce572ea8fac" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -227,7 +227,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="331" column="8" bodyfile="src/CarreauPartiel.h" bodystart="331" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="166" column="8" bodyfile="src/CarreauPartiel.h" bodystart="166" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1aae58b788476be00dfdd27230a86557cd" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -241,7 +241,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="333" column="8" bodyfile="src/CarreauPartiel.h" bodystart="333" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="167" column="8" bodyfile="src/CarreauPartiel.h" bodystart="167" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1af9689b3b312a12a722a237799d96faf0" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -255,7 +255,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="335" column="8" bodyfile="src/CarreauPartiel.h" bodystart="335" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="168" column="8" bodyfile="src/CarreauPartiel.h" bodystart="168" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1aa9e536748ca9c792f1cb7288f9e78952" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -269,7 +269,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="337" column="9" bodyfile="src/CarreauPartiel.h" bodystart="337" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="169" column="9" bodyfile="src/CarreauPartiel.h" bodystart="169" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a2ae8586b3b36de1ffc6f472c0900a44c" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -283,7 +283,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="339" column="9" bodyfile="src/CarreauPartiel.h" bodystart="339" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="170" column="9" bodyfile="src/CarreauPartiel.h" bodystart="170" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1aebfc548ed1394cd647a32ebe7431b7f3" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -297,7 +297,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="341" column="8" bodyfile="src/CarreauPartiel.h" bodystart="341" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="171" column="8" bodyfile="src/CarreauPartiel.h" bodystart="171" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1ab1910ff589aa7529dc846b1cac6b02bb" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -311,7 +311,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="343" column="8" bodyfile="src/CarreauPartiel.h" bodystart="343" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="172" column="8" bodyfile="src/CarreauPartiel.h" bodystart="172" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1af5aef1edf21959cac9502d557ec8386d" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -325,7 +325,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="345" column="8" bodyfile="src/CarreauPartiel.h" bodystart="345" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="173" column="8" bodyfile="src/CarreauPartiel.h" bodystart="173" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a2ad404f04161247e523e470042b30da0" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -339,7 +339,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="347" column="10" bodyfile="src/CarreauPartiel.h" bodystart="347" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="174" column="10" bodyfile="src/CarreauPartiel.h" bodystart="174" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a680976b4564d59b677b056c51872422b" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -353,7 +353,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="349" column="9" bodyfile="src/CarreauPartiel.h" bodystart="349" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="175" column="9" bodyfile="src/CarreauPartiel.h" bodystart="175" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a11fed429e99a036b3f53103d3d1c1361" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -367,7 +367,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="351" column="9" bodyfile="src/CarreauPartiel.h" bodystart="351" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="176" column="9" bodyfile="src/CarreauPartiel.h" bodystart="176" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a857b0bce49d5fb91396b2e3b43f0b231" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -381,7 +381,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="353" column="9" bodyfile="src/CarreauPartiel.h" bodystart="353" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="177" column="9" bodyfile="src/CarreauPartiel.h" bodystart="177" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a4a5458e0633db5f68c6d7b82723058c5" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -395,7 +395,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="355" column="9" bodyfile="src/CarreauPartiel.h" bodystart="355" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="178" column="9" bodyfile="src/CarreauPartiel.h" bodystart="178" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a9ac4079e61baf3a1c521eadf7ef6a163" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -409,7 +409,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="357" column="9" bodyfile="src/CarreauPartiel.h" bodystart="357" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="179" column="9" bodyfile="src/CarreauPartiel.h" bodystart="179" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a908aa946e3765fdcc3b3d9eabeda7c05" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -423,7 +423,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="359" column="7" bodyfile="src/CarreauPartiel.h" bodystart="359" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="180" column="7" bodyfile="src/CarreauPartiel.h" bodystart="180" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a241708252156b3a45f26060f2cb29d39" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -437,7 +437,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="361" column="7" bodyfile="src/CarreauPartiel.h" bodystart="361" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="181" column="7" bodyfile="src/CarreauPartiel.h" bodystart="181" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1aba2df52910e34843e263edb36b33296e" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -451,7 +451,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="363" column="7" bodyfile="src/CarreauPartiel.h" bodystart="363" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="182" column="7" bodyfile="src/CarreauPartiel.h" bodystart="182" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a658c7ebff59f7eabc648d4e8ef9ba2d2" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -465,7 +465,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="365" column="7" bodyfile="src/CarreauPartiel.h" bodystart="365" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="183" column="7" bodyfile="src/CarreauPartiel.h" bodystart="183" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1addbccb88202a76bdec134f8df920c984" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -479,7 +479,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="367" column="10" bodyfile="src/CarreauPartiel.h" bodystart="367" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="184" column="10" bodyfile="src/CarreauPartiel.h" bodystart="184" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classCarreauPartiel_1a8f8320c2cb8e22e9862339d04dfac8e5" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -493,7 +493,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="369" column="7" bodyfile="src/CarreauPartiel.h" bodystart="369" bodyend="-1"/>
+        <location file="src/CarreauPartiel.h" line="185" column="7" bodyfile="src/CarreauPartiel.h" bodystart="185" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -642,7 +642,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="51" column="3" bodyfile="src/CarreauPartiel.cpp" bodystart="16" bodyend="90"/>
+        <location file="src/CarreauPartiel.h" line="26" column="3" bodyfile="src/CarreauPartiel.cpp" bodystart="16" bodyend="90"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a6a91527fae9eae19145546a57086e3ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -656,7 +656,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="125" column="3" bodyfile="src/CarreauPartiel.cpp" bodystart="93" bodyend="96"/>
+        <location file="src/CarreauPartiel.h" line="63" column="3" bodyfile="src/CarreauPartiel.cpp" bodystart="93" bodyend="96"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a1c5d48618818ef82f5e31ca31c7dadfe" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -671,7 +671,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="133" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="99" bodyend="103"/>
+        <location file="src/CarreauPartiel.h" line="67" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="99" bodyend="103"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a577c4efe33b63d6a08ee3929cf3e56e7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>char</type>
@@ -686,7 +686,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="137" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="106" bodyend="110"/>
+        <location file="src/CarreauPartiel.h" line="69" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="106" bodyend="110"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a521f9c8d7be18b4fe157c8e840fd610f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -701,7 +701,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="141" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="113" bodyend="117"/>
+        <location file="src/CarreauPartiel.h" line="71" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="113" bodyend="117"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a30d2a82a7dd1d061461ccdd958c7154d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -716,7 +716,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="145" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="120" bodyend="124"/>
+        <location file="src/CarreauPartiel.h" line="73" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="120" bodyend="124"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1aede60b95d247edbe579bbe837de192d0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -725,13 +725,13 @@
         <name>jCarreauEntier</name>
         <qualifiedname>CarreauPartiel::jCarreauEntier</qualifiedname>
         <briefdescription>
-<para>Getter Ordonnï¿½e J du carreau entier auquel appartient le carreau partiel. </para>
+<para>Getter Ordonnée J du carreau entier auquel appartient le carreau partiel. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="149" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="127" bodyend="131"/>
+        <location file="src/CarreauPartiel.h" line="75" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="127" bodyend="131"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1add39fa7c2914a2b321a4a47ee8b7f418" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -746,7 +746,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="153" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="134" bodyend="138"/>
+        <location file="src/CarreauPartiel.h" line="77" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="134" bodyend="138"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a7b8d00869494bd84540222343223c544" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>const int *</type>
@@ -761,7 +761,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="157" column="14" bodyfile="src/CarreauPartiel.cpp" bodystart="141" bodyend="145"/>
+        <location file="src/CarreauPartiel.h" line="79" column="14" bodyfile="src/CarreauPartiel.cpp" bodystart="141" bodyend="145"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1ac6571b8a872ef7e9dfa6fe218b11b76e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -776,7 +776,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="161" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="148" bodyend="152"/>
+        <location file="src/CarreauPartiel.h" line="81" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="148" bodyend="152"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a8d469b2acbc4e6a3fb9e5e1c12f7e495" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -791,7 +791,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="165" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="155" bodyend="159"/>
+        <location file="src/CarreauPartiel.h" line="83" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="155" bodyend="159"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a9a731f78e2196176db861f74876b3a8a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -806,7 +806,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="169" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="162" bodyend="166"/>
+        <location file="src/CarreauPartiel.h" line="85" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="162" bodyend="166"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a7221fc5eb095b64d70ebcb5dcd0988e6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -821,7 +821,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="173" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="169" bodyend="173"/>
+        <location file="src/CarreauPartiel.h" line="87" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="169" bodyend="173"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1ad6e9b5446cbacd50aee2b4628b974d46" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -836,7 +836,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="177" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="176" bodyend="180"/>
+        <location file="src/CarreauPartiel.h" line="89" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="176" bodyend="180"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a3c4ebdccf3e37bd863457c371d43e9bd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -851,7 +851,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="181" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="183" bodyend="187"/>
+        <location file="src/CarreauPartiel.h" line="91" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="183" bodyend="187"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a18761a95db1b4a093df2917c1d8a5ec1" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -866,7 +866,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="185" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="190" bodyend="194"/>
+        <location file="src/CarreauPartiel.h" line="93" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="190" bodyend="194"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a52f0d2f29a8d6c5189ef8a685202fba0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -881,7 +881,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="189" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="197" bodyend="201"/>
+        <location file="src/CarreauPartiel.h" line="95" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="197" bodyend="201"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1ab7f834ec5059dc66fb2435c566d9d2de" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -896,7 +896,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="193" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="204" bodyend="208"/>
+        <location file="src/CarreauPartiel.h" line="97" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="204" bodyend="208"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1ab386caf2d701fbb363bb85d2c075bbc8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -911,7 +911,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="197" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="211" bodyend="215"/>
+        <location file="src/CarreauPartiel.h" line="99" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="211" bodyend="215"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a0e3eeb680f5472ad5d9f269b80e165a1" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -922,12 +922,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Getter Cumul des pourcentages de superficie des carreaux partiels en</para>
-<para>amont, calcule ï¿½ la sortie du carreau partiel considere. </para>
+<para>Getter Cumul des pourcentages de superficie des carreaux partiels en amont, calcule à la sortie du carreau partiel considéré. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="203" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="218" bodyend="222"/>
+        <location file="src/CarreauPartiel.h" line="102" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="218" bodyend="222"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a416c2c10af956afbd147f20a18d43793" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -946,7 +945,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="207" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="225" bodyend="229"/>
+        <location file="src/CarreauPartiel.h" line="104" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="225" bodyend="229"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a64bfb9c468501220aa0529954a99ebc4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -957,12 +956,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Getter Cumul des pourcentages de superficie des lacs en amont, calcule</para>
-<para>a la sortie du carreau partiel considere. </para>
+<para>Getter Cumul des pourcentages de superficie des lacs en amont, calcule a la sortie du carreau partiel considere. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="213" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="232" bodyend="236"/>
+        <location file="src/CarreauPartiel.h" line="107" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="232" bodyend="236"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a0b31560117339b2d0775901a646dc6bb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -973,12 +971,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Getter Cumul des pourcentages de superficie des marais en amont, calcule</para>
-<para>a la sortie du carreau partiel considere. </para>
+<para>Getter Cumul des pourcentages de superficie des marais en amont, calcule a la sortie du carreau partiel considere. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="219" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="239" bodyend="243"/>
+        <location file="src/CarreauPartiel.h" line="110" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="239" bodyend="243"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a7763540e2fa0991bf01171d5ac8139e8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -989,12 +986,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Getter Cumul des pourcentages de superficie de foret en amont, calcule</para>
-<para>a la sortie du carreau partiel considere. </para>
+<para>Getter Cumul des pourcentages de superficie de foret en amont, calcule a la sortie du carreau partiel considere. </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="225" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="246" bodyend="250"/>
+        <location file="src/CarreauPartiel.h" line="113" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="246" bodyend="250"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1ad96587307b96c19ac4811f92a45d3a89" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -1009,7 +1005,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="229" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="253" bodyend="257"/>
+        <location file="src/CarreauPartiel.h" line="115" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="253" bodyend="257"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a42fc21b0a7c10386ab7530e6d6c335c4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -1024,7 +1020,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="233" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="260" bodyend="264"/>
+        <location file="src/CarreauPartiel.h" line="117" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="260" bodyend="264"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1af50f3342891daacf8669ed268bb983ad" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -1039,7 +1035,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="237" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="267" bodyend="270"/>
+        <location file="src/CarreauPartiel.h" line="119" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="267" bodyend="270"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a184fa4da82ecec6726f84881b0c40a5e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -1054,7 +1050,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="241" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="272" bodyend="275"/>
+        <location file="src/CarreauPartiel.h" line="121" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="272" bodyend="275"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a861c313eee155787f6ad77d63c49b006" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -1069,7 +1065,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="245" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="277" bodyend="280"/>
+        <location file="src/CarreauPartiel.h" line="123" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="277" bodyend="280"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a9e83d82616132d94086b4557b5284db5" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -1084,7 +1080,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="249" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="283" bodyend="286"/>
+        <location file="src/CarreauPartiel.h" line="125" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="283" bodyend="286"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a4283f1626a2cac2568db3a863b48c28b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1103,7 +1099,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="253" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="331" bodyend="335"/>
+        <location file="src/CarreauPartiel.h" line="127" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="331" bodyend="335"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1ad04cb1dca0e19f7e7b5a7283c7c90647" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1122,7 +1118,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="257" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="338" bodyend="342"/>
+        <location file="src/CarreauPartiel.h" line="129" column="11" bodyfile="src/CarreauPartiel.cpp" bodystart="338" bodyend="342"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a7f356c35e1ef5b6a3fac79cb4b5efeda" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -1137,7 +1133,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="263" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="289" bodyend="293"/>
+        <location file="src/CarreauPartiel.h" line="132" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="289" bodyend="293"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a0560654e9b32958713305bb2f63f46e6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -1152,7 +1148,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="267" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="296" bodyend="300"/>
+        <location file="src/CarreauPartiel.h" line="134" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="296" bodyend="300"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a6e68b113c63487263eab9d25699d8529" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -1167,7 +1163,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="271" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="303" bodyend="307"/>
+        <location file="src/CarreauPartiel.h" line="136" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="303" bodyend="307"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a03491bfb34e7179ddd16104a3cd7916b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -1182,7 +1178,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="275" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="310" bodyend="314"/>
+        <location file="src/CarreauPartiel.h" line="138" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="310" bodyend="314"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a69ede4d45c74e2c55de6a9cd980a76b4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -1197,7 +1193,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="279" column="10" bodyfile="src/CarreauPartiel.cpp" bodystart="317" bodyend="321"/>
+        <location file="src/CarreauPartiel.h" line="140" column="10" bodyfile="src/CarreauPartiel.cpp" bodystart="317" bodyend="321"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a78c858329b994f021863dc5c473cd21d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -1212,7 +1208,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="283" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="324" bodyend="328"/>
+        <location file="src/CarreauPartiel.h" line="142" column="7" bodyfile="src/CarreauPartiel.cpp" bodystart="324" bodyend="328"/>
       </memberdef>
       <memberdef kind="function" id="classCarreauPartiel_1a76a82006c7c2ea1b3ec36a7315feb365" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -1223,22 +1219,20 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Facteur de correction du debit calcule.</para>
-<para>= cumulPctSuperficieCPAmontCorrige / cumulPctSuperficieCPAmont </para>
+<para>Facteur de correction du debit calcule. = cumulPctSuperficieCPAmontCorrige / cumulPctSuperficieCPAmont </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/CarreauPartiel.h" line="293" column="9" bodyfile="src/CarreauPartiel.cpp" bodystart="345" bodyend="350"/>
+        <location file="src/CarreauPartiel.h" line="147" column="9" bodyfile="src/CarreauPartiel.cpp" bodystart="345" bodyend="350"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
 <para>Definition d&apos;un carreau partiel. </para>
     </briefdescription>
     <detaileddescription>
-<para>Definition d&apos;un carreau partiel</para>
-<para>selon les donnees physiographiques PREPAREES. </para>
+<para>Definition d&apos;un carreau partiel selon les donnees physiographiques PREPAREES. </para>
     </detaileddescription>
-    <location file="src/CarreauPartiel.h" line="43" column="1" bodyfile="src/CarreauPartiel.h" bodystart="45" bodyend="371"/>
+    <location file="src/CarreauPartiel.h" line="22" column="1" bodyfile="src/CarreauPartiel.h" bodystart="23" bodyend="186"/>
     <listofallmembers>
       <member refid="classCarreauPartiel_1a3c4ebdccf3e37bd863457c371d43e9bd" prot="public" virt="non-virtual"><scope>CarreauPartiel</scope><name>altitudeMoyenne</name></member>
       <member refid="classCarreauPartiel_1accb4d025264dd1e49b94d0a6bc9ea7c7" prot="private" virt="non-virtual"><scope>CarreauPartiel</scope><name>altitudeMoyenne_</name></member>

@@ -170,7 +170,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="166" column="3" bodyfile="src/SimulationQualite.cpp" bodystart="31" bodyend="45"/>
+        <location file="src/SimulationQualite.h" line="166" column="3" bodyfile="src/SimulationQualite.cpp" bodystart="16" bodyend="23"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1ab28df9cb88becbb6421f9880aa9f3dda" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -184,7 +184,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="168" column="3" bodyfile="src/SimulationQualite.cpp" bodystart="51" bodyend="57"/>
+        <location file="src/SimulationQualite.h" line="168" column="3" bodyfile="src/SimulationQualite.cpp" bodystart="26" bodyend="29"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1a10f1685f8a18e42c9cfef08b22fca104" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -204,7 +204,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="171" column="7" bodyfile="src/SimulationQualite.cpp" bodystart="63" bodyend="117"/>
+        <location file="src/SimulationQualite.h" line="171" column="7" bodyfile="src/SimulationQualite.cpp" bodystart="32" bodyend="59"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1ad179d14bdc8a35669abde6b8487b203e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>mxArray *</type>
@@ -251,7 +251,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="192" column="9" bodyfile="src/SimulationQualite.cpp" bodystart="123" bodyend="185"/>
+        <location file="src/SimulationQualite.h" line="192" column="9" bodyfile="src/SimulationQualite.cpp" bodystart="62" bodyend="93"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1ae8be7950011887b38fb33275f2ecd854" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -312,7 +312,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="204" column="7" bodyfile="src/SimulationQualite.cpp" bodystart="889" bodyend="963"/>
+        <location file="src/SimulationQualite.h" line="204" column="7" bodyfile="src/SimulationQualite.cpp" bodystart="445" bodyend="482"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1a8ef3ba86615ae136b6ba661cc259919b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -335,14 +335,14 @@
         <inbodydescription>
 <para>variable de surface</para>
 <para>variable de fonte</para>
-<para>variable d&apos;Ã©nergie (e....)</para>
+<para>variable d&apos;énergie (e....)</para>
 <para>variable d&apos;enthalpie (q....)</para>
 <para>variable de volume</para>
-<para>variable de tempÃ©rature (T...)</para>
-<para>variable de tempÃ©rature en Kelvin (TK...)</para>
+<para>variable de température (T...)</para>
+<para>variable de température en Kelvin (TK...)</para>
 <para>variable de atmospherique</para>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="209" column="7" bodyfile="src/SimulationQualite.cpp" bodystart="207" bodyend="883"/>
+        <location file="src/SimulationQualite.h" line="209" column="7" bodyfile="src/SimulationQualite.cpp" bodystart="104" bodyend="442"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1ae046347604d354843037d4591bde98cc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>mxArray *</type>
@@ -383,7 +383,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="215" column="5" bodyfile="src/SimulationQualite.cpp" bodystart="189" bodyend="203"/>
+        <location file="src/SimulationQualite.h" line="215" column="5" bodyfile="src/SimulationQualite.cpp" bodystart="95" bodyend="102"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1ae6c03d83c1ef38a02e63832c4c1de6db" prot="private" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -443,10 +443,10 @@
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
-<para>coefficient pour convertir des degrÃ©s en radians</para>
-<para>coefficient pour convertir des radians en degrÃ©s</para>
+<para>coefficient pour convertir des degrés en radians</para>
+<para>coefficient pour convertir des radians en degrés</para>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="220" column="10" bodyfile="src/SimulationQualite.cpp" bodystart="1005" bodyend="1063"/>
+        <location file="src/SimulationQualite.h" line="220" column="10" bodyfile="src/SimulationQualite.cpp" bodystart="503" bodyend="532"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1a3f9cba9e1e2d40bf89c5960e4c2174d2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -464,7 +464,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="222" column="10" bodyfile="src/SimulationQualite.cpp" bodystart="969" bodyend="973"/>
+        <location file="src/SimulationQualite.h" line="222" column="10" bodyfile="src/SimulationQualite.cpp" bodystart="485" bodyend="487"/>
       </memberdef>
       <memberdef kind="function" id="classSimulationQualite_1a67551c53263912d5b149ee62f98920da" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -486,7 +486,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/SimulationQualite.h" line="223" column="10" bodyfile="src/SimulationQualite.cpp" bodystart="977" bodyend="999"/>
+        <location file="src/SimulationQualite.h" line="223" column="10" bodyfile="src/SimulationQualite.cpp" bodystart="489" bodyend="500"/>
       </memberdef>
     </sectiondef>
     <briefdescription>

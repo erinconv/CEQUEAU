@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="57" column="11" bodyfile="src/Simulation.h" bodystart="57" bodyend="-1"/>
+        <location file="src/Simulation.h" line="58" column="11" bodyfile="src/Simulation.h" bodystart="58" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1a4fdc7d26bda3e506c1ecac4e43dc7a3e" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="58" column="11" bodyfile="src/Simulation.h" bodystart="58" bodyend="-1"/>
+        <location file="src/Simulation.h" line="59" column="11" bodyfile="src/Simulation.h" bodystart="59" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1aba81c91352f92f35f3c0a7de475b5c8f" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="59" column="11" bodyfile="src/Simulation.h" bodystart="59" bodyend="-1"/>
+        <location file="src/Simulation.h" line="60" column="11" bodyfile="src/Simulation.h" bodystart="60" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1a0318e905f8b60e47b1c916ec7da90afa" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -57,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="60" column="11" bodyfile="src/Simulation.h" bodystart="60" bodyend="-1"/>
+        <location file="src/Simulation.h" line="61" column="11" bodyfile="src/Simulation.h" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1a337d7037a04dabfffd53b12e9f1f806c" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -71,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="61" column="11" bodyfile="src/Simulation.h" bodystart="61" bodyend="-1"/>
+        <location file="src/Simulation.h" line="62" column="11" bodyfile="src/Simulation.h" bodystart="62" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1a84d1c3a7c40d115505cd3d27a1245832" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -85,7 +85,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="63" column="11" bodyfile="src/Simulation.h" bodystart="63" bodyend="-1"/>
+        <location file="src/Simulation.h" line="64" column="11" bodyfile="src/Simulation.h" bodystart="64" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1a23005b42779d6779a0406a9ee5903af8" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -99,7 +99,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="65" column="11" bodyfile="src/Simulation.h" bodystart="65" bodyend="-1"/>
+        <location file="src/Simulation.h" line="66" column="11" bodyfile="src/Simulation.h" bodystart="66" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauEntier_1_1Qualite_1aa4e6886f49e6799d438b4aa0d8b04898" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -113,14 +113,14 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="67" column="11" bodyfile="src/Simulation.h" bodystart="67" bodyend="-1"/>
+        <location file="src/Simulation.h" line="68" column="11" bodyfile="src/Simulation.h" bodystart="68" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/Simulation.h" line="54" column="3" bodyfile="src/Simulation.h" bodystart="55" bodyend="68"/>
+    <location file="src/Simulation.h" line="55" column="3" bodyfile="src/Simulation.h" bodystart="56" bodyend="69"/>
     <listofallmembers>
       <member refid="classEtatCarreauEntier_1_1Qualite_1aa4e6886f49e6799d438b4aa0d8b04898" prot="public" virt="non-virtual"><scope>EtatCarreauEntier::Qualite</scope><name>ETRLAC</name></member>
       <member refid="classEtatCarreauEntier_1_1Qualite_1a23005b42779d6779a0406a9ee5903af8" prot="public" virt="non-virtual"><scope>EtatCarreauEntier::Qualite</scope><name>ETRNAP</name></member>

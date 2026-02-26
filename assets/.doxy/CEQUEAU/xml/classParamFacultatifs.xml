@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="309" column="12" bodyfile="src/Parametres.h" bodystart="309" bodyend="-1"/>
+        <location file="src/Parametres.h" line="155" column="12" bodyfile="src/Parametres.h" bodystart="155" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamFacultatifs_1ae7acebfaabad28f39e4b264b19ef01ed" prot="public" static="no" mutable="no">
         <type>std::map&lt; int, double &gt;</type>
@@ -32,7 +32,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="313" column="12" bodyfile="src/Parametres.h" bodystart="313" bodyend="-1"/>
+        <location file="src/Parametres.h" line="157" column="12" bodyfile="src/Parametres.h" bodystart="157" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamFacultatifs_1aaa1444e322582e6e54091f916cbee0e7" prot="public" static="no" mutable="no">
         <type>std::map&lt; int, int &gt;</type>
@@ -43,13 +43,11 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>Permettent de tenir compte, pour le calcul des coefficients de transfert,</para>
-<para>des lacs chevauchant plusieurs carreaux partiels, ou encore d&apos;exclure du carreau</para>
-<para>partiel les lacs non situes sur le reseau d&apos;ï¿½coulement </para>
+<para>Permettent de tenir compte, pour le calcul des coefficients de transfert, des lacs chevauchant plusieurs carreaux partiels, ou encore d&apos;exclure du carreau partiel les lacs non situes sur le reseau d&apos;écoulement </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="325" column="12" bodyfile="src/Parametres.h" bodystart="325" bodyend="-1"/>
+        <location file="src/Parametres.h" line="163" column="12" bodyfile="src/Parametres.h" bodystart="163" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamFacultatifs_1a4e88fa01ca08a935730e56a2893f294c" prot="public" static="no" mutable="no">
         <type>std::map&lt; int, float &gt;</type>
@@ -64,7 +62,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="329" column="12" bodyfile="src/Parametres.h" bodystart="329" bodyend="-1"/>
+        <location file="src/Parametres.h" line="165" column="12" bodyfile="src/Parametres.h" bodystart="165" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamFacultatifs_1ae18f8e940729b0c7af12a612227e4b82" prot="public" static="no" mutable="no">
         <type>std::vector&lt; int &gt;</type>
@@ -79,7 +77,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="335" column="15" bodyfile="src/Parametres.h" bodystart="335" bodyend="-1"/>
+        <location file="src/Parametres.h" line="168" column="15" bodyfile="src/Parametres.h" bodystart="168" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamFacultatifs_1a3d7edb1c9e13a7c45693ff92889abf05" prot="public" static="no" mutable="no">
         <type>std::multimap&lt; <ref refid="classDateChrono" kindref="compound">DateChrono</ref>, <ref refid="classValeurZone" kindref="compound">ValeurZone</ref> &gt;</type>
@@ -94,7 +92,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="343" column="17" bodyfile="src/Parametres.h" bodystart="343" bodyend="-1"/>
+        <location file="src/Parametres.h" line="172" column="17" bodyfile="src/Parametres.h" bodystart="172" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamFacultatifs_1a38ebb4bfbd35f537446879f21c48dc31" prot="public" static="no" mutable="no">
         <type>TypeAjustementNeige</type>
@@ -108,7 +106,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="345" column="23" bodyfile="src/Parametres.h" bodystart="345" bodyend="-1"/>
+        <location file="src/Parametres.h" line="173" column="23" bodyfile="src/Parametres.h" bodystart="173" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -167,7 +165,7 @@
         <label>std::vector&lt; int &gt;</label>
       </node>
     </collaborationgraph>
-    <location file="src/Parametres.h" line="301" column="1" bodyfile="src/Parametres.h" bodystart="303" bodyend="347"/>
+    <location file="src/Parametres.h" line="151" column="1" bodyfile="src/Parametres.h" bodystart="152" bodyend="174"/>
     <listofallmembers>
       <member refid="classParamFacultatifs_1ae7acebfaabad28f39e4b264b19ef01ed" prot="public" virt="non-virtual"><scope>ParamFacultatifs</scope><name>coeffTxParticuliers</name></member>
       <member refid="classParamFacultatifs_1ae18f8e940729b0c7af12a612227e4b82" prot="public" virt="non-virtual"><scope>ParamFacultatifs</scope><name>lacExutoire</name></member>

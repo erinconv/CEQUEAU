@@ -52,7 +52,7 @@ _Classe utilitaire pour le tri des carreaux entiers._
 
 | Type | Name |
 | ---: | :--- |
-|  bool | [**operator()**](#function-operator()) (const CarreauEntierPtr carreauEntier1, const CarreauEntierPtr carreauEntier2) <br> |
+|  bool | [**operator()**](#function-operator) (const CarreauEntierPtr carreauEntier1, const CarreauEntierPtr carreauEntier2) <br> |
 
 
 

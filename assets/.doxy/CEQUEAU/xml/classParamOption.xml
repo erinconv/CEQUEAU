@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="213" column="7" bodyfile="src/Parametres.h" bodystart="213" bodyend="-1"/>
+        <location file="src/Parametres.h" line="107" column="7" bodyfile="src/Parametres.h" bodystart="107" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamOption_1a0440f4ce27a038d572e1b6618beae22d" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -32,7 +32,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="217" column="7" bodyfile="src/Parametres.h" bodystart="217" bodyend="-1"/>
+        <location file="src/Parametres.h" line="109" column="7" bodyfile="src/Parametres.h" bodystart="109" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamOption_1a4169c24a238c586731ab63e632ccb68e" prot="public" static="no" mutable="no">
         <type>bool</type>
@@ -47,7 +47,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="221" column="8" bodyfile="src/Parametres.h" bodystart="221" bodyend="-1"/>
+        <location file="src/Parametres.h" line="111" column="8" bodyfile="src/Parametres.h" bodystart="111" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamOption_1a638485b1f19320cbd9c6d813045ba409" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -62,7 +62,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="225" column="7" bodyfile="src/Parametres.h" bodystart="225" bodyend="-1"/>
+        <location file="src/Parametres.h" line="113" column="7" bodyfile="src/Parametres.h" bodystart="113" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamOption_1af9f79d689ef2c7876114400863631a7f" prot="public" static="no" mutable="no">
         <type>bool</type>
@@ -76,7 +76,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="229" column="8" bodyfile="src/Parametres.h" bodystart="229" bodyend="-1"/>
+        <location file="src/Parametres.h" line="115" column="8" bodyfile="src/Parametres.h" bodystart="115" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamOption_1a24bf960087f0f43c77e055961319ea6f" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -91,7 +91,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="233" column="7" bodyfile="src/Parametres.h" bodystart="233" bodyend="-1"/>
+        <location file="src/Parametres.h" line="117" column="7" bodyfile="src/Parametres.h" bodystart="117" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamOption_1a804f0ac5df8fdb816aa655a9e6c44dfa" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -106,7 +106,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="237" column="7" bodyfile="src/Parametres.h" bodystart="237" bodyend="-1"/>
+        <location file="src/Parametres.h" line="119" column="7" bodyfile="src/Parametres.h" bodystart="119" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -114,7 +114,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/Parametres.h" line="205" column="1" bodyfile="src/Parametres.h" bodystart="207" bodyend="239"/>
+    <location file="src/Parametres.h" line="103" column="1" bodyfile="src/Parametres.h" bodystart="104" bodyend="120"/>
     <listofallmembers>
       <member refid="classParamOption_1a4169c24a238c586731ab63e632ccb68e" prot="public" virt="non-virtual"><scope>ParamOption</scope><name>calculQualite</name></member>
       <member refid="classParamOption_1af9f79d689ef2c7876114400863631a7f" prot="public" virt="non-virtual"><scope>ParamOption</scope><name>logNeigeAjustee</name></member>

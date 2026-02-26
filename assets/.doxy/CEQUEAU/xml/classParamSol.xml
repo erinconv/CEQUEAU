@@ -11,13 +11,13 @@
         <name>coeffInfiltrationNappe</name>
         <qualifiedname>ParamSol::coeffInfiltrationNappe</qualifiedname>
         <briefdescription>
-<para>Coefficient d&apos;infiltration dans le rï¿½servoir NAPPE. </para>
+<para>Coefficient d&apos;infiltration dans le réservoir NAPPE. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="43" column="15" bodyfile="src/Parametres.h" bodystart="43" bodyend="-1"/>
+        <location file="src/Parametres.h" line="22" column="15" bodyfile="src/Parametres.h" bodystart="22" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a4b7046ceb396d7c7573af56e07b47e0a" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -26,13 +26,13 @@
         <name>coeffVidangeLacsMarais</name>
         <qualifiedname>ParamSol::coeffVidangeLacsMarais</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange du rï¿½servoir LACS et MARAIS. </para>
+<para>Coefficient de vidange du réservoir LACS et MARAIS. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="49" column="9" bodyfile="src/Parametres.h" bodystart="49" bodyend="-1"/>
+        <location file="src/Parametres.h" line="25" column="9" bodyfile="src/Parametres.h" bodystart="25" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a69b67d42bd0da8fd365edc5377a7facd" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -41,13 +41,13 @@
         <name>coeffVidangeBasseNappe</name>
         <qualifiedname>ParamSol::coeffVidangeBasseNappe</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange basse du rï¿½servoir NAPPE. </para>
+<para>Coefficient de vidange basse du réservoir NAPPE. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="55" column="15" bodyfile="src/Parametres.h" bodystart="55" bodyend="-1"/>
+        <location file="src/Parametres.h" line="28" column="15" bodyfile="src/Parametres.h" bodystart="28" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1abb2cf34c4b97a6665f59fbfaebcb015a" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -56,13 +56,13 @@
         <name>coeffVidangeHauteNappe</name>
         <qualifiedname>ParamSol::coeffVidangeHauteNappe</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange haute du rï¿½servoir NAPPE. </para>
+<para>Coefficient de vidange haute du réservoir NAPPE. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="61" column="15" bodyfile="src/Parametres.h" bodystart="61" bodyend="-1"/>
+        <location file="src/Parametres.h" line="31" column="15" bodyfile="src/Parametres.h" bodystart="31" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1aeb743e8ed23a0b4494409c12e71b7181" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -71,13 +71,13 @@
         <name>coeffVidangeBasseSol</name>
         <qualifiedname>ParamSol::coeffVidangeBasseSol</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange basse du rï¿½servoir SOL. </para>
+<para>Coefficient de vidange basse du réservoir SOL. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="67" column="9" bodyfile="src/Parametres.h" bodystart="67" bodyend="-1"/>
+        <location file="src/Parametres.h" line="34" column="9" bodyfile="src/Parametres.h" bodystart="34" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1ae4812e9153bcc2dc7e05fe6c39c403ed" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -86,13 +86,13 @@
         <name>coeffVidangeIntermediaireSol</name>
         <qualifiedname>ParamSol::coeffVidangeIntermediaireSol</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange intermï¿½diaire du rï¿½servoir SOL. </para>
+<para>Coefficient de vidange intermédiaire du réservoir SOL. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="73" column="15" bodyfile="src/Parametres.h" bodystart="73" bodyend="-1"/>
+        <location file="src/Parametres.h" line="37" column="15" bodyfile="src/Parametres.h" bodystart="37" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a8281d373d1cad4c0edf6516be7835dc0" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -107,7 +107,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="79" column="9" bodyfile="src/Parametres.h" bodystart="79" bodyend="-1"/>
+        <location file="src/Parametres.h" line="40" column="9" bodyfile="src/Parametres.h" bodystart="40" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a759d2d644ca7d822e3a7ec750559ec40" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -116,13 +116,13 @@
         <name>seuilInfiltrationSolVersNappe</name>
         <qualifiedname>ParamSol::seuilInfiltrationSolVersNappe</qualifiedname>
         <briefdescription>
-<para>Seuil d&apos;infiltration du rï¿½servoir SOL vers le rï¿½servoir NAPPE (mm). </para>
+<para>Seuil d&apos;infiltration du réservoir SOL vers le réservoir NAPPE (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="87" column="15" bodyfile="src/Parametres.h" bodystart="87" bodyend="-1"/>
+        <location file="src/Parametres.h" line="44" column="15" bodyfile="src/Parametres.h" bodystart="44" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a9e56037d8265a06ad8e2157fadd934ce" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -131,13 +131,13 @@
         <name>seuilVidangeIntermediaireSol</name>
         <qualifiedname>ParamSol::seuilVidangeIntermediaireSol</qualifiedname>
         <briefdescription>
-<para>Seuil de vidange intermï¿½diaire du rï¿½servoir SOL (mm). </para>
+<para>Seuil de vidange intermédiaire du réservoir SOL (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="93" column="15" bodyfile="src/Parametres.h" bodystart="93" bodyend="-1"/>
+        <location file="src/Parametres.h" line="47" column="15" bodyfile="src/Parametres.h" bodystart="47" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a6ffb000d0aea68ca7c287722a70b2030" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -146,13 +146,13 @@
         <name>seuilVidangeLacsMarais</name>
         <qualifiedname>ParamSol::seuilVidangeLacsMarais</qualifiedname>
         <briefdescription>
-<para>Seuil de vidange du rï¿½servoir LACS et MARAIS (mm). </para>
+<para>Seuil de vidange du réservoir LACS et MARAIS (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="99" column="9" bodyfile="src/Parametres.h" bodystart="99" bodyend="-1"/>
+        <location file="src/Parametres.h" line="50" column="9" bodyfile="src/Parametres.h" bodystart="50" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1acaa6af259bdc8c385ef692ac1536bb3b" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -161,13 +161,13 @@
         <name>seuilVidangeHauteNappe</name>
         <qualifiedname>ParamSol::seuilVidangeHauteNappe</qualifiedname>
         <briefdescription>
-<para>Seuil de vidange supï¿½rieure du rï¿½servoir NAPPE (mm). </para>
+<para>Seuil de vidange supérieure du réservoir NAPPE (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="105" column="15" bodyfile="src/Parametres.h" bodystart="105" bodyend="-1"/>
+        <location file="src/Parametres.h" line="53" column="15" bodyfile="src/Parametres.h" bodystart="53" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a82e2d88607c6d0aea0510b12bf4a570b" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -176,13 +176,13 @@
         <name>seuilPrelevementEauTauxPotentiel</name>
         <qualifiedname>ParamSol::seuilPrelevementEauTauxPotentiel</qualifiedname>
         <briefdescription>
-<para>Seuil de prï¿½lï¿½vement de l&apos;eau ï¿½ taux potentiel, par ï¿½vapotranspiration (mm). </para>
+<para>Seuil de prélévement de l&apos;eau à taux potentiel, par évapotranspiration (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="111" column="15" bodyfile="src/Parametres.h" bodystart="111" bodyend="-1"/>
+        <location file="src/Parametres.h" line="56" column="15" bodyfile="src/Parametres.h" bodystart="56" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1aace4f73f2d057bc3e16e041cc3079dd9" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -191,13 +191,13 @@
         <name>hauteurReservoirSol</name>
         <qualifiedname>ParamSol::hauteurReservoirSol</qualifiedname>
         <briefdescription>
-<para>Hauteur du rï¿½servoir SOL (mm). </para>
+<para>Hauteur du réservoir SOL (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="117" column="15" bodyfile="src/Parametres.h" bodystart="117" bodyend="-1"/>
+        <location file="src/Parametres.h" line="59" column="15" bodyfile="src/Parametres.h" bodystart="59" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1aff2b37f293d1c1e5419f46921edf4c14" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -206,13 +206,13 @@
         <name>lameEauDebutRuisellement</name>
         <qualifiedname>ParamSol::lameEauDebutRuisellement</qualifiedname>
         <briefdescription>
-<para>Lame d&apos;eau nï¿½cessaire pour que dï¿½bute le ruissellement sur les surfaces impermeables (mm). </para>
+<para>Lame d&apos;eau nécessaire pour que débute le ruissellement sur les surfaces impermeables (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="123" column="15" bodyfile="src/Parametres.h" bodystart="123" bodyend="-1"/>
+        <location file="src/Parametres.h" line="62" column="15" bodyfile="src/Parametres.h" bodystart="62" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1af6ed0f913d3f476ebc03b05328f14311" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -221,13 +221,13 @@
         <name>coeffCorrectionPluieAnAltitude</name>
         <qualifiedname>ParamSol::coeffCorrectionPluieAnAltitude</qualifiedname>
         <briefdescription>
-<para>Coefficient de correction des prï¿½cipitations annuelles en fonction de l&apos;altitude (mm/mï¿½tre/an). </para>
+<para>Coefficient de correction des précipitations annuelles en fonction de l&apos;altitude (mm/mètre/an). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="131" column="9" bodyfile="src/Parametres.h" bodystart="131" bodyend="-1"/>
+        <location file="src/Parametres.h" line="66" column="9" bodyfile="src/Parametres.h" bodystart="66" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a2780f0dfca05db996cd58f9535fc26ba" prot="public" static="no" mutable="no">
         <type>std::vector&lt; float &gt;</type>
@@ -236,14 +236,14 @@
         <name>fractionImpermeableCE</name>
         <qualifiedname>ParamSol::fractionImpermeableCE</qualifiedname>
         <briefdescription>
-<para>Fraction de l&apos;ï¿½vapotranspiration prise dans le rï¿½servoir NAPPE (de 0.0 a 1.0);. </para>
+<para>Fraction de l&apos;évapotranspiration prise dans le réservoir NAPPE (de 0.0 a 1.0);. </para>
         </briefdescription>
         <detaileddescription>
-<para>Fraction de surface impermï¿½able des carreaux entiers (de 0.0 ï¿½ 1.0). </para>
+<para>Fraction de surface imperméable des carreaux entiers (de 0.0 à 1.0). </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="145" column="15" bodyfile="src/Parametres.h" bodystart="145" bodyend="-1"/>
+        <location file="src/Parametres.h" line="73" column="15" bodyfile="src/Parametres.h" bodystart="73" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1ac3a815adee9462a0763beccf3d58e2b9" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -252,14 +252,13 @@
         <name>latitudeMoyenneBV</name>
         <qualifiedname>ParamSol::latitudeMoyenneBV</qualifiedname>
         <briefdescription>
-<para>Latitude moyenne du bassin versant en degrï¿½s et minutes sexagï¿½simales. </para>
         </briefdescription>
         <detaileddescription>
-<para>(ex.: XLA = 4245 pour une latitude de 42o45&apos;). </para>
+<para>Latitude moyenne du bassin versant en degrés et minutes sexagésimales (ex.: XLA = 4245 pour une latitude de 42o45&apos;). </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="153" column="9" bodyfile="src/Parametres.h" bodystart="153" bodyend="-1"/>
+        <location file="src/Parametres.h" line="77" column="9" bodyfile="src/Parametres.h" bodystart="77" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamSol_1a56fd38148b67e9c65eb745c39941700b" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -268,13 +267,13 @@
         <name>correctionTempAltitude</name>
         <qualifiedname>ParamSol::correctionTempAltitude</qualifiedname>
         <briefdescription>
-<para>Correction des tempï¿½ratures en fonction de l&apos;altitude (degC/1 000 m). </para>
+<para>Correction des températures en fonction de l&apos;altitude (degC/1 000 m). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="159" column="9" bodyfile="src/Parametres.h" bodystart="159" bodyend="-1"/>
+        <location file="src/Parametres.h" line="80" column="9" bodyfile="src/Parametres.h" bodystart="80" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -304,7 +303,7 @@
         <label>std::vector&lt; float &gt;</label>
       </node>
     </collaborationgraph>
-    <location file="src/Parametres.h" line="33" column="1" bodyfile="src/Parametres.h" bodystart="35" bodyend="163"/>
+    <location file="src/Parametres.h" line="17" column="1" bodyfile="src/Parametres.h" bodystart="18" bodyend="82"/>
     <listofallmembers>
       <member refid="classParamSol_1af6ed0f913d3f476ebc03b05328f14311" prot="public" virt="non-virtual"><scope>ParamSol</scope><name>coeffCorrectionPluieAnAltitude</name></member>
       <member refid="classParamSol_1a0de47d4ed878d901902bed21c2ccfeda" prot="public" virt="non-virtual"><scope>ParamSol</scope><name>coeffInfiltrationNappe</name></member>

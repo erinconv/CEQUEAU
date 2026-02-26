@@ -237,7 +237,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="271" column="1" bodyfile="src/Parametres.h" bodystart="271" bodyend="271"/>
+        <location file="src/Parametres.h" line="136" column="1" bodyfile="src/Parametres.h" bodystart="136" bodyend="136"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="typedef">
@@ -252,7 +252,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="369" column="40" bodyfile="src/Parametres.h" bodystart="369" bodyend="-1"/>
+        <location file="src/Parametres.h" line="185" column="40" bodyfile="src/Parametres.h" bodystart="185" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>

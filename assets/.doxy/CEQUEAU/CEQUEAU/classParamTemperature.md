@@ -37,7 +37,7 @@ _Classe de donnees des parametres qualite relatifs a la temperature de l'eau._
 | Type | Name |
 | ---: | :--- |
 |  float | [**bassol**](#variable-bassol)  <br>_Lame de precipitation totale permettant de detecter les jours de faible rayonnement solaire._  |
-|  float | [**ccanope**](#variable-ccanope)  <br>_couverture du sol par la canopï¿½ de la forï¿½t (entre 0.0 et 1.0)_  |
+|  float | [**ccanope**](#variable-ccanope)  <br>_couverture du sol par la canopé de la forêt (entre 0.0 et 1.0)_  |
 |  float | [**cconve**](#variable-cconve)  <br>_Coefficient convection._  |
 |  float | [**cevapo**](#variable-cevapo)  <br>_Coefficient evaporation._  |
 |  float | [**corsol**](#variable-corsol)  <br>_Correction du rayonnement solaire moyen._  |
@@ -113,7 +113,7 @@ float ParamTemperature::bassol;
 
 ### variable ccanope 
 
-_couverture du sol par la canopï¿½ de la forï¿½t (entre 0.0 et 1.0)_ 
+_couverture du sol par la canopé de la forêt (entre 0.0 et 1.0)_ 
 ```C++
 float ParamTemperature::ccanope;
 ```
@@ -134,10 +134,7 @@ float ParamTemperature::cconve;
 
 
 
-Coefficient permettant d'augmenter ou de diminuer
-
-
-l'importance de la convection dans le bilan d'ï¿½nergie 
+Coefficient permettant d'augmenter ou de diminuer l'importance de la convection dans le bilan d'énergie 
 
 
         
@@ -155,10 +152,7 @@ float ParamTemperature::cevapo;
 
 
 
-Coefficient permettant d'augmenter ou de diminuer
-
-
-l'importance de l'ï¿½vaporation dans le bilan d'ï¿½nergie 
+Coefficient permettant d'augmenter ou de diminuer l'importance de l'évaporation dans le bilan d'énergie 
 
 
         
@@ -176,13 +170,7 @@ float ParamTemperature::corsol;
 
 
 
-Correction du rayonnement solaire moyen (RSM) pour les
-
-
-jours sans pluie (RSM x (1+CORSOL)) et les jours de fortes
-
-
-pluies (RSM x (1-CORSOL)) (entre 0.0 et 1.0). 
+Correction du rayonnement solaire moyen (RSM) pour les jours sans pluie (RSM x (1+CORSOL)) et les jours de fortes pluies (RSM x (1-CORSOL)) (entre 0.0 et 1.0). 
 
 
         
@@ -200,10 +188,7 @@ float ParamTemperature::crayin;
 
 
 
-Coefficient permettant d'augmenter ou de diminuer
-
-
-l'importance du rayonnement infrarouge dans le bilan d'energie. 
+Coefficient permettant d'augmenter ou de diminuer l'importance du rayonnement infrarouge dans le bilan d'energie. 
 
 
         
@@ -221,10 +206,7 @@ float ParamTemperature::crayso;
 
 
 
-Coefficient permettant d'augmenter ou de diminuer
-
-
-l'importance du rayonnement solaire dans le bilan d'energie. 
+Coefficient permettant d'augmenter ou de diminuer l'importance du rayonnement solaire dans le bilan d'energie. 
 
 
         

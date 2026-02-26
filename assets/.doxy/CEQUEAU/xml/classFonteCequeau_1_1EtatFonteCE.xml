@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="115" column="13" bodyfile="src/FonteCequeau.h" bodystart="115" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="58" column="13" bodyfile="src/FonteCequeau.h" bodystart="58" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1EtatFonteCE_1a6700710d477f45d846963dc65e912f96" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="117" column="13" bodyfile="src/FonteCequeau.h" bodystart="117" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="59" column="13" bodyfile="src/FonteCequeau.h" bodystart="59" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1EtatFonteCE_1a06a035ff843355a41408c454ddf00f56" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="119" column="13" bodyfile="src/FonteCequeau.h" bodystart="119" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="60" column="13" bodyfile="src/FonteCequeau.h" bodystart="60" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1EtatFonteCE_1a98b8eef8d95ebaf48eb0e17d38a3fd22" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -57,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="121" column="13" bodyfile="src/FonteCequeau.h" bodystart="121" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="61" column="13" bodyfile="src/FonteCequeau.h" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classFonteCequeau_1_1EtatFonteCE_1a90373ed42f85a661a8358bc35b65202c" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -71,14 +71,14 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/FonteCequeau.h" line="123" column="13" bodyfile="src/FonteCequeau.h" bodystart="123" bodyend="-1"/>
+        <location file="src/FonteCequeau.h" line="62" column="13" bodyfile="src/FonteCequeau.h" bodystart="62" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/FonteCequeau.h" line="109" column="3" bodyfile="src/FonteCequeau.h" bodystart="111" bodyend="125"/>
+    <location file="src/FonteCequeau.h" line="55" column="3" bodyfile="src/FonteCequeau.h" bodystart="56" bodyend="63"/>
     <listofallmembers>
       <member refid="classFonteCequeau_1_1EtatFonteCE_1a90373ed42f85a661a8358bc35b65202c" prot="public" virt="non-virtual"><scope>FonteCequeau::EtatFonteCE</scope><name>eauDisponible</name></member>
       <member refid="classFonteCequeau_1_1EtatFonteCE_1a06a035ff843355a41408c454ddf00f56" prot="public" virt="non-virtual"><scope>FonteCequeau::EtatFonteCE</scope><name>QNUI3_indexMurissementNeige</name></member>

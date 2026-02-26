@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="285" column="7" bodyfile="src/Parametres.h" bodystart="285" bodyend="-1"/>
+        <location file="src/Parametres.h" line="143" column="7" bodyfile="src/Parametres.h" bodystart="143" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classValeurZone_1a75f50001fa0b08c83e336da72c546429" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="287" column="7" bodyfile="src/Parametres.h" bodystart="287" bodyend="-1"/>
+        <location file="src/Parametres.h" line="144" column="7" bodyfile="src/Parametres.h" bodystart="144" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classValeurZone_1abbdcd471cf292e0936de6e88afbf7030" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="289" column="7" bodyfile="src/Parametres.h" bodystart="289" bodyend="-1"/>
+        <location file="src/Parametres.h" line="145" column="7" bodyfile="src/Parametres.h" bodystart="145" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classValeurZone_1ab25f942ca14b7a066a6c3a538eed6532" prot="public" static="no" mutable="no">
         <type>int</type>
@@ -58,7 +58,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="291" column="7" bodyfile="src/Parametres.h" bodystart="291" bodyend="-1"/>
+        <location file="src/Parametres.h" line="146" column="7" bodyfile="src/Parametres.h" bodystart="146" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classValeurZone_1ae98ad0ce724a3df2187f622c58fd68b3" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -72,16 +72,15 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="293" column="9" bodyfile="src/Parametres.h" bodystart="293" bodyend="-1"/>
+        <location file="src/Parametres.h" line="147" column="9" bodyfile="src/Parametres.h" bodystart="147" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
-<para>valeur specifique d&apos;un parametre pour la zone dï¿½finie par</para>
-<para>iMin, iMax, jMin et jMax </para>
+<para>valeur specifique d&apos;un parametre pour la zone définie par iMin, iMax, jMin et jMax </para>
     </detaileddescription>
-    <location file="src/Parametres.h" line="279" column="1" bodyfile="src/Parametres.h" bodystart="281" bodyend="295"/>
+    <location file="src/Parametres.h" line="140" column="1" bodyfile="src/Parametres.h" bodystart="141" bodyend="148"/>
     <listofallmembers>
       <member refid="classValeurZone_1a75f50001fa0b08c83e336da72c546429" prot="public" virt="non-virtual"><scope>ValeurZone</scope><name>iMax</name></member>
       <member refid="classValeurZone_1aae3c07e601b1b8710a8018c3dd3e7bac" prot="public" virt="non-virtual"><scope>ValeurZone</scope><name>iMin</name></member>

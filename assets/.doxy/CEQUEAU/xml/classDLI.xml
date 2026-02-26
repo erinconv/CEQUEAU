@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="73" column="5" bodyfile="src/DLI.h" bodystart="73" bodyend="-1"/>
+        <location file="src/DLI.h" line="37" column="5" bodyfile="src/DLI.h" bodystart="37" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classDLI_1a05375e835fd9ac70d6322f918d2cb9f9" prot="private" static="no" mutable="no">
         <type>class DLI::Params</type>
@@ -31,7 +31,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="95" column="9"/>
+        <location file="src/DLI.h" line="48" column="9"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -47,7 +47,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="19" column="1" bodyfile="src/DLI.cpp" bodystart="9" bodyend="29"/>
+        <location file="src/DLI.h" line="10" column="1" bodyfile="src/DLI.cpp" bodystart="5" bodyend="15"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a619b27a505cc924733c9a7eec4c8855f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -69,7 +69,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="25" column="6" bodyfile="src/DLI.cpp" bodystart="233" bodyend="331"/>
+        <location file="src/DLI.h" line="13" column="6" bodyfile="src/DLI.cpp" bodystart="117" bodyend="166"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1abe60f79002b18d4030621fc9607c0cee" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -91,7 +91,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="31" column="6" bodyfile="src/DLI.cpp" bodystart="337" bodyend="403"/>
+        <location file="src/DLI.h" line="16" column="6" bodyfile="src/DLI.cpp" bodystart="169" bodyend="202"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a49b967897ded200bb9544bb0b4530bef" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -133,7 +133,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="37" column="8" bodyfile="src/DLI.cpp" bodystart="45" bodyend="141"/>
+        <location file="src/DLI.h" line="19" column="8" bodyfile="src/DLI.cpp" bodystart="23" bodyend="71"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a3231ecf0f99b3d322e18e78ce8a47a33" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -151,7 +151,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="43" column="8" bodyfile="src/DLI.cpp" bodystart="145" bodyend="149"/>
+        <location file="src/DLI.h" line="22" column="8" bodyfile="src/DLI.cpp" bodystart="73" bodyend="75"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a05a124f1938bb9ba787f43995d3ec772" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -173,7 +173,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="45" column="8" bodyfile="src/DLI.cpp" bodystart="153" bodyend="157"/>
+        <location file="src/DLI.h" line="23" column="8" bodyfile="src/DLI.cpp" bodystart="77" bodyend="79"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1aa8055c9dbd1ab50c9123bed259c86e13" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -195,7 +195,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="47" column="8" bodyfile="src/DLI.cpp" bodystart="161" bodyend="165"/>
+        <location file="src/DLI.h" line="24" column="8" bodyfile="src/DLI.cpp" bodystart="81" bodyend="83"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a8b8b18d01978b8714e94f72fdadd45c7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -217,7 +217,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="49" column="8" bodyfile="src/DLI.cpp" bodystart="169" bodyend="173"/>
+        <location file="src/DLI.h" line="25" column="8" bodyfile="src/DLI.cpp" bodystart="85" bodyend="87"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1ac18ac1ce8c1ac305eceb81976e0a5ad5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -243,7 +243,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="51" column="8" bodyfile="src/DLI.cpp" bodystart="177" bodyend="181"/>
+        <location file="src/DLI.h" line="26" column="8" bodyfile="src/DLI.cpp" bodystart="89" bodyend="91"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a6eccc57bbd0bf9785e75d8063e59d147" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -269,7 +269,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="53" column="8" bodyfile="src/DLI.cpp" bodystart="185" bodyend="189"/>
+        <location file="src/DLI.h" line="27" column="8" bodyfile="src/DLI.cpp" bodystart="93" bodyend="95"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1a462070e9f5e55ad8a1d22b5b11ccc10c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -295,7 +295,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="55" column="8" bodyfile="src/DLI.cpp" bodystart="193" bodyend="199"/>
+        <location file="src/DLI.h" line="28" column="8" bodyfile="src/DLI.cpp" bodystart="97" bodyend="100"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1aa72f3dddef5b31bb1d3b2a528259fe21" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -321,7 +321,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="57" column="8" bodyfile="src/DLI.cpp" bodystart="203" bodyend="217"/>
+        <location file="src/DLI.h" line="29" column="8" bodyfile="src/DLI.cpp" bodystart="102" bodyend="109"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1ad7c25081fc2b52cb838685ecb713eba5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -347,7 +347,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="59" column="12" bodyfile="src/DLI.cpp" bodystart="221" bodyend="225"/>
+        <location file="src/DLI.h" line="30" column="12" bodyfile="src/DLI.cpp" bodystart="111" bodyend="113"/>
       </memberdef>
       <memberdef kind="function" id="classDLI_1ad4f1cd76cfc3405bfe224ec3d568436b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -361,7 +361,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="65" column="5" bodyfile="src/DLI.cpp" bodystart="35" bodyend="39"/>
+        <location file="src/DLI.h" line="33" column="5" bodyfile="src/DLI.cpp" bodystart="18" bodyend="20"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -392,7 +392,7 @@
         <link refid="classModuleBase"/>
       </node>
     </collaborationgraph>
-    <location file="src/DLI.h" line="13" column="1" bodyfile="src/DLI.h" bodystart="13" bodyend="97"/>
+    <location file="src/DLI.h" line="7" column="1" bodyfile="src/DLI.h" bodystart="7" bodyend="49"/>
     <listofallmembers>
       <member refid="classDLI_1a3231ecf0f99b3d322e18e78ce8a47a33" prot="public" virt="non-virtual"><scope>DLI</scope><name>calculeM1</name></member>
       <member refid="classDLI_1a05a124f1938bb9ba787f43995d3ec772" prot="public" virt="non-virtual"><scope>DLI</scope><name>calculeM2</name></member>

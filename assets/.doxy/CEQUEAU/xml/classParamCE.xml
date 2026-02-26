@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="519" column="9" bodyfile="src/Parametres.h" bodystart="519" bodyend="-1"/>
+        <location file="src/Parametres.h" line="260" column="9" bodyfile="src/Parametres.h" bodystart="260" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a570e876971b43702d5e241b6ad1ea4a5" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -26,13 +26,13 @@
         <name>tauxPotentielFonteForet</name>
         <qualifiedname>ParamCE::tauxPotentielFonteForet</qualifiedname>
         <briefdescription>
-<para>Taux potentiel de fonte en forï¿½t (mm/degC/jour). </para>
+<para>Taux potentiel de fonte en forêt (mm/degC/jour). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="525" column="9" bodyfile="src/Parametres.h" bodystart="525" bodyend="-1"/>
+        <location file="src/Parametres.h" line="263" column="9" bodyfile="src/Parametres.h" bodystart="263" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a817025f6de68f933b5bb017888e45519" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -41,13 +41,13 @@
         <name>tauxPotentielFonteClairiere</name>
         <qualifiedname>ParamCE::tauxPotentielFonteClairiere</qualifiedname>
         <briefdescription>
-<para>Taux potentiel de fonte en clairiï¿½re (mm/degC/jour). </para>
+<para>Taux potentiel de fonte en clairière (mm/degC/jour). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="531" column="9" bodyfile="src/Parametres.h" bodystart="531" bodyend="-1"/>
+        <location file="src/Parametres.h" line="266" column="9" bodyfile="src/Parametres.h" bodystart="266" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a7aafb70108b1b200aa6ebc70e473e47f" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -56,13 +56,13 @@
         <name>seuilTempFonteForet</name>
         <qualifiedname>ParamCE::seuilTempFonteForet</qualifiedname>
         <briefdescription>
-<para>Seuil de tempï¿½rature de fonte en foret (degC). </para>
+<para>Seuil de température de fonte en foret (degC). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="537" column="9" bodyfile="src/Parametres.h" bodystart="537" bodyend="-1"/>
+        <location file="src/Parametres.h" line="269" column="9" bodyfile="src/Parametres.h" bodystart="269" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a7a9354156c404347dd072297253979eb" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -71,13 +71,13 @@
         <name>seuilTempFonteClairiere</name>
         <qualifiedname>ParamCE::seuilTempFonteClairiere</qualifiedname>
         <briefdescription>
-<para>Seuil de tempï¿½rature de fonte en clairiere (degC). </para>
+<para>Seuil de température de fonte en clairiere (degC). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="543" column="9" bodyfile="src/Parametres.h" bodystart="543" bodyend="-1"/>
+        <location file="src/Parametres.h" line="272" column="9" bodyfile="src/Parametres.h" bodystart="272" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a09aa142cabe0952a9ed397a0e8574e14" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -92,7 +92,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="549" column="9" bodyfile="src/Parametres.h" bodystart="549" bodyend="-1"/>
+        <location file="src/Parametres.h" line="275" column="9" bodyfile="src/Parametres.h" bodystart="275" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a158e982d5af5bb71c836f6c67a707b19" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -101,13 +101,13 @@
         <name>coeffInfiltrationNappe</name>
         <qualifiedname>ParamCE::coeffInfiltrationNappe</qualifiedname>
         <briefdescription>
-<para>Coefficient d&apos;infiltration dans le rï¿½servoir NAPPE. </para>
+<para>Coefficient d&apos;infiltration dans le réservoir NAPPE. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="557" column="9" bodyfile="src/Parametres.h" bodystart="557" bodyend="-1"/>
+        <location file="src/Parametres.h" line="279" column="9" bodyfile="src/Parametres.h" bodystart="279" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a81ea276cf23e15b194ff1f9c4ebe75af" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -116,13 +116,13 @@
         <name>coeffVidangeBasseNappe</name>
         <qualifiedname>ParamCE::coeffVidangeBasseNappe</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange basse du rï¿½servoir NAPPE. </para>
+<para>Coefficient de vidange basse du réservoir NAPPE. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="563" column="9" bodyfile="src/Parametres.h" bodystart="563" bodyend="-1"/>
+        <location file="src/Parametres.h" line="282" column="9" bodyfile="src/Parametres.h" bodystart="282" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a2817bac3bc4e16d879cbb69394ccda91" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -131,13 +131,13 @@
         <name>coeffVidangeHauteNappe</name>
         <qualifiedname>ParamCE::coeffVidangeHauteNappe</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange haute du rï¿½servoir NAPPE. </para>
+<para>Coefficient de vidange haute du réservoir NAPPE. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="569" column="9" bodyfile="src/Parametres.h" bodystart="569" bodyend="-1"/>
+        <location file="src/Parametres.h" line="285" column="9" bodyfile="src/Parametres.h" bodystart="285" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a4345bdc83f42072a2841a66336f77ac4" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -146,13 +146,13 @@
         <name>coeffVidangeIntermediaireSol</name>
         <qualifiedname>ParamCE::coeffVidangeIntermediaireSol</qualifiedname>
         <briefdescription>
-<para>Coefficient de vidange intermï¿½diaire du rï¿½servoir SOL. </para>
+<para>Coefficient de vidange intermédiaire du réservoir SOL. </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="575" column="9" bodyfile="src/Parametres.h" bodystart="575" bodyend="-1"/>
+        <location file="src/Parametres.h" line="288" column="9" bodyfile="src/Parametres.h" bodystart="288" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1ae6045c20ec3152cd99f112b3b3791e10" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -161,13 +161,13 @@
         <name>seuilInfiltrationSolVersNappe</name>
         <qualifiedname>ParamCE::seuilInfiltrationSolVersNappe</qualifiedname>
         <briefdescription>
-<para>Seuil d&apos;infiltration du rï¿½servoir SOL vers le rï¿½servoir NAPPE (mm). </para>
+<para>Seuil d&apos;infiltration du réservoir SOL vers le réservoir NAPPE (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="581" column="9" bodyfile="src/Parametres.h" bodystart="581" bodyend="-1"/>
+        <location file="src/Parametres.h" line="291" column="9" bodyfile="src/Parametres.h" bodystart="291" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a0452a28797c8ca45c2dbe91004f56c7a" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -176,13 +176,13 @@
         <name>seuilVidangeIntermediaireSol</name>
         <qualifiedname>ParamCE::seuilVidangeIntermediaireSol</qualifiedname>
         <briefdescription>
-<para>Seuil de vidange intermï¿½diaire du rï¿½servoir SOL (mm). </para>
+<para>Seuil de vidange intermédiaire du réservoir SOL (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="587" column="9" bodyfile="src/Parametres.h" bodystart="587" bodyend="-1"/>
+        <location file="src/Parametres.h" line="294" column="9" bodyfile="src/Parametres.h" bodystart="294" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a1b9cf44812b3cfcca02af693157edefe" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -191,13 +191,13 @@
         <name>seuilVidangeHauteNappe</name>
         <qualifiedname>ParamCE::seuilVidangeHauteNappe</qualifiedname>
         <briefdescription>
-<para>Seuil de vidange supï¿½rieure du rï¿½servoir NAPPE (mm). </para>
+<para>Seuil de vidange supérieure du réservoir NAPPE (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="593" column="9" bodyfile="src/Parametres.h" bodystart="593" bodyend="-1"/>
+        <location file="src/Parametres.h" line="297" column="9" bodyfile="src/Parametres.h" bodystart="297" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1afb16192a4b0d5a79f90953e73a13f2b0" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -206,13 +206,13 @@
         <name>seuilPrelevementEauTauxPotentiel</name>
         <qualifiedname>ParamCE::seuilPrelevementEauTauxPotentiel</qualifiedname>
         <briefdescription>
-<para>Seuil de prï¿½lï¿½vement de l&apos;eau ï¿½ taux potentiel, par ï¿½vapotranspiration (mm). </para>
+<para>Seuil de prélévement de l&apos;eau à taux potentiel, par évapotranspiration (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="599" column="9" bodyfile="src/Parametres.h" bodystart="599" bodyend="-1"/>
+        <location file="src/Parametres.h" line="300" column="9" bodyfile="src/Parametres.h" bodystart="300" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a9f5a1a2e071878c3b37cc5b2da8e1a05" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -221,13 +221,13 @@
         <name>hauteurReservoirSol</name>
         <qualifiedname>ParamCE::hauteurReservoirSol</qualifiedname>
         <briefdescription>
-<para>Hauteur du rï¿½servoir SOL (mm). </para>
+<para>Hauteur du réservoir SOL (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="605" column="9" bodyfile="src/Parametres.h" bodystart="605" bodyend="-1"/>
+        <location file="src/Parametres.h" line="303" column="9" bodyfile="src/Parametres.h" bodystart="303" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a62b58f5d234371e96452ced849af456f" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -236,13 +236,13 @@
         <name>lameEauDebutRuisellement</name>
         <qualifiedname>ParamCE::lameEauDebutRuisellement</qualifiedname>
         <briefdescription>
-<para>Lame d&apos;eau nï¿½cessaire pour que dï¿½bute le ruissellement sur les surfaces impermeables (mm). </para>
+<para>Lame d&apos;eau nécessaire pour que débute le ruissellement sur les surfaces impermeables (mm). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="611" column="9" bodyfile="src/Parametres.h" bodystart="611" bodyend="-1"/>
+        <location file="src/Parametres.h" line="306" column="9" bodyfile="src/Parametres.h" bodystart="306" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a3c8f3eb60cf18a7302ce52c87aede34d" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -251,13 +251,13 @@
         <name>fractionImpermeableCE</name>
         <qualifiedname>ParamCE::fractionImpermeableCE</qualifiedname>
         <briefdescription>
-<para>Fraction de surface impermï¿½able des carreaux entiers (de 0.0 ï¿½ 1.0). </para>
+<para>Fraction de surface imperméable des carreaux entiers (de 0.0 à 1.0). </para>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="617" column="9" bodyfile="src/Parametres.h" bodystart="617" bodyend="-1"/>
+        <location file="src/Parametres.h" line="309" column="9" bodyfile="src/Parametres.h" bodystart="309" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a1325ea81f2a4b5a6eee952f982c3d60e" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -271,7 +271,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="621" column="9" bodyfile="src/Parametres.h" bodystart="621" bodyend="-1"/>
+        <location file="src/Parametres.h" line="311" column="9" bodyfile="src/Parametres.h" bodystart="311" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParamCE_1a5930fe4540e98e97d11cd5d1afab7804" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -285,7 +285,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="625" column="9" bodyfile="src/Parametres.h" bodystart="625" bodyend="-1"/>
+        <location file="src/Parametres.h" line="313" column="9" bodyfile="src/Parametres.h" bodystart="313" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -301,17 +301,16 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Parametres.h" line="511" column="3" bodyfile="src/Parametres.cpp" bodystart="491" bodyend="516"/>
+        <location file="src/Parametres.h" line="256" column="3" bodyfile="src/Parametres.cpp" bodystart="491" bodyend="516"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
 <para><ref refid="classParametres" kindref="compound">Parametres</ref> spatialisables. </para>
     </briefdescription>
     <detaileddescription>
-<para><ref refid="classParametres" kindref="compound">Parametres</ref> obligatoires dont la valeur peut etre modifiee</para>
-<para>pour chaque carreau entier a l&apos;aide de vecteurs facultatifs. </para>
+<para><ref refid="classParametres" kindref="compound">Parametres</ref> obligatoires dont la valeur peut etre modifiee pour chaque carreau entier a l&apos;aide de vecteurs facultatifs. </para>
     </detaileddescription>
-    <location file="src/Parametres.h" line="507" column="1" bodyfile="src/Parametres.h" bodystart="507" bodyend="627"/>
+    <location file="src/Parametres.h" line="254" column="1" bodyfile="src/Parametres.h" bodystart="254" bodyend="314"/>
     <listofallmembers>
       <member refid="classParamCE_1a5930fe4540e98e97d11cd5d1afab7804" prot="public" virt="non-virtual"><scope>ParamCE</scope><name>coeffEmmagasinement</name></member>
       <member refid="classParamCE_1a158e982d5af5bb71c836f6c67a707b19" prot="public" virt="non-virtual"><scope>ParamCE</scope><name>coeffInfiltrationNappe</name></member>

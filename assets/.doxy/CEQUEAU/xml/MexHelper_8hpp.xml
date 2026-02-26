@@ -190,7 +190,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/MexHelper.hpp" line="25" column="20" bodyfile="src/MexHelper.hpp" bodystart="25" bodyend="-1"/>
+        <location file="src/MexHelper.hpp" line="13" column="20" bodyfile="src/MexHelper.hpp" bodystart="13" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>

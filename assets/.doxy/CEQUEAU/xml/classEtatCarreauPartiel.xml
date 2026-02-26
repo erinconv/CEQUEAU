@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="104" column="9" bodyfile="src/Simulation.h" bodystart="104" bodyend="-1"/>
+        <location file="src/Simulation.h" line="107" column="9" bodyfile="src/Simulation.h" bodystart="107" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartiel_1aa90676656cb583cf91c527489192af68" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -31,7 +31,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="105" column="9" bodyfile="src/Simulation.h" bodystart="105" bodyend="-1"/>
+        <location file="src/Simulation.h" line="108" column="9" bodyfile="src/Simulation.h" bodystart="108" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartiel_1accabd3f44a40b82bf727459a8a85a823" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -45,7 +45,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="106" column="9" bodyfile="src/Simulation.h" bodystart="106" bodyend="-1"/>
+        <location file="src/Simulation.h" line="109" column="9" bodyfile="src/Simulation.h" bodystart="109" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartiel_1aa65bd712fd77021b9e7de1ee56e07785" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -59,7 +59,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="107" column="9" bodyfile="src/Simulation.h" bodystart="107" bodyend="-1"/>
+        <location file="src/Simulation.h" line="110" column="9" bodyfile="src/Simulation.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartiel_1aa4f117b1c690129b97090f3b4c313642" prot="public" static="no" mutable="no">
         <type>class <ref refid="classEtatCarreauPartiel_1_1Qualite" kindref="compound">EtatCarreauPartiel::Qualite</ref></type>
@@ -73,7 +73,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="114" column="11"/>
+        <location file="src/Simulation.h" line="117" column="11"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -95,7 +95,7 @@
         <link refid="classEtatCarreauPartiel_1_1Qualite"/>
       </node>
     </collaborationgraph>
-    <location file="src/Simulation.h" line="101" column="1" bodyfile="src/Simulation.h" bodystart="102" bodyend="115"/>
+    <location file="src/Simulation.h" line="104" column="1" bodyfile="src/Simulation.h" bodystart="105" bodyend="118"/>
     <listofallmembers>
       <member refid="classEtatCarreauPartiel_1aa90676656cb583cf91c527489192af68" prot="public" virt="non-virtual"><scope>EtatCarreauPartiel</scope><name>apport</name></member>
       <member refid="classEtatCarreauPartiel_1aa65bd712fd77021b9e7de1ee56e07785" prot="public" virt="non-virtual"><scope>EtatCarreauPartiel</scope><name>debit</name></member>

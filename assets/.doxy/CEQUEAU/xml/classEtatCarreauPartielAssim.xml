@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="127" column="9" bodyfile="src/Simulation.h" bodystart="127" bodyend="-1"/>
+        <location file="src/Simulation.h" line="130" column="9" bodyfile="src/Simulation.h" bodystart="130" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartielAssim_1aa77dc600495f8a1775ce0d1decde0bae" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="128" column="13" bodyfile="src/Simulation.h" bodystart="128" bodyend="-1"/>
+        <location file="src/Simulation.h" line="131" column="13" bodyfile="src/Simulation.h" bodystart="131" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartielAssim_1aed740ed8f79413c95390b7f07df62d27" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="129" column="9" bodyfile="src/Simulation.h" bodystart="129" bodyend="-1"/>
+        <location file="src/Simulation.h" line="132" column="9" bodyfile="src/Simulation.h" bodystart="132" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartielAssim_1a17075921078e4f3e392c33545e9c09dd" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -58,7 +58,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="130" column="13" bodyfile="src/Simulation.h" bodystart="130" bodyend="-1"/>
+        <location file="src/Simulation.h" line="133" column="13" bodyfile="src/Simulation.h" bodystart="133" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartielAssim_1a1070431f4d6a2ddb5b09b662bca344a0" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -72,7 +72,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="131" column="9" bodyfile="src/Simulation.h" bodystart="131" bodyend="-1"/>
+        <location file="src/Simulation.h" line="134" column="9" bodyfile="src/Simulation.h" bodystart="134" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartielAssim_1a328203fb09770bd26c2b4c99faa5a5a1" prot="public" static="no" mutable="no">
         <type>TypeAssim</type>
@@ -86,7 +86,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="132" column="13" bodyfile="src/Simulation.h" bodystart="132" bodyend="-1"/>
+        <location file="src/Simulation.h" line="135" column="13" bodyfile="src/Simulation.h" bodystart="135" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classEtatCarreauPartielAssim_1ab1a6b8725180721f4658775c7a2d0881" prot="public" static="no" mutable="no">
         <type>float</type>
@@ -100,7 +100,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Simulation.h" line="133" column="9" bodyfile="src/Simulation.h" bodystart="133" bodyend="-1"/>
+        <location file="src/Simulation.h" line="136" column="9" bodyfile="src/Simulation.h" bodystart="136" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -109,7 +109,7 @@
     <detaileddescription>
 <para>Utilise pour assimiler des etats aux carreaux partiels. Une valeur: on substitue cette valeur. Deux valeurs: La premiere est un facteur multiplicatif et la seconde une valeur a additionner. </para>
     </detaileddescription>
-    <location file="src/Simulation.h" line="124" column="1" bodyfile="src/Simulation.h" bodystart="125" bodyend="134"/>
+    <location file="src/Simulation.h" line="127" column="1" bodyfile="src/Simulation.h" bodystart="128" bodyend="137"/>
     <listofallmembers>
       <member refid="classEtatCarreauPartielAssim_1aed740ed8f79413c95390b7f07df62d27" prot="public" virt="non-virtual"><scope>EtatCarreauPartielAssim</scope><name>apport</name></member>
       <member refid="classEtatCarreauPartielAssim_1aa77dc600495f8a1775ce0d1decde0bae" prot="public" virt="non-virtual"><scope>EtatCarreauPartielAssim</scope><name>apportType</name></member>

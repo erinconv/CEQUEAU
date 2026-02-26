@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="83" column="8" bodyfile="src/DLI.h" bodystart="83" bodyend="-1"/>
+        <location file="src/DLI.h" line="42" column="8" bodyfile="src/DLI.h" bodystart="42" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classDLI_1_1Params_1abf2dc4611c586eb6b572a42c78c4c2a1" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="85" column="8" bodyfile="src/DLI.h" bodystart="85" bodyend="-1"/>
+        <location file="src/DLI.h" line="43" column="8" bodyfile="src/DLI.h" bodystart="43" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classDLI_1_1Params_1a4b4b26c6b0c2e523dc1c2400cc4e6b92" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="87" column="8" bodyfile="src/DLI.h" bodystart="87" bodyend="-1"/>
+        <location file="src/DLI.h" line="44" column="8" bodyfile="src/DLI.h" bodystart="44" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classDLI_1_1Params_1a7fd86daa3a33b5ac7cd9c2b16c821bbd" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -57,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="89" column="8" bodyfile="src/DLI.h" bodystart="89" bodyend="-1"/>
+        <location file="src/DLI.h" line="45" column="8" bodyfile="src/DLI.h" bodystart="45" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classDLI_1_1Params_1a6805e0e86defc02fcf254b86d2d75221" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -71,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="91" column="8" bodyfile="src/DLI.h" bodystart="91" bodyend="-1"/>
+        <location file="src/DLI.h" line="46" column="8" bodyfile="src/DLI.h" bodystart="46" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classDLI_1_1Params_1aab4650e3fd81b7f57b36c9527bd6de1c" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -85,14 +85,14 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/DLI.h" line="93" column="8" bodyfile="src/DLI.h" bodystart="93" bodyend="-1"/>
+        <location file="src/DLI.h" line="47" column="8" bodyfile="src/DLI.h" bodystart="47" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/DLI.h" line="79" column="1" bodyfile="src/DLI.h" bodystart="79" bodyend="95"/>
+    <location file="src/DLI.h" line="40" column="1" bodyfile="src/DLI.h" bodystart="40" bodyend="48"/>
     <listofallmembers>
       <member refid="classDLI_1_1Params_1a4b4b26c6b0c2e523dc1c2400cc4e6b92" prot="public" virt="non-virtual"><scope>DLI::Params</scope><name>a</name></member>
       <member refid="classDLI_1_1Params_1a7fd86daa3a33b5ac7cd9c2b16c821bbd" prot="public" virt="non-virtual"><scope>DLI::Params</scope><name>b</name></member>

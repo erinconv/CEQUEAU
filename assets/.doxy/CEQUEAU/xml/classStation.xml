@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="61" column="15" bodyfile="src/Station.h" bodystart="61" bodyend="-1"/>
+        <location file="src/Station.h" line="31" column="15" bodyfile="src/Station.h" bodystart="31" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classStation_1a91800c46a6e8b3611cf005cd6ce17d84" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -32,7 +32,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="65" column="15" bodyfile="src/Station.h" bodystart="65" bodyend="-1"/>
+        <location file="src/Station.h" line="33" column="15" bodyfile="src/Station.h" bodystart="33" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classStation_1a616ce805b4a52aba3af40a18bce91f11" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -47,7 +47,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="69" column="7" bodyfile="src/Station.h" bodystart="69" bodyend="-1"/>
+        <location file="src/Station.h" line="35" column="7" bodyfile="src/Station.h" bodystart="35" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classStation_1a94bf73e3963c41bc2f5241197412044d" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -62,7 +62,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="73" column="7" bodyfile="src/Station.h" bodystart="73" bodyend="-1"/>
+        <location file="src/Station.h" line="37" column="7" bodyfile="src/Station.h" bodystart="37" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classStation_1af39d5f9f41f23d04b1e29e86d1339c7e" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -77,7 +77,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="77" column="7" bodyfile="src/Station.h" bodystart="77" bodyend="-1"/>
+        <location file="src/Station.h" line="39" column="7" bodyfile="src/Station.h" bodystart="39" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classStation_1ac8d4e2e821f082a1194ca36c8e25ca3b" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -92,7 +92,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="81" column="9" bodyfile="src/Station.h" bodystart="81" bodyend="-1"/>
+        <location file="src/Station.h" line="41" column="9" bodyfile="src/Station.h" bodystart="41" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classStation_1a3a87678f53c2b31a8a4cb4d7cd92cb3d" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -107,7 +107,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="85" column="9" bodyfile="src/Station.h" bodystart="85" bodyend="-1"/>
+        <location file="src/Station.h" line="43" column="9" bodyfile="src/Station.h" bodystart="43" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -152,7 +152,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="39" column="3" bodyfile="src/Station.cpp" bodystart="16" bodyend="19"/>
+        <location file="src/Station.h" line="20" column="3" bodyfile="src/Station.cpp" bodystart="16" bodyend="19"/>
       </memberdef>
       <memberdef kind="function" id="classStation_1a00434e79e8ee7f4ebd6d3b631dde5ac0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -166,7 +166,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="41" column="3" bodyfile="src/Station.cpp" bodystart="22" bodyend="24"/>
+        <location file="src/Station.h" line="21" column="3" bodyfile="src/Station.cpp" bodystart="22" bodyend="24"/>
       </memberdef>
       <memberdef kind="function" id="classStation_1a672f2c99e6cb47cfd0e6f695ea0e62f3" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -180,7 +180,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="45" column="7" bodyfile="src/Station.cpp" bodystart="28" bodyend="31"/>
+        <location file="src/Station.h" line="23" column="7" bodyfile="src/Station.cpp" bodystart="28" bodyend="31"/>
       </memberdef>
       <memberdef kind="function" id="classStation_1a2601eb6968e02102c373f6d6f0a5653b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -194,7 +194,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="47" column="7" bodyfile="src/Station.cpp" bodystart="34" bodyend="37"/>
+        <location file="src/Station.h" line="24" column="7" bodyfile="src/Station.cpp" bodystart="34" bodyend="37"/>
       </memberdef>
       <memberdef kind="function" id="classStation_1a2bb67685b39733d7a12b12ba73176097" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>int</type>
@@ -208,7 +208,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="49" column="7" bodyfile="src/Station.cpp" bodystart="40" bodyend="43"/>
+        <location file="src/Station.h" line="25" column="7" bodyfile="src/Station.cpp" bodystart="40" bodyend="43"/>
       </memberdef>
       <memberdef kind="function" id="classStation_1a627e45f92488487c23084b6ac1e2e46c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -222,7 +222,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="51" column="9" bodyfile="src/Station.cpp" bodystart="46" bodyend="49"/>
+        <location file="src/Station.h" line="26" column="9" bodyfile="src/Station.cpp" bodystart="46" bodyend="49"/>
       </memberdef>
       <memberdef kind="function" id="classStation_1a345ac0dcd536aee6375cd737bdea3bdf" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -236,7 +236,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/Station.h" line="53" column="9" bodyfile="src/Station.cpp" bodystart="52" bodyend="55"/>
+        <location file="src/Station.h" line="27" column="9" bodyfile="src/Station.cpp" bodystart="52" bodyend="55"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -244,7 +244,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/Station.h" line="31" column="1" bodyfile="src/Station.h" bodystart="33" bodyend="87"/>
+    <location file="src/Station.h" line="16" column="1" bodyfile="src/Station.h" bodystart="17" bodyend="44"/>
     <listofallmembers>
       <member refid="classStation_1a345ac0dcd536aee6375cd737bdea3bdf" prot="public" virt="non-virtual"><scope>Station</scope><name>altitude</name></member>
       <member refid="classStation_1a3a87678f53c2b31a8a4cb4d7cd92cb3d" prot="private" virt="non-virtual"><scope>Station</scope><name>altitude_</name></member>

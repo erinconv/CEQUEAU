@@ -37,23 +37,23 @@
 | Type | Name |
 | ---: | :--- |
 |  float | [**coeffEmmagasinement**](#variable-coeffemmagasinement)  <br> |
-|  float | [**coeffInfiltrationNappe**](#variable-coeffinfiltrationnappe)  <br>_Coefficient d'infiltration dans le rï¿½servoir NAPPE._  |
-|  float | [**coeffVidangeBasseNappe**](#variable-coeffvidangebassenappe)  <br>_Coefficient de vidange basse du rï¿½servoir NAPPE._  |
-|  float | [**coeffVidangeHauteNappe**](#variable-coeffvidangehautenappe)  <br>_Coefficient de vidange haute du rï¿½servoir NAPPE._  |
-|  float | [**coeffVidangeIntermediaireSol**](#variable-coeffvidangeintermediairesol)  <br>_Coefficient de vidange intermï¿½diaire du rï¿½servoir SOL._  |
+|  float | [**coeffInfiltrationNappe**](#variable-coeffinfiltrationnappe)  <br>_Coefficient d'infiltration dans le réservoir NAPPE._  |
+|  float | [**coeffVidangeBasseNappe**](#variable-coeffvidangebassenappe)  <br>_Coefficient de vidange basse du réservoir NAPPE._  |
+|  float | [**coeffVidangeHauteNappe**](#variable-coeffvidangehautenappe)  <br>_Coefficient de vidange haute du réservoir NAPPE._  |
+|  float | [**coeffVidangeIntermediaireSol**](#variable-coeffvidangeintermediairesol)  <br>_Coefficient de vidange intermédiaire du réservoir SOL._  |
 |  float | [**conductiviteHydraulique**](#variable-conductivitehydraulique)  <br> |
-|  float | [**fractionImpermeableCE**](#variable-fractionimpermeablece)  <br>_Fraction de surface impermï¿½able des carreaux entiers (de 0.0 ï¿½ 1.0)._  |
-|  float | [**hauteurReservoirSol**](#variable-hauteurreservoirsol)  <br>_Hauteur du rï¿½servoir SOL (mm)._  |
-|  float | [**lameEauDebutRuisellement**](#variable-lameeaudebutruisellement)  <br>_Lame d'eau nï¿½cessaire pour que dï¿½bute le ruissellement sur les surfaces impermeables (mm)._  |
-|  float | [**seuilInfiltrationSolVersNappe**](#variable-seuilinfiltrationsolversnappe)  <br>_Seuil d'infiltration du rï¿½servoir SOL vers le rï¿½servoir NAPPE (mm)._  |
-|  float | [**seuilPrelevementEauTauxPotentiel**](#variable-seuilprelevementeautauxpotentiel)  <br>_Seuil de prï¿½lï¿½vement de l'eau ï¿½ taux potentiel, par ï¿½vapotranspiration (mm)._  |
-|  float | [**seuilTempFonteClairiere**](#variable-seuiltempfonteclairiere)  <br>_Seuil de tempï¿½rature de fonte en clairiere (degC)._  |
-|  float | [**seuilTempFonteForet**](#variable-seuiltempfonteforet)  <br>_Seuil de tempï¿½rature de fonte en foret (degC)._  |
+|  float | [**fractionImpermeableCE**](#variable-fractionimpermeablece)  <br>_Fraction de surface imperméable des carreaux entiers (de 0.0 à 1.0)._  |
+|  float | [**hauteurReservoirSol**](#variable-hauteurreservoirsol)  <br>_Hauteur du réservoir SOL (mm)._  |
+|  float | [**lameEauDebutRuisellement**](#variable-lameeaudebutruisellement)  <br>_Lame d'eau nécessaire pour que débute le ruissellement sur les surfaces impermeables (mm)._  |
+|  float | [**seuilInfiltrationSolVersNappe**](#variable-seuilinfiltrationsolversnappe)  <br>_Seuil d'infiltration du réservoir SOL vers le réservoir NAPPE (mm)._  |
+|  float | [**seuilPrelevementEauTauxPotentiel**](#variable-seuilprelevementeautauxpotentiel)  <br>_Seuil de prélévement de l'eau à taux potentiel, par évapotranspiration (mm)._  |
+|  float | [**seuilTempFonteClairiere**](#variable-seuiltempfonteclairiere)  <br>_Seuil de température de fonte en clairiere (degC)._  |
+|  float | [**seuilTempFonteForet**](#variable-seuiltempfonteforet)  <br>_Seuil de température de fonte en foret (degC)._  |
 |  float | [**seuilTranformationPluieNeige**](#variable-seuiltranformationpluieneige)  <br>_Seuil de transformation pluie-neige (degC)._  |
-|  float | [**seuilVidangeHauteNappe**](#variable-seuilvidangehautenappe)  <br>_Seuil de vidange supï¿½rieure du rï¿½servoir NAPPE (mm)._  |
-|  float | [**seuilVidangeIntermediaireSol**](#variable-seuilvidangeintermediairesol)  <br>_Seuil de vidange intermï¿½diaire du rï¿½servoir SOL (mm)._  |
-|  float | [**tauxPotentielFonteClairiere**](#variable-tauxpotentielfonteclairiere)  <br>_Taux potentiel de fonte en clairiï¿½re (mm/degC/jour)._  |
-|  float | [**tauxPotentielFonteForet**](#variable-tauxpotentielfonteforet)  <br>_Taux potentiel de fonte en forï¿½t (mm/degC/jour)._  |
+|  float | [**seuilVidangeHauteNappe**](#variable-seuilvidangehautenappe)  <br>_Seuil de vidange supérieure du réservoir NAPPE (mm)._  |
+|  float | [**seuilVidangeIntermediaireSol**](#variable-seuilvidangeintermediairesol)  <br>_Seuil de vidange intermédiaire du réservoir SOL (mm)._  |
+|  float | [**tauxPotentielFonteClairiere**](#variable-tauxpotentielfonteclairiere)  <br>_Taux potentiel de fonte en clairière (mm/degC/jour)._  |
+|  float | [**tauxPotentielFonteForet**](#variable-tauxpotentielfonteforet)  <br>_Taux potentiel de fonte en forêt (mm/degC/jour)._  |
 |  float | [**tempMurissementNeige**](#variable-tempmurissementneige)  <br>_Temperature du murissement du stock de neige (degC)._  |
 
 
@@ -107,10 +107,7 @@
 ## Detailed Description
 
 
-[**Parametres**](classParametres.md) obligatoires dont la valeur peut etre modifiee
-
-
-pour chaque carreau entier a l'aide de vecteurs facultatifs. 
+[**Parametres**](classParametres.md) obligatoires dont la valeur peut etre modifiee pour chaque carreau entier a l'aide de vecteurs facultatifs. 
 
 
     
@@ -134,7 +131,7 @@ float ParamCE::coeffEmmagasinement;
 
 ### variable coeffInfiltrationNappe 
 
-_Coefficient d'infiltration dans le rï¿½servoir NAPPE._ 
+_Coefficient d'infiltration dans le réservoir NAPPE._ 
 ```C++
 float ParamCE::coeffInfiltrationNappe;
 ```
@@ -148,7 +145,7 @@ float ParamCE::coeffInfiltrationNappe;
 
 ### variable coeffVidangeBasseNappe 
 
-_Coefficient de vidange basse du rï¿½servoir NAPPE._ 
+_Coefficient de vidange basse du réservoir NAPPE._ 
 ```C++
 float ParamCE::coeffVidangeBasseNappe;
 ```
@@ -162,7 +159,7 @@ float ParamCE::coeffVidangeBasseNappe;
 
 ### variable coeffVidangeHauteNappe 
 
-_Coefficient de vidange haute du rï¿½servoir NAPPE._ 
+_Coefficient de vidange haute du réservoir NAPPE._ 
 ```C++
 float ParamCE::coeffVidangeHauteNappe;
 ```
@@ -176,7 +173,7 @@ float ParamCE::coeffVidangeHauteNappe;
 
 ### variable coeffVidangeIntermediaireSol 
 
-_Coefficient de vidange intermï¿½diaire du rï¿½servoir SOL._ 
+_Coefficient de vidange intermédiaire du réservoir SOL._ 
 ```C++
 float ParamCE::coeffVidangeIntermediaireSol;
 ```
@@ -203,7 +200,7 @@ float ParamCE::conductiviteHydraulique;
 
 ### variable fractionImpermeableCE 
 
-_Fraction de surface impermï¿½able des carreaux entiers (de 0.0 ï¿½ 1.0)._ 
+_Fraction de surface imperméable des carreaux entiers (de 0.0 à 1.0)._ 
 ```C++
 float ParamCE::fractionImpermeableCE;
 ```
@@ -217,7 +214,7 @@ float ParamCE::fractionImpermeableCE;
 
 ### variable hauteurReservoirSol 
 
-_Hauteur du rï¿½servoir SOL (mm)._ 
+_Hauteur du réservoir SOL (mm)._ 
 ```C++
 float ParamCE::hauteurReservoirSol;
 ```
@@ -231,7 +228,7 @@ float ParamCE::hauteurReservoirSol;
 
 ### variable lameEauDebutRuisellement 
 
-_Lame d'eau nï¿½cessaire pour que dï¿½bute le ruissellement sur les surfaces impermeables (mm)._ 
+_Lame d'eau nécessaire pour que débute le ruissellement sur les surfaces impermeables (mm)._ 
 ```C++
 float ParamCE::lameEauDebutRuisellement;
 ```
@@ -245,7 +242,7 @@ float ParamCE::lameEauDebutRuisellement;
 
 ### variable seuilInfiltrationSolVersNappe 
 
-_Seuil d'infiltration du rï¿½servoir SOL vers le rï¿½servoir NAPPE (mm)._ 
+_Seuil d'infiltration du réservoir SOL vers le réservoir NAPPE (mm)._ 
 ```C++
 float ParamCE::seuilInfiltrationSolVersNappe;
 ```
@@ -259,7 +256,7 @@ float ParamCE::seuilInfiltrationSolVersNappe;
 
 ### variable seuilPrelevementEauTauxPotentiel 
 
-_Seuil de prï¿½lï¿½vement de l'eau ï¿½ taux potentiel, par ï¿½vapotranspiration (mm)._ 
+_Seuil de prélévement de l'eau à taux potentiel, par évapotranspiration (mm)._ 
 ```C++
 float ParamCE::seuilPrelevementEauTauxPotentiel;
 ```
@@ -273,7 +270,7 @@ float ParamCE::seuilPrelevementEauTauxPotentiel;
 
 ### variable seuilTempFonteClairiere 
 
-_Seuil de tempï¿½rature de fonte en clairiere (degC)._ 
+_Seuil de température de fonte en clairiere (degC)._ 
 ```C++
 float ParamCE::seuilTempFonteClairiere;
 ```
@@ -287,7 +284,7 @@ float ParamCE::seuilTempFonteClairiere;
 
 ### variable seuilTempFonteForet 
 
-_Seuil de tempï¿½rature de fonte en foret (degC)._ 
+_Seuil de température de fonte en foret (degC)._ 
 ```C++
 float ParamCE::seuilTempFonteForet;
 ```
@@ -315,7 +312,7 @@ float ParamCE::seuilTranformationPluieNeige;
 
 ### variable seuilVidangeHauteNappe 
 
-_Seuil de vidange supï¿½rieure du rï¿½servoir NAPPE (mm)._ 
+_Seuil de vidange supérieure du réservoir NAPPE (mm)._ 
 ```C++
 float ParamCE::seuilVidangeHauteNappe;
 ```
@@ -329,7 +326,7 @@ float ParamCE::seuilVidangeHauteNappe;
 
 ### variable seuilVidangeIntermediaireSol 
 
-_Seuil de vidange intermï¿½diaire du rï¿½servoir SOL (mm)._ 
+_Seuil de vidange intermédiaire du réservoir SOL (mm)._ 
 ```C++
 float ParamCE::seuilVidangeIntermediaireSol;
 ```
@@ -343,7 +340,7 @@ float ParamCE::seuilVidangeIntermediaireSol;
 
 ### variable tauxPotentielFonteClairiere 
 
-_Taux potentiel de fonte en clairiï¿½re (mm/degC/jour)._ 
+_Taux potentiel de fonte en clairière (mm/degC/jour)._ 
 ```C++
 float ParamCE::tauxPotentielFonteClairiere;
 ```
@@ -357,7 +354,7 @@ float ParamCE::tauxPotentielFonteClairiere;
 
 ### variable tauxPotentielFonteForet 
 
-_Taux potentiel de fonte en forï¿½t (mm/degC/jour)._ 
+_Taux potentiel de fonte en forêt (mm/degC/jour)._ 
 ```C++
 float ParamCE::tauxPotentielFonteForet;
 ```

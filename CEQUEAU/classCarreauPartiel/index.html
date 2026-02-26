@@ -1216,7 +1216,7 @@
 </tr>
 <tr>
 <td style="text-align: right;">int</td>
-<td style="text-align: left;"><a href="#function-jcarreauentier"><strong>jCarreauEntier</strong></a> () const<br><em>Getter Ordonnï¿½e J du carreau entier auquel appartient le carreau partiel.</em></td>
+<td style="text-align: left;"><a href="#function-jcarreauentier"><strong>jCarreauEntier</strong></a> () const<br><em>Getter Ordonnée J du carreau entier auquel appartient le carreau partiel.</em></td>
 </tr>
 <tr>
 <td style="text-align: right;">int</td>
@@ -1293,8 +1293,7 @@
 </tbody>
 </table>
 <h2 id="detailed-description">Detailed Description<a class="headerlink" href="#detailed-description" title="Permanent link">&para;</a></h2>
-<p>Definition d'un carreau partiel</p>
-<p>selon les donnees physiographiques PREPAREES. </p>
+<p>Definition d'un carreau partiel selon les donnees physiographiques PREPAREES. </p>
 <h2 id="public-functions-documentation">Public Functions Documentation<a class="headerlink" href="#public-functions-documentation" title="Permanent link">&para;</a></h2>
 <h3 id="function-carreaupartiel">function CarreauPartiel<a class="headerlink" href="#function-carreaupartiel" title="Permanent link">&para;</a></h3>
 <p><em>Constructeur.</em> 
@@ -1350,8 +1349,7 @@
 <h3 id="function-calculercorrectiondebit">function calculerCorrectionDebit<a class="headerlink" href="#function-calculercorrectiondebit" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="kt">float</span><span class="w"> </span><span class="n">CarreauPartiel</span><span class="o">::</span><span class="n">calculerCorrectionDebit</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">const</span>
 </code></pre></div>
-<p>Facteur de correction du debit calcule.</p>
-<p>= cumulPctSuperficieCPAmontCorrige / cumulPctSuperficieCPAmont </p>
+<p>Facteur de correction du debit calcule. = cumulPctSuperficieCPAmontCorrige / cumulPctSuperficieCPAmont </p>
 <hr>
 
 <h3 id="function-codecarreaupartiel">function codeCarreauPartiel<a class="headerlink" href="#function-codecarreaupartiel" title="Permanent link">&para;</a></h3>
@@ -1377,29 +1375,25 @@
 <h3 id="function-cumulpctsuperficiecpamont">function cumulPctSuperficieCPAmont<a class="headerlink" href="#function-cumulpctsuperficiecpamont" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">CarreauPartiel</span><span class="o">::</span><span class="n">cumulPctSuperficieCPAmont</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">const</span>
 </code></pre></div>
-<p>Getter Cumul des pourcentages de superficie des carreaux partiels en</p>
-<p>amont, calcule ï¿½ la sortie du carreau partiel considere. </p>
+<p>Getter Cumul des pourcentages de superficie des carreaux partiels en amont, calcule à la sortie du carreau partiel considéré. </p>
 <hr>
 
 <h3 id="function-cumulpctsuperficieforetamont">function cumulPctSuperficieForetAmont<a class="headerlink" href="#function-cumulpctsuperficieforetamont" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">CarreauPartiel</span><span class="o">::</span><span class="n">cumulPctSuperficieForetAmont</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">const</span>
 </code></pre></div>
-<p>Getter Cumul des pourcentages de superficie de foret en amont, calcule</p>
-<p>a la sortie du carreau partiel considere. </p>
+<p>Getter Cumul des pourcentages de superficie de foret en amont, calcule a la sortie du carreau partiel considere. </p>
 <hr>
 
 <h3 id="function-cumulpctsuperficielacsamont">function cumulPctSuperficieLacsAmont<a class="headerlink" href="#function-cumulpctsuperficielacsamont" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">CarreauPartiel</span><span class="o">::</span><span class="n">cumulPctSuperficieLacsAmont</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">const</span>
 </code></pre></div>
-<p>Getter Cumul des pourcentages de superficie des lacs en amont, calcule</p>
-<p>a la sortie du carreau partiel considere. </p>
+<p>Getter Cumul des pourcentages de superficie des lacs en amont, calcule a la sortie du carreau partiel considere. </p>
 <hr>
 
 <h3 id="function-cumulpctsuperficiemaraisamont">function cumulPctSuperficieMaraisAmont<a class="headerlink" href="#function-cumulpctsuperficiemaraisamont" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">CarreauPartiel</span><span class="o">::</span><span class="n">cumulPctSuperficieMaraisAmont</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">const</span>
 </code></pre></div>
-<p>Getter Cumul des pourcentages de superficie des marais en amont, calcule</p>
-<p>a la sortie du carreau partiel considere. </p>
+<p>Getter Cumul des pourcentages de superficie des marais en amont, calcule a la sortie du carreau partiel considere. </p>
 <hr>
 
 <h3 id="function-custom_1">function custom_1<a class="headerlink" href="#function-custom_1" title="Permanent link">&para;</a></h3>
@@ -1457,7 +1451,7 @@
 <hr>
 
 <h3 id="function-jcarreauentier">function jCarreauEntier<a class="headerlink" href="#function-jcarreauentier" title="Permanent link">&para;</a></h3>
-<p><em>Getter Ordonnï¿½e J du carreau entier auquel appartient le carreau partiel.</em> 
+<p><em>Getter Ordonnée J du carreau entier auquel appartient le carreau partiel.</em> 
 <div class="highlight"><pre><span></span><code><a id="__codelineno-20-1" name="__codelineno-20-1" href="#__codelineno-20-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">CarreauPartiel</span><span class="o">::</span><span class="n">jCarreauEntier</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">const</span>
 </code></pre></div></p>
 <hr>

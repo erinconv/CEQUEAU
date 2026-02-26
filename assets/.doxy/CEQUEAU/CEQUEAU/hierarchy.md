@@ -62,7 +62,7 @@ This inheritance list is sorted roughly, but not completely, alphabetically:
 * **class** [**FonteCemaNeige::Params**](classFonteCemaNeige_1_1Params.md) 
 * **class** [**FonteCequeau::EtatFonteCE**](classFonteCequeau_1_1EtatFonteCE.md) 
 * **class** [**FonteCequeau::EtatFonteAssimCE**](classFonteCequeau_1_1EtatFonteAssimCE.md) 
-* **class** [**FonteCequeau::Params**](classFonteCequeau_1_1Params.md) [_**Parametres**_](classParametres.md) _necessaires au module de fonte_ __
+* **class** [**FonteCequeau::Params**](classFonteCequeau_1_1Params.md) [_**Parametres**_](classParametres.md) _necessaires au module de fonte._
 * **class** [**FonteTemplate::EtatFonteAssimCE**](classFonteTemplate_1_1EtatFonteAssimCE.md) 
 * **class** [**FonteTemplate::EtatFonteCE**](classFonteTemplate_1_1EtatFonteCE.md) 
 * **class** [**FonteTemplate::Params**](classFonteTemplate_1_1Params.md) 

@@ -51,6 +51,7 @@ _Classe de donnees de l'etat d'un carreau entier._ [More...](#detailed-descripti
 |  float | [**niveauEauSol**](#variable-niveaueausol)  <br> |
 |  float | [**production**](#variable-production)  <br> |
 |  float | [**recharge**](#variable-recharge)  <br> |
+|  float | [**ruissellement**](#variable-ruissellement)  <br> |
 
 
 
@@ -228,6 +229,19 @@ float EtatCarreauEntier::production;
 
 ```C++
 float EtatCarreauEntier::recharge;
+```
+
+
+
+
+<hr>
+
+
+
+### variable ruissellement 
+
+```C++
+float EtatCarreauEntier::ruissellement;
 ```
 
 

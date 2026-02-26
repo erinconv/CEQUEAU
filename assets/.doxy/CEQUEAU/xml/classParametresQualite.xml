@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="167" column="9" bodyfile="src/ParametresQualite.h" bodystart="167" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="84" column="9" bodyfile="src/ParametresQualite.h" bodystart="84" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametresQualite_1a62746fb48da441e1b6ef0e5c65f8216e" prot="private" static="no" mutable="no">
         <type>float</type>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="169" column="9" bodyfile="src/ParametresQualite.h" bodystart="169" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="85" column="9" bodyfile="src/ParametresQualite.h" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classParametresQualite_1ae4dca7df837cada91d4fa317ffb15540" prot="private" static="no" mutable="no">
         <type><ref refid="classParamTemperature" kindref="compound">ParamTemperature</ref></type>
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="171" column="20" bodyfile="src/ParametresQualite.h" bodystart="171" bodyend="-1"/>
+        <location file="src/ParametresQualite.h" line="86" column="20" bodyfile="src/ParametresQualite.h" bodystart="86" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="public-func">
@@ -61,7 +61,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="129" column="3" bodyfile="src/ParametresQualite.cpp" bodystart="33" bodyend="39"/>
+        <location file="src/ParametresQualite.h" line="65" column="3" bodyfile="src/ParametresQualite.cpp" bodystart="17" bodyend="20"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1aefbccbc9423f4a133c0c1b45ac4242c9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -76,7 +76,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="133" column="3" bodyfile="src/ParametresQualite.cpp" bodystart="47" bodyend="53"/>
+        <location file="src/ParametresQualite.h" line="67" column="3" bodyfile="src/ParametresQualite.cpp" bodystart="24" bodyend="27"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1aa3cb0290d3cf064dac88c561c14b1881" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -91,7 +91,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="139" column="9" bodyfile="src/ParametresQualite.cpp" bodystart="59" bodyend="67"/>
+        <location file="src/ParametresQualite.h" line="70" column="9" bodyfile="src/ParametresQualite.cpp" bodystart="30" bodyend="34"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1a2f2fd1349a31eeb1c1bf8a7662ad20f6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>float</type>
@@ -106,7 +106,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="143" column="9" bodyfile="src/ParametresQualite.cpp" bodystart="73" bodyend="81"/>
+        <location file="src/ParametresQualite.h" line="72" column="9" bodyfile="src/ParametresQualite.cpp" bodystart="37" bodyend="41"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1ac96e52d2bc5a18d7a7b1b97dc7a9effb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>const <ref refid="classParamTemperature" kindref="compound">ParamTemperature</ref> &amp;</type>
@@ -121,7 +121,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="147" column="26" bodyfile="src/ParametresQualite.cpp" bodystart="87" bodyend="97"/>
+        <location file="src/ParametresQualite.h" line="74" column="26" bodyfile="src/ParametresQualite.cpp" bodystart="44" bodyend="49"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1a5fde08c4415fcf746801fac204086b3a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -136,7 +136,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="153" column="8" bodyfile="src/ParametresQualite.cpp" bodystart="103" bodyend="133"/>
+        <location file="src/ParametresQualite.h" line="77" column="8" bodyfile="src/ParametresQualite.cpp" bodystart="52" bodyend="67"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1a955a26bbf94ec57214abe25d5d53ec5b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -155,7 +155,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="157" column="8" bodyfile="src/ParametresQualite.cpp" bodystart="137" bodyend="169"/>
+        <location file="src/ParametresQualite.h" line="79" column="8" bodyfile="src/ParametresQualite.cpp" bodystart="69" bodyend="85"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1aa4a58b9af44b41b240917e7ccf293558" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -177,7 +177,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="159" column="8"/>
+        <location file="src/ParametresQualite.h" line="80" column="8"/>
       </memberdef>
       <memberdef kind="function" id="classParametresQualite_1a70106e47577285d47e74b48d7aecb8e8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -195,7 +195,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/ParametresQualite.h" line="161" column="8" bodyfile="src/ParametresQualite.cpp" bodystart="173" bodyend="213"/>
+        <location file="src/ParametresQualite.h" line="81" column="8" bodyfile="src/ParametresQualite.cpp" bodystart="87" bodyend="107"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
@@ -203,7 +203,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="src/ParametresQualite.h" line="121" column="1" bodyfile="src/ParametresQualite.h" bodystart="123" bodyend="175"/>
+    <location file="src/ParametresQualite.h" line="61" column="1" bodyfile="src/ParametresQualite.h" bodystart="62" bodyend="88"/>
     <listofallmembers>
       <member refid="classParametresQualite_1a2f2fd1349a31eeb1c1bf8a7662ad20f6" prot="public" virt="non-virtual"><scope>ParametresQualite</scope><name>colarg</name></member>
       <member refid="classParametresQualite_1a62746fb48da441e1b6ef0e5c65f8216e" prot="private" virt="non-virtual"><scope>ParametresQualite</scope><name>colarg_</name></member>

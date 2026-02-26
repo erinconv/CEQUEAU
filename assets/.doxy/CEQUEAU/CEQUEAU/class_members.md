@@ -631,6 +631,8 @@
 * **resoudreGoodrich** ([**Barrage**](classBarrage.md))
 * **RUISST** ([**EtatCarreauEntier::Qualite**](classEtatCarreauEntier_1_1Qualite.md))
 * **recharge** ([**EtatCarreauEntier**](classEtatCarreauEntier.md))
+* **ruissellement** ([**EtatCarreauEntier**](classEtatCarreauEntier.md), [**EtatCarreauEntierAssim**](classEtatCarreauEntierAssim.md))
+* **ruissellementType** ([**EtatCarreauEntierAssim**](classEtatCarreauEntierAssim.md))
 * **RKINST** ([**FonteUEB**](classFonteUEB.md))
 * **Ra\_g** ([**FonteUEB::constants**](classFonteUEB_1_1constants.md))
 * **rho\_g** ([**FonteUEB::constants**](classFonteUEB_1_1constants.md), [**FonteUEB::parameters**](classFonteUEB_1_1parameters.md))

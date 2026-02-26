@@ -60,7 +60,7 @@ Here are the classes, structs, unions and interfaces with brief descriptions:
 * **class** [**FonteCequeau**](classFonteCequeau.md) _Definition d'une classe de calcul de la fonte._     
     * **class** [**EtatFonteCE**](classFonteCequeau_1_1EtatFonteCE.md)     
 * **class** [**EtatFonteAssimCE**](classFonteCequeau_1_1EtatFonteAssimCE.md)     
-* **class** [**Params**](classFonteCequeau_1_1Params.md) [_**Parametres**_](classParametres.md) _necessaires au module de fonte_ __    
+* **class** [**Params**](classFonteCequeau_1_1Params.md) [_**Parametres**_](classParametres.md) _necessaires au module de fonte._    
 * **class** [**FonteTemplate**](classFonteTemplate.md)     
 * **class** [**EtatFonteAssimCE**](classFonteTemplate_1_1EtatFonteAssimCE.md)     
 * **class** [**EtatFonteCE**](classFonteTemplate_1_1EtatFonteCE.md) 

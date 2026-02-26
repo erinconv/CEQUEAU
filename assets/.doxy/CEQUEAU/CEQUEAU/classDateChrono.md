@@ -65,12 +65,12 @@
 |  bool | [**operator!=**](#function-operator) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
 |  [**DateChrono**](classDateChrono.md) | [**operator+**](#function-operator_1) (int days) const<br> |
 |  [**DateChrono**](classDateChrono.md) & | [**operator+=**](#function-operator_2) (int days) <br> |
-|  [**DateChrono**](classDateChrono.md) | [**operator-**](#function-operator_3) (int days) const<br> |
-|  bool | [**operator&lt;**](#function-operator_4) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
-|  bool | [**operator&lt;=**](#function-operator_5) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
-|  bool | [**operator==**](#function-operator_6) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
-|  bool | [**operator&gt;**](#function-operator_7) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
-|  bool | [**operator&gt;=**](#function-operator_8) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
+|  [**DateChrono**](classDateChrono.md) | [**operator-**](#function-operator-) (int days) const<br> |
+|  bool | [**operator&lt;**](#function-operator_3) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
+|  bool | [**operator&lt;=**](#function-operator_4) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
+|  bool | [**operator==**](#function-operator_5) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
+|  bool | [**operator&gt;**](#function-operator_6) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
+|  bool | [**operator&gt;=**](#function-operator_7) (const [**DateChrono**](classDateChrono.md) & other) const<br> |
 |  double | [**toMatlabDatenum**](#function-tomatlabdatenum) () const<br> |
 
 

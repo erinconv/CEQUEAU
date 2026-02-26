@@ -36,7 +36,7 @@ _Classe de donnees pour les parametres relatifs a la fonction de transfert._
 
 | Type | Name |
 | ---: | :--- |
-|  float | [**paramCalculCoeffTransfertCP**](#variable-paramcalculcoefftransfertcp)  <br>_Parametre de calcul des coefficients de transfert des carreaux partiels, pour._  |
+|  float | [**paramCalculCoeffTransfertCP**](#variable-paramcalculcoefftransfertcp)  <br> |
 |  float | [**tempsConcentrationBV**](#variable-tempsconcentrationbv)  <br>_Temps de concentration du bassin versant (en pas de temps)._  |
 
 
@@ -89,14 +89,13 @@ _Classe de donnees pour les parametres relatifs a la fonction de transfert._
 
 ### variable paramCalculCoeffTransfertCP 
 
-_Parametre de calcul des coefficients de transfert des carreaux partiels, pour._ 
 ```C++
 float ParamTransfert::paramCalculCoeffTransfertCP;
 ```
 
 
 
-le pas de temps de la simulation. 
+Parametre de calcul des coefficients de transfert des carreaux partiels, pour le pas de temps de la simulation. 
 
 
         

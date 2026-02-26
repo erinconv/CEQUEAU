@@ -325,6 +325,7 @@
     <member refid="classEtatCarreauEntier_1a26c7fe480c7bba48bd7c30e05ca29dd7" kind="variable"><name>niveauEauNappe</name></member>
     <member refid="classEtatCarreauEntier_1aef0abc8c40c60290126b7ba1d3d2e7f2" kind="variable"><name>niveauEauLacsMarais</name></member>
     <member refid="classEtatCarreauEntier_1a6c0df972ede6529e5ccb434a9c87de7e" kind="variable"><name>evapoPotJour</name></member>
+    <member refid="classEtatCarreauEntier_1ab3fda8284727ba6f276a10c0cfdd3faf" kind="variable"><name>ruissellement</name></member>
     <member refid="classEtatCarreauEntier_1aac47dcca35fb897460eb35153ee8e955" kind="variable"><name>production</name></member>
     <member refid="classEtatCarreauEntier_1a9616439e96a61ca2673dbe9c74d771a7" kind="variable"><name>recharge</name></member>
     <member refid="classEtatCarreauEntier_1a779e51e76ae4d35e86edb78b2815b2e9" kind="variable"><name>Qualite</name></member>
@@ -341,6 +342,8 @@
     <member refid="classEtatCarreauEntierAssim_1aaeb0e57a32bd83021bf15c01e5f7fa6c" kind="variable"><name>niveauEauLacsMarais</name></member>
     <member refid="classEtatCarreauEntierAssim_1acbe7574d9d29f89d95fba865b3a965c4" kind="variable"><name>evapoPotJourType</name></member>
     <member refid="classEtatCarreauEntierAssim_1ad1ed4083ba4dd90ee7b60baf4f9b89f0" kind="variable"><name>evapoPotJour</name></member>
+    <member refid="classEtatCarreauEntierAssim_1a6383a1652b04f736750c3941c68e968e" kind="variable"><name>ruissellementType</name></member>
+    <member refid="classEtatCarreauEntierAssim_1a08c1a67d5b5267f0c8be3e6950b4307b" kind="variable"><name>ruissellement</name></member>
     <member refid="classEtatCarreauEntierAssim_1ad17404232d3c207d5b0bb6457bccc84c" kind="variable"><name>productionType</name></member>
     <member refid="classEtatCarreauEntierAssim_1ad5cf05e65eb41aa7c22b0be1f69c9e23" kind="variable"><name>production</name></member>
   </compound>
