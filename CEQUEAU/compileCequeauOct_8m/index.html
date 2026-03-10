@@ -781,6 +781,15 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#variable-opt_flag" class="md-nav__link">
+    <span class="md-ellipsis">
+      variable OPT_FLAG
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#variable-outfile" class="md-nav__link">
     <span class="md-ellipsis">
       variable OUTFILE
@@ -834,6 +843,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#variable-mex_dir" class="md-nav__link">
+    <span class="md-ellipsis">
+      variable mex_dir
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -862,6 +880,15 @@
   <a href="#function-eval" class="md-nav__link">
     <span class="md-ellipsis">
       function eval
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#function-exist" class="md-nav__link">
+    <span class="md-ellipsis">
+      function ~exist
     </span>
   </a>
   
@@ -908,31 +935,35 @@
 </tr>
 <tr>
 <td style="text-align: right;"></td>
-<td style="text-align: left;"><a href="#variable-cxxflags"><strong>CXXFLAGS</strong></a>   = <code>" -std=c++14 "</code><br></td>
+<td style="text-align: left;"><a href="#variable-cxxflags"><strong>CXXFLAGS</strong></a>   = <code>" -std=c++14"</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;">if debug</td>
-<td style="text-align: left;"><a href="#variable-dbg_flag"><strong>DBG_FLAG</strong></a>   = <code>"-g "</code><br></td>
+<td style="text-align: left;"><a href="#variable-dbg_flag"><strong>DBG_FLAG</strong></a>   = <code>" -g"</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;"></td>
-<td style="text-align: left;"><a href="#variable-flags"><strong>FLAGS</strong></a>   = <code>" -DENV\_OCTAVE "</code><br></td>
+<td style="text-align: left;"><a href="#variable-flags"><strong>FLAGS</strong></a>   = <code>strcat(OPT\_FLAG, " -DENV\_OCTAVE")</code><br></td>
+</tr>
+<tr>
+<td style="text-align: right;"></td>
+<td style="text-align: left;"><a href="#variable-opt_flag"><strong>OPT_FLAG</strong></a>   = <code>" -O0"</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;">end</td>
-<td style="text-align: left;"><a href="#variable-outfile"><strong>OUTFILE</strong></a>   = <code>" ../mex/cequeauQuantiteOct"</code><br></td>
+<td style="text-align: left;"><a href="#variable-outfile"><strong>OUTFILE</strong></a>   = <code>fullfile(mex\_dir, 'cequeauQuantiteOct')</code><br></td>
+</tr>
+<tr>
+<td style="text-align: right;">end</td>
+<td style="text-align: left;"><a href="#variable-sources"><strong>SOURCES</strong></a>   = <code>' CequeauQuantiteMex.cpp '</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;"></td>
-<td style="text-align: left;"><a href="#variable-sources"><strong>SOURCES</strong></a>   = <code>[SOURCES 'Barrage.cpp ']</code><br></td>
+<td style="text-align: left;"><a href="#variable-command"><strong>command</strong></a>   = <code>/* multi line expression */</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;"></td>
-<td style="text-align: left;"><a href="#variable-command"><strong>command</strong></a>   = <code>strcat("mkoctfile --mex ", FLAGS, CXXFLAGS, DBG\_FLAG, COMPFLAGS, " -o ", OUTFILE, " ", SOURCES)</code><br></td>
-</tr>
-<tr>
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><a href="#variable-dbg"><strong>dbg</strong></a>   = <code>"\_DBG "</code><br></td>
+<td style="text-align: left;"><a href="#variable-dbg"><strong>dbg</strong></a>   = <code>"\_DBG"</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;">end</td>
@@ -941,6 +972,10 @@
 <tr>
 <td style="text-align: right;"></td>
 <td style="text-align: left;"><a href="#variable-log"><strong>log</strong></a>   = <code>false</code><br></td>
+</tr>
+<tr>
+<td style="text-align: right;"></td>
+<td style="text-align: left;"><a href="#variable-mex_dir"><strong>mex_dir</strong></a>   = <code>fullfile(script\_dir, '..', 'mex')</code><br></td>
 </tr>
 </tbody>
 </table>
@@ -960,6 +995,10 @@
 <tr>
 <td style="text-align: right;"></td>
 <td style="text-align: left;"><a href="#function-eval"><strong>eval</strong></a> (command) <br></td>
+</tr>
+<tr>
+<td style="text-align: right;">if</td>
+<td style="text-align: left;"><a href="#function-exist"><strong>~exist</strong></a> (mex_dir, 'dir') <br></td>
 </tr>
 </tbody>
 </table>
@@ -984,45 +1023,63 @@
 </code></pre></div>
 <hr>
 
+<h3 id="variable-opt_flag">variable OPT_FLAG<a class="headerlink" href="#variable-opt_flag" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="n">OPT_FLAG</span><span class="p">;</span>
+</code></pre></div>
+<hr>
+
 <h3 id="variable-outfile">variable OUTFILE<a class="headerlink" href="#variable-outfile" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="n">OUTFILE</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="n">OUTFILE</span><span class="p">;</span>
 </code></pre></div>
 <hr>
 
 <h3 id="variable-sources">variable SOURCES<a class="headerlink" href="#variable-sources" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="n">SOURCES</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="n">SOURCES</span><span class="p">;</span>
 </code></pre></div>
 <hr>
 
 <h3 id="variable-command">variable command<a class="headerlink" href="#variable-command" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="n">command</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="n">command</span><span class="p">;</span>
 </code></pre></div>
 <hr>
 
 <h3 id="variable-dbg">variable dbg<a class="headerlink" href="#variable-dbg" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="n">dbg</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="n">dbg</span><span class="p">;</span>
 </code></pre></div>
 <hr>
 
 <h3 id="variable-debug">variable debug<a class="headerlink" href="#variable-debug" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="n">end</span><span class="w"> </span><span class="n">debug</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="n">end</span><span class="w"> </span><span class="n">debug</span><span class="p">;</span>
 </code></pre></div>
 <hr>
 
 <h3 id="variable-log">variable log<a class="headerlink" href="#variable-log" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="n">log</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="n">log</span><span class="p">;</span>
+</code></pre></div>
+<hr>
+
+<h3 id="variable-mex_dir">variable mex_dir<a class="headerlink" href="#variable-mex_dir" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="n">mex_dir</span><span class="p">;</span>
 </code></pre></div>
 <hr>
 <h2 id="public-functions-documentation">Public Functions Documentation<a class="headerlink" href="#public-functions-documentation" title="Permanent link">&para;</a></h2>
 <h3 id="function-compilecequeauoct">function compileCequeauOct<a class="headerlink" href="#function-compilecequeauoct" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="n">function</span><span class="w"> </span><span class="n">compileCequeauOct</span><span class="w"> </span><span class="p">()</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a><span class="n">function</span><span class="w"> </span><span class="n">compileCequeauOct</span><span class="w"> </span><span class="p">()</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 
 <h3 id="function-eval">function eval<a class="headerlink" href="#function-eval" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="n">eval</span><span class="w"> </span><span class="p">(</span>
-<a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a><span class="w">    </span><span class="n">command</span>
-<a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a><span class="p">)</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a><span class="n">eval</span><span class="w"> </span><span class="p">(</span>
+<a id="__codelineno-13-2" name="__codelineno-13-2" href="#__codelineno-13-2"></a><span class="w">    </span><span class="n">command</span>
+<a id="__codelineno-13-3" name="__codelineno-13-3" href="#__codelineno-13-3"></a><span class="p">)</span><span class="w"> </span>
+</code></pre></div>
+<hr>
+
+<h3 id="function-exist">function ~exist<a class="headerlink" href="#function-exist" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a><span class="k">if</span><span class="w"> </span><span class="o">~</span><span class="n">exist</span><span class="w"> </span><span class="p">(</span>
+<a id="__codelineno-14-2" name="__codelineno-14-2" href="#__codelineno-14-2"></a><span class="w">    </span><span class="n">mex_dir</span><span class="p">,</span>
+<a id="__codelineno-14-3" name="__codelineno-14-3" href="#__codelineno-14-3"></a><span class="w">    </span><span class="err">&#39;</span><span class="n">dir</span><span class="err">&#39;</span>
+<a id="__codelineno-14-4" name="__codelineno-14-4" href="#__codelineno-14-4"></a><span class="p">)</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 

@@ -1487,6 +1487,7 @@
     <member refid="CequeauQuantiteMex_8cpp_1a6a215cbfde54f82a3ce599228fc3fce5" kind="function"><name>mexFunction</name></member>
   </compound>
   <compound refid="compileCequeauMat_8m" kind="file"><name>compileCequeauMat.m</name>
+    <member refid="compileCequeauMat_8m_1a198295311d779f2c1bea9490b8ea51a0" kind="variable"><name>mex_dir</name></member>
     <member refid="compileCequeauMat_8m_1a112017a372938a1d17f2a69964d5cfe5" kind="variable"><name>SOURCES</name></member>
     <member refid="compileCequeauMat_8m_1a3da8f16c6fe93b3b56fc83d5ceda9ead" kind="variable"><name>compiler</name></member>
     <member refid="compileCequeauMat_8m_1a0c2861ca1786da5b2c40302c9d1d913d" kind="variable"><name>CXXFLAGS</name></member>
@@ -1497,24 +1498,28 @@
     <member refid="compileCequeauMat_8m_1a132297c6b815811065f837d58c997aaf" kind="variable"><name>dbg</name></member>
     <member refid="compileCequeauMat_8m_1a810948b71082670d5e3c80a5c7dc37a7" kind="variable"><name>OUTFILE</name></member>
     <member refid="compileCequeauMat_8m_1a9e0992eae3950adccaf4847fbff4231d" kind="variable"><name>command</name></member>
-    <member refid="compileCequeauMat_8m_1aba7c9f0e28ec3b3b34720ec4b7ff1983" kind="function"><name>compileCequeauMat</name></member>
+    <member refid="compileCequeauMat_8m_1acd8cdb054003f303cb0279b5cbccf2fa" kind="function"><name>compileCequeauMat</name></member>
+    <member refid="compileCequeauMat_8m_1a413114394bab9da6ecc813c064d906cd" kind="function"><name>~exist</name></member>
     <member refid="compileCequeauMat_8m_1a5c186ad1690fc0e943c1d2d02b54e378" kind="function"><name>strcmp</name></member>
     <member refid="compileCequeauMat_8m_1ad089512e28f3025eaafe0105948f73a7" kind="function"><name>strcmp</name></member>
     <member refid="compileCequeauMat_8m_1a5b71b4c01ab76ead7235d6471e0314bc" kind="function"><name>false</name></member>
     <member refid="compileCequeauMat_8m_1a8fe22a6e9d0e698497a018d24b19f6e7" kind="function"><name>eval</name></member>
   </compound>
   <compound refid="compileCequeauOct_8m" kind="file"><name>compileCequeauOct.m</name>
+    <member refid="compileCequeauOct_8m_1a198295311d779f2c1bea9490b8ea51a0" kind="variable"><name>mex_dir</name></member>
     <member refid="compileCequeauOct_8m_1a112017a372938a1d17f2a69964d5cfe5" kind="variable"><name>SOURCES</name></member>
     <member refid="compileCequeauOct_8m_1a93e4d28bece1e94b46c2216145b0a6b0" kind="variable"><name>CXXFLAGS</name></member>
     <member refid="compileCequeauOct_8m_1ab09a63eb35b270b5cdbead1983ebdccb" kind="variable"><name>log</name></member>
     <member refid="compileCequeauOct_8m_1ad8cde97a833235351874584023c3c1ba" kind="variable"><name>COMPFLAGS</name></member>
     <member refid="compileCequeauOct_8m_1a1524bc007c79587db3cabf19cd0783ec" kind="variable"><name>debug</name></member>
     <member refid="compileCequeauOct_8m_1a1542f00128e2d68a843a41767311d41c" kind="variable"><name>DBG_FLAG</name></member>
+    <member refid="compileCequeauOct_8m_1ae45b34f04ed32bc53db71fc007a6b705" kind="variable"><name>OPT_FLAG</name></member>
     <member refid="compileCequeauOct_8m_1a132297c6b815811065f837d58c997aaf" kind="variable"><name>dbg</name></member>
-    <member refid="compileCequeauOct_8m_1afd2a3e1f988b8f765da51bf29b250ff0" kind="variable"><name>FLAGS</name></member>
     <member refid="compileCequeauOct_8m_1a810948b71082670d5e3c80a5c7dc37a7" kind="variable"><name>OUTFILE</name></member>
+    <member refid="compileCequeauOct_8m_1afd2a3e1f988b8f765da51bf29b250ff0" kind="variable"><name>FLAGS</name></member>
     <member refid="compileCequeauOct_8m_1a9e0992eae3950adccaf4847fbff4231d" kind="variable"><name>command</name></member>
-    <member refid="compileCequeauOct_8m_1aa0443732374a23a7be36670d1d699484" kind="function"><name>compileCequeauOct</name></member>
+    <member refid="compileCequeauOct_8m_1aa51d3554e368222197c76a107f736218" kind="function"><name>compileCequeauOct</name></member>
+    <member refid="compileCequeauOct_8m_1a413114394bab9da6ecc813c064d906cd" kind="function"><name>~exist</name></member>
     <member refid="compileCequeauOct_8m_1a8fe22a6e9d0e698497a018d24b19f6e7" kind="function"><name>eval</name></member>
   </compound>
   <compound refid="compileInterpolationMat_8m" kind="file"><name>compileInterpolationMat.m</name>

@@ -41,10 +41,11 @@
 |  if debug | [**DBG\_FLAG**](#variable-dbg_flag)   = `"-g "`<br> |
 |   | [**LOG\_FLAG**](#variable-log_flag)   = `""`<br> |
 |   | [**OUTFILE**](#variable-outfile)   = `"../mex/cequeauQuantiteMat"`<br> |
-|   | [**SOURCES**](#variable-sources)   = `[SOURCES 'Barrage.cpp ']`<br> |
+|  end source files | [**SOURCES**](#variable-sources)   = `' CequeauQuantiteMex.cpp '`<br> |
 |   | [**command**](#variable-command)   = `strcat("mex -v -largeArrayDims -output ", OUTFILE, DBG\_FLAG, CXXFLAGS, COMPFLAGS, SOURCES)`<br> |
 |   | [**compiler**](#variable-compiler)   = `string(mex.getCompilerConfigurations('c++').Manufacturer)`<br> |
 |   | [**dbg**](#variable-dbg)   = `"\_DBG "`<br> |
+|   | [**mex\_dir**](#variable-mex_dir)   = `fullfile(script\_dir, '..', 'mex')`<br> |
 
 
 
@@ -70,6 +71,7 @@
 | virtual id | [**false**](#function-false) () <br> |
 |  if | [**strcmp**](#function-strcmp) (compiler, 'Microsoft') <br> |
 |  elseif | [**strcmp**](#function-strcmp) (compiler, 'GNU') <br> |
+|  if | [**~exist**](#function-exist) (mex\_dir, 'dir') <br> |
 
 
 
@@ -230,6 +232,19 @@ dbg;
 
 
 <hr>
+
+
+
+### variable mex\_dir 
+
+```Objective-C
+mex_dir;
+```
+
+
+
+
+<hr>
 ## Public Functions Documentation
 
 
@@ -298,6 +313,22 @@ if strcmp (
 elseif strcmp (
     compiler,
     'GNU'
+) 
+```
+
+
+
+
+<hr>
+
+
+
+### function ~exist 
+
+```Objective-C
+if ~exist (
+    mex_dir,
+    'dir'
 ) 
 ```
 

@@ -3,12 +3,12 @@
   <compounddef id="compileCequeauOct_8m" kind="file" language="Objective-C">
     <compoundname>compileCequeauOct.m</compoundname>
     <sectiondef kind="var">
-      <memberdef kind="variable" id="compileCequeauOct_8m_1a112017a372938a1d17f2a69964d5cfe5" prot="public" static="no" mutable="no">
+      <memberdef kind="variable" id="compileCequeauOct_8m_1a198295311d779f2c1bea9490b8ea51a0" prot="public" static="no" mutable="no">
         <type></type>
-        <definition>SOURCES</definition>
+        <definition>mex_dir</definition>
         <argsstring></argsstring>
-        <name>SOURCES</name>
-        <initializer>= [SOURCES &apos;Barrage.cpp &apos;]</initializer>
+        <name>mex_dir</name>
+        <initializer>= fullfile(script_dir, &apos;..&apos;, &apos;mex&apos;)</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
@@ -17,19 +17,33 @@
         </inbodydescription>
         <location file="src/compileCequeauOct.m" line="3" column="5" bodyfile="src/compileCequeauOct.m" bodystart="3" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="compileCequeauOct_8m_1a93e4d28bece1e94b46c2216145b0a6b0" prot="public" static="no" mutable="no">
-        <type></type>
-        <definition>CXXFLAGS</definition>
+      <memberdef kind="variable" id="compileCequeauOct_8m_1a112017a372938a1d17f2a69964d5cfe5" prot="public" static="no" mutable="no">
+        <type>end</type>
+        <definition>SOURCES</definition>
         <argsstring></argsstring>
-        <name>CXXFLAGS</name>
-        <initializer>=&quot; -std=c++14 &quot;</initializer>
+        <name>SOURCES</name>
+        <initializer>= &apos; CequeauQuantiteMex.cpp &apos;</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="60" column="3" bodyfile="src/compileCequeauOct.m" bodystart="60" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="8" column="5" bodyfile="src/compileCequeauOct.m" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="compileCequeauOct_8m_1a93e4d28bece1e94b46c2216145b0a6b0" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>CXXFLAGS</definition>
+        <argsstring></argsstring>
+        <name>CXXFLAGS</name>
+        <initializer>= &quot; -std=c++14&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/compileCequeauOct.m" line="66" column="3" bodyfile="src/compileCequeauOct.m" bodystart="66" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1ab09a63eb35b270b5cdbead1983ebdccb" prot="public" static="no" mutable="no">
         <type></type>
@@ -43,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="63" column="3" bodyfile="src/compileCequeauOct.m" bodystart="63" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="69" column="3" bodyfile="src/compileCequeauOct.m" bodystart="69" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1ad8cde97a833235351874584023c3c1ba" prot="public" static="no" mutable="no">
         <type></type>
@@ -57,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="64" column="3" bodyfile="src/compileCequeauOct.m" bodystart="64" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="70" column="3" bodyfile="src/compileCequeauOct.m" bodystart="70" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1a1524bc007c79587db3cabf19cd0783ec" prot="public" static="no" mutable="no">
         <type>end</type>
@@ -71,84 +85,99 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="71" column="3" bodyfile="src/compileCequeauOct.m" bodystart="71" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="77" column="3" bodyfile="src/compileCequeauOct.m" bodystart="77" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1a1542f00128e2d68a843a41767311d41c" prot="public" static="no" mutable="no">
         <type>if debug</type>
         <definition>else DBG_FLAG</definition>
         <argsstring></argsstring>
         <name>DBG_FLAG</name>
-        <initializer>= &quot;-g &quot;</initializer>
+        <initializer>= &quot; -g&quot;</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="73" column="7" bodyfile="src/compileCequeauOct.m" bodystart="73" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="79" column="7" bodyfile="src/compileCequeauOct.m" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="compileCequeauOct_8m_1ae45b34f04ed32bc53db71fc007a6b705" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>OPT_FLAG</definition>
+        <argsstring></argsstring>
+        <name>OPT_FLAG</name>
+        <initializer>= &quot; -O0&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/compileCequeauOct.m" line="80" column="7" bodyfile="src/compileCequeauOct.m" bodystart="80" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1a132297c6b815811065f837d58c997aaf" prot="public" static="no" mutable="no">
         <type></type>
         <definition>dbg</definition>
         <argsstring></argsstring>
         <name>dbg</name>
-        <initializer>= &quot;_DBG &quot;</initializer>
+        <initializer>= &quot;_DBG&quot;</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="74" column="7" bodyfile="src/compileCequeauOct.m" bodystart="74" bodyend="-1"/>
-      </memberdef>
-      <memberdef kind="variable" id="compileCequeauOct_8m_1afd2a3e1f988b8f765da51bf29b250ff0" prot="public" static="no" mutable="no">
-        <type></type>
-        <definition>FLAGS</definition>
-        <argsstring></argsstring>
-        <name>FLAGS</name>
-        <initializer>= &quot; -DENV_OCTAVE &quot;</initializer>
-        <briefdescription>
-        </briefdescription>
-        <detaileddescription>
-        </detaileddescription>
-        <inbodydescription>
-        </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="75" column="7" bodyfile="src/compileCequeauOct.m" bodystart="75" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="81" column="7" bodyfile="src/compileCequeauOct.m" bodystart="81" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1a810948b71082670d5e3c80a5c7dc37a7" prot="public" static="no" mutable="no">
         <type>end</type>
         <definition>OUTFILE</definition>
         <argsstring></argsstring>
         <name>OUTFILE</name>
-        <initializer>= &quot; ../mex/cequeauQuantiteOct&quot;</initializer>
+        <initializer>= fullfile(mex_dir, &apos;cequeauQuantiteOct&apos;)</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="82" column="3" bodyfile="src/compileCequeauOct.m" bodystart="82" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="88" column="3" bodyfile="src/compileCequeauOct.m" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="compileCequeauOct_8m_1afd2a3e1f988b8f765da51bf29b250ff0" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>FLAGS</definition>
+        <argsstring></argsstring>
+        <name>FLAGS</name>
+        <initializer>= strcat(OPT_FLAG, &quot; -DENV_OCTAVE&quot;)</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/compileCequeauOct.m" line="91" column="3" bodyfile="src/compileCequeauOct.m" bodystart="91" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauOct_8m_1a9e0992eae3950adccaf4847fbff4231d" prot="public" static="no" mutable="no">
         <type></type>
         <definition>command</definition>
         <argsstring></argsstring>
         <name>command</name>
-        <initializer>= strcat(&quot;mkoctfile --mex &quot;, FLAGS, CXXFLAGS, DBG_FLAG, COMPFLAGS, &quot; -o &quot;, OUTFILE, &quot; &quot;, SOURCES)</initializer>
+        <initializer>= sprintf(&quot;mkoctfile --mex%s%s%s%s -o \&quot;%s\&quot; %s&quot;, ...
+                    FLAGS, CXXFLAGS, DBG_FLAG, COMPFLAGS, OUTFILE, SOURCES)</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="87" column="3" bodyfile="src/compileCequeauOct.m" bodystart="87" bodyend="-1"/>
+        <location file="src/compileCequeauOct.m" line="93" column="3" bodyfile="src/compileCequeauOct.m" bodystart="93" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="func">
-      <memberdef kind="function" id="compileCequeauOct_8m_1aa0443732374a23a7be36670d1d699484" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+      <memberdef kind="function" id="compileCequeauOct_8m_1aa51d3554e368222197c76a107f736218" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>function</type>
         <definition>function compileCequeauOct</definition>
-        <argsstring>() SOURCES</argsstring>
+        <argsstring>() script_dir</argsstring>
         <name>compileCequeauOct</name>
         <briefdescription>
         </briefdescription>
@@ -157,6 +186,25 @@
         <inbodydescription>
         </inbodydescription>
         <location file="src/compileCequeauOct.m" line="1" column="10" declfile="src/compileCequeauOct.m" declline="1" declcolumn="10"/>
+      </memberdef>
+      <memberdef kind="function" id="compileCequeauOct_8m_1a413114394bab9da6ecc813c064d906cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>if</type>
+        <definition>if ~exist</definition>
+        <argsstring>(mex_dir, &apos;dir&apos;) mkdir(mex_dir)</argsstring>
+        <name>~exist</name>
+        <param>
+          <type>mex_dir</type>
+        </param>
+        <param>
+          <type>&apos;dir&apos;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/compileCequeauOct.m" line="4" column="8" declfile="src/compileCequeauOct.m" declline="4" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="compileCequeauOct_8m_1a8fe22a6e9d0e698497a018d24b19f6e7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -172,7 +220,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauOct.m" line="89" column="3" declfile="src/compileCequeauOct.m" declline="89" declcolumn="3"/>
+        <location file="src/compileCequeauOct.m" line="96" column="3" declfile="src/compileCequeauOct.m" declline="96" declcolumn="3"/>
       </memberdef>
     </sectiondef>
     <briefdescription>

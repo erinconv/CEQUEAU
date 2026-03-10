@@ -77,6 +77,7 @@
 * **MoyenneMois** ([**Defs.h**](Defs_8h.md), [**ParametresQualite.h**](ParametresQualite_8h.md))
 * **MeteoGrille** ([**DonneesMeteo.h**](DonneesMeteo_8h.md))
 * **MeteoPtr** ([**DonneesMeteo.h**](DonneesMeteo_8h.md))
+* **mex\_dir** ([**compileCequeauMat.m**](compileCequeauMat_8m.md), [**compileCequeauOct.m**](compileCequeauOct_8m.md))
 * **moduleFonte** ([**conversionParametresV2-V4.m**](conversionParametresV2-V4_8m.md))
 * **matError** ([**stdafx.h**](stdafx_8h.md))
 
@@ -92,6 +93,7 @@
 
 * **OFFSET\_DATENUM** ([**DateChrono.cpp**](DateChrono_8cpp.md))
 * **OUTFILE** ([**compileCequeauMat.m**](compileCequeauMat_8m.md), [**compileCequeauOct.m**](compileCequeauOct_8m.md), [**compileInterpolationMat.m**](compileInterpolationMat_8m.md), [**compileInterpolationOct.m**](compileInterpolationOct_8m.md))
+* **OPT\_FLAG** ([**compileCequeauOct.m**](compileCequeauOct_8m.md))
 * **option** ([**conversionParametresV2-V4.m**](conversionParametresV2-V4_8m.md))
 
 

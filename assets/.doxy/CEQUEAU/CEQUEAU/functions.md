@@ -47,5 +47,10 @@
 * **strcmp** ([**compileCequeauMat.m**](compileCequeauMat_8m.md), [**compileInterpolationMat.m**](compileInterpolationMat_8m.md))
 
 
+## ~
+
+* **~exist** ([**compileCequeauMat.m**](compileCequeauMat_8m.md), [**compileCequeauOct.m**](compileCequeauOct_8m.md))
+
+
 
 

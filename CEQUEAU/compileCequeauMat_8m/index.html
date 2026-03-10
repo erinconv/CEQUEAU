@@ -834,6 +834,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#variable-mex_dir" class="md-nav__link">
+    <span class="md-ellipsis">
+      variable mex_dir
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -889,6 +898,15 @@
   <a href="#function-strcmp_1" class="md-nav__link">
     <span class="md-ellipsis">
       function strcmp
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#function-exist" class="md-nav__link">
+    <span class="md-ellipsis">
+      function ~exist
     </span>
   </a>
   
@@ -954,8 +972,8 @@
 <td style="text-align: left;"><a href="#variable-outfile"><strong>OUTFILE</strong></a>   = <code>"../mex/cequeauQuantiteMat"</code><br></td>
 </tr>
 <tr>
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><a href="#variable-sources"><strong>SOURCES</strong></a>   = <code>[SOURCES 'Barrage.cpp ']</code><br></td>
+<td style="text-align: right;">end source files</td>
+<td style="text-align: left;"><a href="#variable-sources"><strong>SOURCES</strong></a>   = <code>' CequeauQuantiteMex.cpp '</code><br></td>
 </tr>
 <tr>
 <td style="text-align: right;"></td>
@@ -968,6 +986,10 @@
 <tr>
 <td style="text-align: right;"></td>
 <td style="text-align: left;"><a href="#variable-dbg"><strong>dbg</strong></a>   = <code>"\_DBG "</code><br></td>
+</tr>
+<tr>
+<td style="text-align: right;"></td>
+<td style="text-align: left;"><a href="#variable-mex_dir"><strong>mex_dir</strong></a>   = <code>fullfile(script\_dir, '..', 'mex')</code><br></td>
 </tr>
 </tbody>
 </table>
@@ -999,6 +1021,10 @@
 <tr>
 <td style="text-align: right;">elseif</td>
 <td style="text-align: left;"><a href="#function-strcmp"><strong>strcmp</strong></a> (compiler, 'GNU') <br></td>
+</tr>
+<tr>
+<td style="text-align: right;">if</td>
+<td style="text-align: left;"><a href="#function-exist"><strong>~exist</strong></a> (mex_dir, 'dir') <br></td>
 </tr>
 </tbody>
 </table>
@@ -1052,37 +1078,50 @@
 <div class="highlight"><pre><span></span><code><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="n">dbg</span><span class="p">;</span>
 </code></pre></div>
 <hr>
+
+<h3 id="variable-mex_dir">variable mex_dir<a class="headerlink" href="#variable-mex_dir" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="n">mex_dir</span><span class="p">;</span>
+</code></pre></div>
+<hr>
 <h2 id="public-functions-documentation">Public Functions Documentation<a class="headerlink" href="#public-functions-documentation" title="Permanent link">&para;</a></h2>
 <h3 id="function-compilecequeaumat">function compileCequeauMat<a class="headerlink" href="#function-compilecequeaumat" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="n">function</span><span class="w"> </span><span class="n">compileCequeauMat</span><span class="w"> </span><span class="p">()</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="n">function</span><span class="w"> </span><span class="n">compileCequeauMat</span><span class="w"> </span><span class="p">()</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 
 <h3 id="function-eval">function eval<a class="headerlink" href="#function-eval" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="n">eval</span><span class="w"> </span><span class="p">(</span>
-<a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a><span class="w">    </span><span class="n">command</span>
-<a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a><span class="p">)</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a><span class="n">eval</span><span class="w"> </span><span class="p">(</span>
+<a id="__codelineno-12-2" name="__codelineno-12-2" href="#__codelineno-12-2"></a><span class="w">    </span><span class="n">command</span>
+<a id="__codelineno-12-3" name="__codelineno-12-3" href="#__codelineno-12-3"></a><span class="p">)</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 
 <h3 id="function-false">function false<a class="headerlink" href="#function-false" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a><span class="n">virtual</span><span class="w"> </span><span class="kt">id</span><span class="w"> </span><span class="nb">false</span><span class="w"> </span><span class="p">()</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a><span class="n">virtual</span><span class="w"> </span><span class="kt">id</span><span class="w"> </span><span class="nb">false</span><span class="w"> </span><span class="p">()</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 
 <h3 id="function-strcmp">function strcmp<a class="headerlink" href="#function-strcmp" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a><span class="k">if</span><span class="w"> </span><span class="n">strcmp</span><span class="w"> </span><span class="p">(</span>
-<a id="__codelineno-13-2" name="__codelineno-13-2" href="#__codelineno-13-2"></a><span class="w">    </span><span class="n">compiler</span><span class="p">,</span>
-<a id="__codelineno-13-3" name="__codelineno-13-3" href="#__codelineno-13-3"></a><span class="w">    </span><span class="err">&#39;</span><span class="n">Microsoft</span><span class="err">&#39;</span>
-<a id="__codelineno-13-4" name="__codelineno-13-4" href="#__codelineno-13-4"></a><span class="p">)</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a><span class="k">if</span><span class="w"> </span><span class="n">strcmp</span><span class="w"> </span><span class="p">(</span>
+<a id="__codelineno-14-2" name="__codelineno-14-2" href="#__codelineno-14-2"></a><span class="w">    </span><span class="n">compiler</span><span class="p">,</span>
+<a id="__codelineno-14-3" name="__codelineno-14-3" href="#__codelineno-14-3"></a><span class="w">    </span><span class="err">&#39;</span><span class="n">Microsoft</span><span class="err">&#39;</span>
+<a id="__codelineno-14-4" name="__codelineno-14-4" href="#__codelineno-14-4"></a><span class="p">)</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 
 <h3 id="function-strcmp_1">function strcmp<a class="headerlink" href="#function-strcmp_1" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a><span class="n">elseif</span><span class="w"> </span><span class="n">strcmp</span><span class="w"> </span><span class="p">(</span>
-<a id="__codelineno-14-2" name="__codelineno-14-2" href="#__codelineno-14-2"></a><span class="w">    </span><span class="n">compiler</span><span class="p">,</span>
-<a id="__codelineno-14-3" name="__codelineno-14-3" href="#__codelineno-14-3"></a><span class="w">    </span><span class="err">&#39;</span><span class="n">GNU</span><span class="err">&#39;</span>
-<a id="__codelineno-14-4" name="__codelineno-14-4" href="#__codelineno-14-4"></a><span class="p">)</span><span class="w"> </span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-15-1" name="__codelineno-15-1" href="#__codelineno-15-1"></a><span class="n">elseif</span><span class="w"> </span><span class="n">strcmp</span><span class="w"> </span><span class="p">(</span>
+<a id="__codelineno-15-2" name="__codelineno-15-2" href="#__codelineno-15-2"></a><span class="w">    </span><span class="n">compiler</span><span class="p">,</span>
+<a id="__codelineno-15-3" name="__codelineno-15-3" href="#__codelineno-15-3"></a><span class="w">    </span><span class="err">&#39;</span><span class="n">GNU</span><span class="err">&#39;</span>
+<a id="__codelineno-15-4" name="__codelineno-15-4" href="#__codelineno-15-4"></a><span class="p">)</span><span class="w"> </span>
+</code></pre></div>
+<hr>
+
+<h3 id="function-exist">function ~exist<a class="headerlink" href="#function-exist" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-16-1" name="__codelineno-16-1" href="#__codelineno-16-1"></a><span class="k">if</span><span class="w"> </span><span class="o">~</span><span class="n">exist</span><span class="w"> </span><span class="p">(</span>
+<a id="__codelineno-16-2" name="__codelineno-16-2" href="#__codelineno-16-2"></a><span class="w">    </span><span class="n">mex_dir</span><span class="p">,</span>
+<a id="__codelineno-16-3" name="__codelineno-16-3" href="#__codelineno-16-3"></a><span class="w">    </span><span class="err">&#39;</span><span class="n">dir</span><span class="err">&#39;</span>
+<a id="__codelineno-16-4" name="__codelineno-16-4" href="#__codelineno-16-4"></a><span class="p">)</span><span class="w"> </span>
 </code></pre></div>
 <hr>
 

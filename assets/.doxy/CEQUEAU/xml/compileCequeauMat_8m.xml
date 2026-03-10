@@ -3,19 +3,33 @@
   <compounddef id="compileCequeauMat_8m" kind="file" language="Objective-C">
     <compoundname>compileCequeauMat.m</compoundname>
     <sectiondef kind="var">
-      <memberdef kind="variable" id="compileCequeauMat_8m_1a112017a372938a1d17f2a69964d5cfe5" prot="public" static="no" mutable="no">
+      <memberdef kind="variable" id="compileCequeauMat_8m_1a198295311d779f2c1bea9490b8ea51a0" prot="public" static="no" mutable="no">
         <type></type>
-        <definition>SOURCES</definition>
+        <definition>mex_dir</definition>
         <argsstring></argsstring>
-        <name>SOURCES</name>
-        <initializer>= [SOURCES &apos;Barrage.cpp &apos;]</initializer>
+        <name>mex_dir</name>
+        <initializer>= fullfile(script_dir, &apos;..&apos;, &apos;mex&apos;)</initializer>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="4" column="5" bodyfile="src/compileCequeauMat.m" bodystart="4" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="3" column="5" bodyfile="src/compileCequeauMat.m" bodystart="3" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="compileCequeauMat_8m_1a112017a372938a1d17f2a69964d5cfe5" prot="public" static="no" mutable="no">
+        <type>end source files</type>
+        <definition>SOURCES</definition>
+        <argsstring></argsstring>
+        <name>SOURCES</name>
+        <initializer>= &apos; CequeauQuantiteMex.cpp &apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/compileCequeauMat.m" line="9" column="5" bodyfile="src/compileCequeauMat.m" bodystart="9" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a3da8f16c6fe93b3b56fc83d5ceda9ead" prot="public" static="no" mutable="no">
         <type></type>
@@ -29,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="57" column="5" bodyfile="src/compileCequeauMat.m" bodystart="57" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="63" column="5" bodyfile="src/compileCequeauMat.m" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a0c2861ca1786da5b2c40302c9d1d913d" prot="public" static="no" mutable="no">
         <type></type>
@@ -43,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="58" column="5" bodyfile="src/compileCequeauMat.m" bodystart="58" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="64" column="5" bodyfile="src/compileCequeauMat.m" bodystart="64" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1ad8cde97a833235351874584023c3c1ba" prot="public" static="no" mutable="no">
         <type></type>
@@ -57,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="59" column="5" bodyfile="src/compileCequeauMat.m" bodystart="59" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="65" column="5" bodyfile="src/compileCequeauMat.m" bodystart="65" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a1e042b5c7bfd1156b342bcd956960371" prot="public" static="no" mutable="no">
         <type></type>
@@ -71,7 +85,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="63" column="9" bodyfile="src/compileCequeauMat.m" bodystart="63" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="69" column="9" bodyfile="src/compileCequeauMat.m" bodystart="69" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a8421ef7c5b18c1dc14513a04990a19e1" prot="public" static="no" mutable="no">
         <type></type>
@@ -85,7 +99,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="71" column="5" bodyfile="src/compileCequeauMat.m" bodystart="71" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="77" column="5" bodyfile="src/compileCequeauMat.m" bodystart="77" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a1542f00128e2d68a843a41767311d41c" prot="public" static="no" mutable="no">
         <type>if debug</type>
@@ -99,7 +113,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="79" column="9" bodyfile="src/compileCequeauMat.m" bodystart="79" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="85" column="9" bodyfile="src/compileCequeauMat.m" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a132297c6b815811065f837d58c997aaf" prot="public" static="no" mutable="no">
         <type></type>
@@ -113,7 +127,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="80" column="9" bodyfile="src/compileCequeauMat.m" bodystart="80" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="86" column="9" bodyfile="src/compileCequeauMat.m" bodystart="86" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a810948b71082670d5e3c80a5c7dc37a7" prot="public" static="no" mutable="no">
         <type></type>
@@ -127,7 +141,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="89" column="5" bodyfile="src/compileCequeauMat.m" bodystart="89" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="95" column="5" bodyfile="src/compileCequeauMat.m" bodystart="95" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="compileCequeauMat_8m_1a9e0992eae3950adccaf4847fbff4231d" prot="public" static="no" mutable="no">
         <type></type>
@@ -141,14 +155,14 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="92" column="5" bodyfile="src/compileCequeauMat.m" bodystart="92" bodyend="-1"/>
+        <location file="src/compileCequeauMat.m" line="98" column="5" bodyfile="src/compileCequeauMat.m" bodystart="98" bodyend="-1"/>
       </memberdef>
     </sectiondef>
     <sectiondef kind="func">
-      <memberdef kind="function" id="compileCequeauMat_8m_1aba7c9f0e28ec3b3b34720ec4b7ff1983" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+      <memberdef kind="function" id="compileCequeauMat_8m_1acd8cdb054003f303cb0279b5cbccf2fa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>function</type>
         <definition>function compileCequeauMat</definition>
-        <argsstring>() % source files SOURCES</argsstring>
+        <argsstring>() script_dir</argsstring>
         <name>compileCequeauMat</name>
         <briefdescription>
         </briefdescription>
@@ -157,6 +171,25 @@
         <inbodydescription>
         </inbodydescription>
         <location file="src/compileCequeauMat.m" line="1" column="10" declfile="src/compileCequeauMat.m" declline="1" declcolumn="10"/>
+      </memberdef>
+      <memberdef kind="function" id="compileCequeauMat_8m_1a413114394bab9da6ecc813c064d906cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>if</type>
+        <definition>if ~exist</definition>
+        <argsstring>(mex_dir, &apos;dir&apos;) mkdir(mex_dir)</argsstring>
+        <name>~exist</name>
+        <param>
+          <type>mex_dir</type>
+        </param>
+        <param>
+          <type>&apos;dir&apos;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/compileCequeauMat.m" line="4" column="8" declfile="src/compileCequeauMat.m" declline="4" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="compileCequeauMat_8m_1a5c186ad1690fc0e943c1d2d02b54e378" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>if</type>
@@ -175,7 +208,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="61" column="8" declfile="src/compileCequeauMat.m" declline="61" declcolumn="8"/>
+        <location file="src/compileCequeauMat.m" line="67" column="8" declfile="src/compileCequeauMat.m" declline="67" declcolumn="8"/>
       </memberdef>
       <memberdef kind="function" id="compileCequeauMat_8m_1ad089512e28f3025eaafe0105948f73a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>elseif</type>
@@ -194,7 +227,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="64" column="12" declfile="src/compileCequeauMat.m" declline="64" declcolumn="12"/>
+        <location file="src/compileCequeauMat.m" line="70" column="12" declfile="src/compileCequeauMat.m" declline="70" declcolumn="12"/>
       </memberdef>
       <memberdef kind="function" id="compileCequeauMat_8m_1a5b71b4c01ab76ead7235d6471e0314bc" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>id</type>
@@ -207,7 +240,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="67" column="5" declfile="src/compileCequeauMat.m" declline="67" declcolumn="5"/>
+        <location file="src/compileCequeauMat.m" line="73" column="5" declfile="src/compileCequeauMat.m" declline="73" declcolumn="5"/>
       </memberdef>
       <memberdef kind="function" id="compileCequeauMat_8m_1a8fe22a6e9d0e698497a018d24b19f6e7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -223,7 +256,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/compileCequeauMat.m" line="94" column="5" declfile="src/compileCequeauMat.m" declline="94" declcolumn="5"/>
+        <location file="src/compileCequeauMat.m" line="100" column="5" declfile="src/compileCequeauMat.m" declline="100" declcolumn="5"/>
       </memberdef>
     </sectiondef>
     <briefdescription>
