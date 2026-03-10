@@ -15,6 +15,10 @@
         <link rel="canonical" href="https://erinconv.github.io/CEQUEAU/inputs_outputs/">
       
       
+        <link rel="prev" href="../guide/">
+      
+      
+        <link rel="next" href="../octave_notes/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -200,6 +204,30 @@
     
   
   Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../run_model/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  User Guide
 
         </a>
       </li>
@@ -440,6 +468,747 @@
       
   
   
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    User Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            User Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../run_model/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Run model
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Usage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    CEQUEAU MEX Function Inputs and Outputs
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    CEQUEAU MEX Function Inputs and Outputs
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#cequeauquantitemex" class="md-nav__link">
+    <span class="md-ellipsis">
+      CequeauQuantiteMex
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CequeauQuantiteMex">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usage
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inputs-intrants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inputs (Intrants)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Inputs (Intrants)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-execution-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. execution (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-parametres-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. parametres (struct)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. parametres (struct)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parametresoption-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.option (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametressol-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.sol (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametressolinitial-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.solInitial (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametrestransfert-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.transfert (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametresctp-parametreslac-parametressurface" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.ctp, parametres.lac, parametres.surface
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametresfonte-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.fonte (struct)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="parametres.fonte (struct)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parametresfontecequeau-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.fonte.cequeau (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametresevapo-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.evapo (struct)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="parametres.evapo (struct)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parametresevapocequeau-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.evapo.cequeau (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametresqualite-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.qualite (struct)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="parametres.qualite (struct)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parametresqualitecequeau-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.qualite.cequeau (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametresqualitecequeautemperat-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.qualite.cequeau.temperat (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametresdli-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.dli (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parametrespompage-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.pompage (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-bassinversant-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. bassinVersant (struct)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. bassinVersant (struct)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bassinversantcarreauxentiers-struct-array-field" class="md-nav__link">
+    <span class="md-ellipsis">
+      bassinVersant.carreauxEntiers (struct array field)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bassinversantcarreauxpartiels-struct-array-field" class="md-nav__link">
+    <span class="md-ellipsis">
+      bassinVersant.carreauxPartiels (struct array field)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bassinversantbarrage-struct-array-field" class="md-nav__link">
+    <span class="md-ellipsis">
+      bassinVersant.barrage (struct array field)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bassinversantpuits-struct-array-field" class="md-nav__link">
+    <span class="md-ellipsis">
+      bassinVersant.puits (struct array field)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-meteo-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. meteo (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-etatsprecedents-struct-optional" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. etatsPrecedents (struct, Optional)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-assimilations-struct-optional" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. assimilations (struct, Optional)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6. assimilations (struct, Optional)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#assimilation-state-structures-assimilationsquantiteetats-assimilationsqualiteetatscp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Assimilation State Structures (assimilations.quantite.etats*, assimilations.qualite.etatsCP)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-stations-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. stations (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#outputs-extrants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outputs (Extrants)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Outputs (Extrants)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-etatsce-1-x-nbpasdetemps-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. etatsCE [1 x nbPasDeTemps struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-etatscp-1-x-nbpasdetemps-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. etatsCP [1 x nbPasDeTemps struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-etatsfonte-1-x-nbpasdetemps-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. etatsFonte [1 x nbPasDeTemps struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-etatsevapo-1-x-nbpasdetemps-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. etatsEvapo [1 x nbPasDeTemps struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-etatsbarrage-1-x-nbpasdetemps-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. etatsBarrage [1 x nbPasDeTemps struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-pasdetemps-nbpasdetemps-x-1-double" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. pasDeTemps [nbPasDeTemps x 1 double]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-etatsqualitecp-1-x-nbpasdetemps-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. etatsQualiteCP [1 x nbPasDeTemps struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-avantassimilations-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. avantAssimilations* (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cequeauinterpolationmex" class="md-nav__link">
+    <span class="md-ellipsis">
+      CequeauInterpolationMex
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CequeauInterpolationMex">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#usage_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usage
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inputs-intrants_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inputs (Intrants)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Inputs (Intrants)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-execution-struct_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. execution (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-parametres-struct_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. parametres (struct)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. parametres (struct)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parametresinterpolation-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      parametres.interpolation (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-bassinversant-struct_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. bassinVersant (struct)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-stations-1-x-nbstations-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. stations [1 x nbStations struct]
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-meteostations-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. meteoStations (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#outputs-extrants_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outputs (Extrants)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Outputs (Extrants)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-meteointerpolee-struct" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. meteoInterpolee (struct)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../octave_notes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Octave notes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../development/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Purpose
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
   
   
     
@@ -468,10 +1237,10 @@
         
           
         
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
         
           
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
             
   
   
@@ -484,8 +1253,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_2">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             API Documentation
           </label>
@@ -637,10 +1406,10 @@
         
           
         
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
         
           
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
             
   
   
@@ -653,8 +1422,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_3">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             API Reference
           </label>
