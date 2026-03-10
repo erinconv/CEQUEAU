@@ -14,7 +14,7 @@ CEQUEAU is a spatially distributed hydrological model that divides a watershed i
 ## Getting Started
 
 To get started with CEQUEAU:
-
+1. [How to run the model](run_model.md)
 2. [How to obtain the physiographic data](https://pycequeau.readthedocs.io/en/latest/index.html)
 3. [Basic usage guide](guide.md)
 
