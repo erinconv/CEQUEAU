@@ -1,4 +1,10 @@
 function compileCequeauMat()
+    script_dir = fileparts(mfilename('fullpath'));
+    mex_dir = fullfile(script_dir, '..', 'mex');
+    if ~exist(mex_dir, 'dir')
+        mkdir(mex_dir);
+    end
+
     % source files
     SOURCES = ' CequeauQuantiteMex.cpp ';
     SOURCES = [SOURCES 'Barrage.cpp '];
@@ -92,4 +98,5 @@ function compileCequeauMat()
     command = strcat("mex -v -largeArrayDims -output ", OUTFILE, DBG_FLAG, CXXFLAGS, COMPFLAGS, SOURCES);
 
     eval(command);
+    fprintf("Compilation finished succesfully")
 end
