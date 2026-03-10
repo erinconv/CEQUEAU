@@ -1,4 +1,10 @@
 function compileCequeauOct()
+    script_dir = fileparts(mfilename('fullpath'));
+    mex_dir = fullfile(script_dir, '..', 'mex');
+    if ~exist(mex_dir, 'dir')
+        mkdir(mex_dir);
+    end
+
     SOURCES = ' CequeauQuantiteMex.cpp ';
     SOURCES = [SOURCES 'Barrage.cpp '];
     SOURCES = [SOURCES 'BassinVersant.cpp '];
@@ -57,7 +63,7 @@ function compileCequeauOct()
     SOURCES = [SOURCES 'Puits.cpp '];
 
   # --- set c++ version ---
-  CXXFLAGS=" -std=c++14 ";
+  CXXFLAGS = " -std=c++14";
 
   # --- enable/disable logging ---
   log = false;
@@ -70,21 +76,23 @@ function compileCequeauOct()
   # --- enable/disable debugging ---
   debug = false;
   if debug
-      DBG_FLAG = "-g ";
-      dbg = "_DBG ";
-      FLAGS = " -DENV_OCTAVE ";
+      DBG_FLAG = " -g";
+      OPT_FLAG = " -O0";
+      dbg = "_DBG";
   else
-      DBG_FLAG = " ";
-      dbg = " ";
-      FLAGS = " -O2 -DENV_OCTAVE ";
+      DBG_FLAG = "";
+      OPT_FLAG = " -O2";
+      dbg = "";
   end
 
-  OUTFILE = " ../mex/cequeauQuantiteOct";
+  OUTFILE = fullfile(mex_dir, 'cequeauQuantiteOct');
   OUTFILE = strcat(OUTFILE, dbg);
   OUTFILE = char(OUTFILE);
-  FLAGS = " -O2 -DENV_OCTAVE ";
+  FLAGS = strcat(OPT_FLAG, " -DENV_OCTAVE");
 
-  command = strcat("mkoctfile --mex ", FLAGS, CXXFLAGS, DBG_FLAG, COMPFLAGS, " -o ", OUTFILE, " ", SOURCES);
+  command = sprintf("mkoctfile --mex%s%s%s%s -o \"%s\" %s", ...
+                    FLAGS, CXXFLAGS, DBG_FLAG, COMPFLAGS, OUTFILE, SOURCES);
 
   eval(command);
+  fprintf("Compilation finished succesfully")
 end
