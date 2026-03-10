@@ -55,6 +55,12 @@ nav:
     - 'license.md'
     - 'contributing.md'
     - 'code_of_conduct.md'
+  - User Guide:
+    - 'run_model.md'
+    - 'guide.md'
+    - 'inputs_outputs.md'
+    - 'octave_notes.md'
+    - 'development.md'
   - API Documentation:
     - 'api.md'
     - 'api/simulation.md'
